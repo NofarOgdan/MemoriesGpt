@@ -1,0 +1,508 @@
+elliq_text,user_text,group_id,memnet_info_items,valid_memNet_info_items,num_valid_memNet_info_items,labels,scores,gpt_text_response
+How can I help you?,i'm going to be gone down stairs to play a game of cards called bridge this afternoon i'll be leaving in about,291e5133-9616-4cef-b6bb-602cdee3d9a3,"  memory_name entity    value
+1       place   name    cards
+2    activity   type  hobbies
+3    activity   name    cards",['cards'],1,Match,0.9355920553207396,"Information Items:
+memory_name: activity, entity: type, value: game.
+memory_name: activity, entity: name, value: playing cards.
+memory_name: activity, entity: specific, value: bridge.
+memory_name: location, entity: name, value: downstairs.
+memory_name: time, entity: type, value: afternoon."
+How can I help you?,i have to go out to the doctor's appointment today for a while i have a doctor's appointment today,29260d48-9afb-4be6-b76a-8042474ffd3b,"Empty DataFrame
+Columns: [memory_name, entity, value]
+Index: []",[],0,Match,0.9811055064201356,"Information Items:
+memory_name: place, entity: name, value: doctor's appointment.
+memory_name: activity, entity: type, value: medical appointment."
+How can I help you?,the doctor gave me a shot,293e4284-7de2-4830-88c1-a6db26dc51e6,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name    doctor",['doctor'],1,Match,0.7969832420349121,"Information Items:
+memory_name: activity, entity: type, value: medical appointment.
+memory_name: activity, entity: name, value: receiving a shot."
+How can I help you?,elliq i like tacos,2947bc95-c973-4739-9532-32930cad2c21,"  memory_name entity value
+0    favorite   type  dish
+1    favorite   name  taco",['taco'],1,Match,0.9701080918312072,"Information Items:
+memory_name: food, entity: preference, value: tacos."
+How can I help you?,i'm leaving for work,295cbf76-3a54-4b4c-b876-fcbd693c0378,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name      work",['work'],1,Match,0.9840928316116332,"Information Items:
+memory_name: activity, entity: type, value: work.
+memory_name: activity, entity: name, value: leaving for work."
+We were really on a wonderful smiling streak a few days ago. Wanna pick it back up with a session now?,no thanks i'm getting ready to go out for lunch,29948bdb-c149-4db5-adf0-d13064fdc22a,"  memory_name entity  value
+1       place   name  lunch
+2    activity   type   meal
+3    activity   name  lunch",['lunch'],1,Match,0.9941516518592834,"Information Items:
+memory_name: activity, entity: type, value: meal.
+memory_name: activity, entity: name, value: lunch.
+memory_name: activity, entity: status, value: going out."
+Um... Yes?,are cook rice in the microwave,29b7f82b-9685-4827-88e4-6b10f113a9a4,"  memory_name entity     value
+0    activity   type  activity
+1    activity   name   cooking",['cooking'],1,Match,0.7329993844032288,"Information Items:
+memory_name: activity, entity: type, value: cooking.
+memory_name: activity, entity: name, value: cook rice.
+memory_name: object, entity: name, value: microwave."
+How can I help you?,say hello to my friend shannon,29c2303a-a818-4002-8e5b-c7c34549483c,"    memory_name entity   value
+0  relationship   type  friend",['friend'],1,Match,0.6009953022003174,"Information Items:
+memory_name: relationship, entity: type, value: friend.
+memory_name: relationship, entity: name, value: Shannon."
+It’s really a lovely piece. What inspired you to create it?,i like to watch monkeys,29d0f93e-b1d9-4a0e-b6ef-f0b8dc440159,"  memory_name entity        value
+0    activity   type     activity
+1    activity   name  watching_tv",['watching tv'],1,Match,0.9375309944152832,"Information Items:
+memory_name: interest, entity: type, value: animals.
+memory_name: interest, entity: name, value: monkeys."
+"Do you have a specific cooking activity you like to do? You can scroll through the options here. Or, to see the categories again, say, go back.",i love to bake,29d732af-09ba-48c6-b144-463318aceda7,"  memory_name entity    value
+0    activity   type  hobbies
+1    activity   name   baking",['baking'],1,Match,0.9466727375984192,"Information Items:
+memory_name: activity, entity: type, value: cooking.
+memory_name: activity, entity: name, value: baking."
+"I'd love to spend some time together, how about it <say-as interpret-as=""name"">Diane</say-as>?",now i'm cooking supper,29e4dd92-4acd-49e4-a4ca-9a50542c7d87,"  memory_name entity     value
+0    activity   type  activity
+1    activity   name   cooking",['cooking'],1,Match,0.9789388179779052,"Information Items:
+memory_name: activity, entity: type, value: meal preparation.
+memory_name: activity, entity: name, value: cooking supper."
+"I have an idea. <break time=""0.5s""/> wanna challenge yourself with a game of word scramble?",i'm watching tv right now,29f2cdd8-aba7-43f4-b338-cafee0530fec,"  memory_name entity        value
+0    activity   type     activity
+1    activity   name  watching_tv",['watching tv'],1,Match,0.9858376383781432,"Information Items:
+memory_name: activity, entity: name, value: watching tv."
+How can I help you?,i'm going to supper now,2a076102-a886-4736-b56f-1d540c28f49f,"  memory_name entity   value
+1       place   name  dinner
+2    activity   type    meal
+3    activity   name  dinner",['dinner'],1,Match,0.9862934350967408,"Information Items:
+memory_name: activity, entity: type, value: meal.
+memory_name: activity, entity: name, value: supper."
+do you have a moment?,i'm cooking christmas dinner,2a0c2de1-c6cf-448c-9ea6-0e4fe7a13fba,"  memory_name entity     value
+0    activity   type  activity
+1    activity   name   cooking",['cooking'],1,Match,0.9780324697494508,"Information Items:
+memory_name: activity, entity: type, value: meal.
+memory_name: activity, entity: name, value: cooking Christmas dinner."
+Is there anything special planned for today?,yes i have to get my dining room table clear dark today to shop,2a57ca1d-0261-48d3-ab72-2089fee72de7,"Empty DataFrame
+Columns: [memory_name, entity, value]
+Index: []",[],0,Match,0.9909591674804688,"Information Items:
+memory_name: activity, entity: type, value: home maintenance.
+memory_name: activity, entity: name, value: clearing dining room table.
+memory_name: activity, entity: type, value: shopping.
+memory_name: activity, entity: name, value: shopping for dark table."
+"What a fun trip! Now, if we could take anyone in the world along with us for our next trip, who would it be?",i don't know i don't know who i would take maybe i would take my son keith,2a6faa23-6dbe-42cc-ac35-9b57a46caf83,"    memory_name entity value
+0  relationship   type   son",['son'],1,Match,0.7861518263816833,"Information Items:
+memory_name: relationship, entity: type, value: son.
+memory_name: relationship, entity: name, value: Keith."
+How can I help you?,i want to cook cook,2a802a8a-ad00-4feb-a1fb-af342f20debf,"  memory_name entity     value
+0    activity   type  activity
+1    activity   name   cooking",['cooking'],1,Match,0.9746446013450624,"Information Items:
+memory_name: activity, entity: type, value: cooking."
+How can I help you?,in about 10 minutes i'm going up to eat my dinner,2a9de95e-7fe5-456f-bd97-b1bea494a6f5,"  memory_name entity   value
+1    activity   type    meal
+2    activity   name  dinner",['dinner'],1,Match,0.9865503311157228,"Information Items:
+memory_name: activity, entity: type, value: meal.
+memory_name: activity, entity: name, value: dinner.
+memory_name: time, entity: duration, value: 10 minutes."
+"Fantastic, what's on the schedule?",going to lunch,2aa18a88-5fae-4d74-b21b-df914bf5817d,"  memory_name entity  value
+1       place   name  lunch
+2    activity   type   meal
+3    activity   name  lunch",['lunch'],1,Match,0.9688364863395692,"Information Items:
+memory_name: activity, entity: type, value: meal.
+memory_name: activity, entity: name, value: lunch."
+Do you have anything planned for today?,yes i'm going to meet new friends from sample,2ae783c0-1d75-493a-9e1b-1fd9d1d9a727,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name   meeting",['meeting'],1,Match,0.9878391027450562,"Information Items:
+memory_name: activity, entity: type, value: social interaction.
+memory_name: activity, entity: name, value: meeting new friends."
+Elli Q at your service! How can I help?,i want to do some drawing,2b0ba39c-97f1-4f1c-af40-1deb304897e1,"  memory_name entity    value
+0    activity   type  hobbies
+1    activity   name  drawing",['drawing'],1,Match,0.976646602153778,"Information Items:
+memory_name: activity, entity: type, value: creative activity.
+memory_name: activity, entity: name, value: drawing."
+"What was the name of the movie in which Paul Newman played a prisoner?. Cool Hand Luke, Great Escape, or The Rock",i got the movie upstairs going in loop,2b1ca85c-b3c2-4892-bce3-65b3e9562b32,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name     movie",['movie'],1,Match,0.7301812767982483,"Information Items:
+memory_name: movie, entity: actor, value: Paul Newman.
+memory_name: movie, entity: title, value: Cool Hand Luke.
+memory_name: movie, entity: title, value: Great Escape.
+memory_name: movie, entity: title, value: The Rock.
+memory_name: activity, entity: name, value: watching movie."
+"I've got some free time, wanna do something together?",do i got to take the dog out,2b418a86-b384-47a9-86c3-b5925acaab68,"  memory_name  entity value
+1       place  people   dog",['dog'],1,Match,0.9001631736755371,"Information Items:
+memory_name: activity, entity: type, value: pet care.
+memory_name: activity, entity: name, value: taking the dog out."
+How can I help you?,shut off cuz i have to go to a meeting,2b55c5d8-a81f-4eb6-ac59-85439e0eb7bd,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name   meeting",['meeting'],1,Match,0.9182547330856324,"Information Items:
+memory_name: activity, entity: type, value: meeting."
+Are you going to meet someone?,yes my cousin,2b86e954-b966-49e3-8548-a562997c8543,"Empty DataFrame
+Columns: [memory_name, entity, value]
+Index: []",[],0,Match,0.993571400642395,"Information Items:
+memory_name: relationship, entity: type, value: cousin."
+We were really on a wonderful gentle breathing streak a few days ago. Wanna pick it back up with a session now?,well i'm going to lunch now,2ba2dd4e-e713-4405-9fa8-151ff4eaede7,"  memory_name entity  value
+1       place   name  lunch
+2    activity   type   meal
+3    activity   name  lunch",['lunch'],1,Match,0.9463541507720948,"Information Items:
+memory_name: activity, entity: type, value: meal.
+memory_name: activity, entity: name, value: lunch."
+How can I help you?,i have kids,2ba8effc-c400-495a-aae5-43303eb00cc5,"    memory_name entity     value
+0  relationship   type  children",['children'],1,Match,0.8875104188919067,"Information Items:
+memory_name: relationship, entity: type, value: children."
+Do you have any plans for tomorrow?,just going to work,2bdf9f45-31b8-482d-ad6f-17f72996fcda,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name      work",['work'],1,Match,0.9663804769515992,"Information Items:
+memory_name: activity, entity: type, value: work.
+memory_name: activity, entity: name, value: going to work."
+How can I help you?,i'm going to concert nearby you,2bf3a1e6-16c6-4e7b-bf9a-0c9561f57df1,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name   concert",['concert'],1,Match,0.8986203074455261,"Information Items:
+memory_name: activity, entity: type, value: entertainment.
+memory_name: activity, entity: name, value: concert."
+Wanna do something together?,i'm making toast right now,2c396e55-4a55-4ad5-8a85-e527e8568a6f,"  memory_name entity     value
+0    activity   type  activity
+1    activity   name   cooking",['cooking'],1,Match,0.9831019043922424,"Information Items:
+memory_name: activity, entity: type, value: food preparation.
+memory_name: activity, entity: name, value: making toast."
+How can I help you?,going shopping,2c3a0c6d-797d-499b-8df3-1e1e79be1cbb,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name  shopping",['shopping'],1,Match,0.9514448642730712,"Information Items:
+memory_name: activity, entity: type, value: shopping."
+Was today another wonderful day for you?,i went out with my daughter,2c41de46-6210-4935-b581-6d299b42c9c4,"    memory_name  entity     value
+0  relationship    type  daughter
+2         place  people  daughter",['daughter'],1,Match,0.9622595310211182,"Information Items:
+memory_name: relationship, entity: type, value: daughter.
+memory_name: activity, entity: type, value: social activity.
+memory_name: activity, entity: name, value: going out."
+How can I help you?,meet my friend peter,2c4f8d51-7871-44a4-b615-6548b6c37e73,"    memory_name entity     value
+0      activity   type  activity
+1      activity   name   meeting
+2  relationship   type    friend","['meeting', 'friend']",2,Match,0.5061740279197693,"Information Items:
+memory_name: relationship, entity: type, value: friend.
+memory_name: person, entity: name, value: Peter."
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",go to the library,2c66f4eb-9c38-4a42-86c1-d8fb12ecbfaf,"  memory_name entity    value
+1       place   name  library",['library'],1,Match,0.9614114165306092,"Information Items:
+memory_name: activity, entity: type, value: activity.
+memory_name: activity, entity: name, value: going to the library."
+"Oh no, what's wrong?",i go back to work,2ca95454-2742-4969-bc67-2d3c19219d12,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name      work",['work'],1,Match,0.9677674174308776,"Information Items:
+memory_name: activity, entity: type, value: work.
+memory_name: activity, entity: name, value: going back to work."
+Is it a secret rendezvous? Joking. Are you meeting anyone?,am i meeting anyone this afternoon,2cd10413-44d7-447f-91ec-775b5de01314,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name   meeting",['meeting'],1,Match,0.891913115978241,"Information Items:
+memory_name: time, entity: period, value: afternoon.
+memory_name: activity, entity: type, value: meeting.
+memory_name: activity, entity: name, value: meeting anyone."
+I feel like we're getting to know each other better and have a lot in common. Would you agree?,i'm going to work i won't be back till later,2cd493eb-e740-4c3f-9f25-3bb7a2d30d20,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name      work",['work'],1,Match,0.9696748852729796,"Information Items:
+memory_name: activity, entity: type, value: work.
+memory_name: activity, entity: name, value: going to work."
+Is it a secret rendezvous? Joking. Are you meeting anyone?,i'm going to the store,2cf435a9-6277-4f85-9370-2a68d1f9e274,"  memory_name entity            value
+1       place   name  shopping center",['shopping center'],1,Match,0.9766571521759032,"Information Items:
+memory_name: activity, entity: type, value: activity.
+memory_name: activity, entity: name, value: going to the store."
+What do you plan on doing?,doctor's appointment,2d0b61af-e511-4041-84fa-cb8afa2a8550,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name    doctor",['doctor'],1,Match,0.95053893327713,"Information Items:
+memory_name: activity, entity: type, value: appointment.
+memory_name: activity, entity: name, value: doctor's appointment."
+"I've got gentle breathing, and mindfulness. Which one would you like us to do?",none of them could you give me a half hour,2d0f5a04-925d-4340-b920-e021b9666e1a,"  memory_name entity              value
+0    activity   type  physical_activity",['physical activity'],1,Match,0.9244987964630128,"Information Items:
+memory_name: activity, entity: type, value: relaxation.
+memory_name: activity, entity: name, value: gentle breathing.
+memory_name: activity, entity: name, value: mindfulness.
+memory_name: request, entity: type, value: time.
+memory_name: request, entity: duration, value: half hour."
+How can I help you?,i'm going to go into the kitchen and check on lunch i'll be back,2d28314c-273b-4802-8ccb-97a72da3f415,"  memory_name entity  value
+1       place   name  lunch
+2    activity   type   meal
+3    activity   name  lunch",['lunch'],1,Match,0.9751752614974976,"Information Items:
+memory_name: place, entity: name, value: kitchen.
+memory_name: activity, entity: type, value: meal.
+memory_name: activity, entity: name, value: checking on lunch."
+"Another news briefing just came in. I can't promise it'll be good news, but don't shoot the messenger. Shall I play you the headlines?",maybe then i'm going to work,2d2dc76f-e811-475d-ad13-16ff2966d803,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name      work",['work'],1,Match,0.9335586428642272,"Information Items:
+memory_name: activity, entity: name, value: listening to news.
+memory_name: activity, entity: type, value: work."
+"Fantastic, what's on the schedule?",doctors appointments,2d2f4e1c-c016-45db-8533-44e10e65a6a6,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name    doctor",['doctor'],1,Match,0.9592537879943848,"Information Items:
+memory_name: activity, entity: type, value: appointment.
+memory_name: activity, entity: name, value: doctors appointment."
+How can I help you?,i have therapy i got that,2d50ee69-e322-472e-8085-92cf69b1cc43,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name   therapy",['therapy'],1,Match,0.8084459900856018,"Information Items:
+memory_name: activity, entity: type, value: therapy."
+Is now a good time?,at work,2d7bfc09-83ed-4aca-a855-f64dec0f3a0b,"  memory_name entity     value
+0    activity   type  activity
+1    activity   name      work",['work'],1,Match,0.9604347348213196,"Information Items:
+memory_name: activity, entity: name, value: work."
+"So I'm curious, what were you up to <say-as interpret-as=""name"">Alma</say-as>?",all i got a doctor's appointment,2e05e104-5ac0-4625-9c0f-f4cc38523f09,"  memory_name entity     value
+0    activity   type  activity
+1    activity   name   meeting",['meeting'],1,Match,0.845543384552002,"Information Items:
+memory_name: activity, entity: type, value: appointment.
+memory_name: place, entity: name, value: doctor's office."
+How do you feel this morning?,going to work,2e442668-e448-4caa-840c-cc2512302fd3,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name      work",['work'],1,Match,0.8831777572631836,"Information Items:
+memory_name: activity, entity: type, value: work.
+memory_name: activity, entity: name, value: going to work."
+What do you plan on doing?,i have breakfast have them breakfast,2e4ea001-9dd6-4764-bd6c-ba834ada6fcb,"  memory_name entity      value
+1    activity   type       meal
+2    activity   name  breakfast",['breakfast'],1,Match,0.940250039100647,"Information Items:
+memory_name: activity, entity: type, value: meal.
+memory_name: activity, entity: name, value: breakfast."
+"Great, what are your plans?",i have to go to the bird store and pick up some millet for the birds,2e714ae6-881f-4906-a63f-a771a16adeb4,"  memory_name  entity            value
+1       place  people             bird
+2       place    name  shopping center","['bird', 'shopping center']",2,Match,0.9780568480491638,"Information Items:
+memory_name: place, entity: name, value: bird store.
+memory_name: activity, entity: type, value: shopping.
+memory_name: object, entity: name, value: millet.
+memory_name: object, entity: purpose, value: for the birds."
+Do you have any important plans for today?,i'm going to lunch at 11:30,2e7f7757-597a-49c3-b437-5144d8495e66,"  memory_name entity  value
+1       place   name  lunch
+2    activity   type   meal
+3    activity   name  lunch",['lunch'],1,Match,0.9859938621520996,"Information Items:
+memory_name: activity, entity: type, value: meal.
+memory_name: activity, entity: name, value: lunch.
+memory_name: time, entity: hour, value: 11:30."
+"So, I wanna hear all about it. Where were you?",jury duty at the laundry,2eb94ce6-bb4e-426c-8be7-07627e2f2905,"  memory_name entity       value
+1       place   name  laundromat",['laundromat'],1,Match,0.5417909026145935,"Information Items:
+memory_name: activity, entity: type, value: civic duty.
+memory_name: activity, entity: name, value: jury duty.
+memory_name: place, entity: name, value: laundry."
+"So, where did you go?",i went to the store to see if i my antiques,2ec444c4-f8d4-45ea-90d3-33eb40adc6a1,"  memory_name entity            value
+1       place   name  shopping center",['shopping center'],1,Match,0.9612860679626464,"Information Items:
+memory_name: place, entity: name, value: store.
+memory_name: activity, entity: type, value: shopping.
+memory_name: activity, entity: name, value: antiques."
+"How wonderful, what are your plans for today?",going to church here,2ed5bd72-f6d5-4ea8-8762-723123244108,"  memory_name entity   value
+1       place   name  church",['church'],1,Match,0.8767104744911194,"Information Items:
+memory_name: place, entity: name, value: church.
+memory_name: activity, entity: type, value: religious activity."
+Wanna spend some time together?,maybe later i'm watching a basketball game,2eff0245-8172-4297-8d74-d7a3878d97a9,"  memory_name entity        value
+0    activity   type     activity
+1    activity   name  watching_tv",['watching tv'],1,Match,0.9933392405509948,"Information Items:
+memory_name: activity, entity: name, value: watching basketball game."
+How can I help you?,i'm going to visit my son today before days,2f32b486-4f80-48fd-ad7f-00596d30af0c,"    memory_name  entity value
+0  relationship    type   son
+2         place  people   son",['son'],1,Match,0.9393758773803712,"Information Items:
+memory_name: relationship, entity: type, value: son.
+memory_name: activity, entity: type, value: visit."
+How about we hang out for a bit?,not now i'm going to go shopping,2f3761bf-548d-4541-861b-8ceb542c342e,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name  shopping",['shopping'],1,Match,0.995024025440216,"Information Items:
+memory_name: activity, entity: type, value: shopping."
+"So, how did you sleep last night?",i slept good last night but i got it i got to get ready to go to a doctor's appointment,2f376a3b-4be3-4a48-ac20-09e6d3f5b51c,"  memory_name entity           value
+1    activity   type        activity
+2    activity   name  doctor,meeting","['doctor,meeting']",1,Match,0.9809390306472778,"Information Items:
+memory_name: sleep_quality, entity: type, value: good.
+memory_name: activity, entity: type, value: appointment.
+memory_name: place, entity: name, value: doctor's office."
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",i'm probably going to let the cat out of the bag,2f3a629b-faab-4d9f-9c19-44943ec83aa4,"  memory_name  entity value
+1       place  people   cat",['cat'],1,Match,0.6722832322120667,"Information Items:
+memory_name: activity, entity: type, value: expression.
+memory_name: activity, entity: expression, value: let the cat out of the bag."
+Did you do any puzzles in the past week?,i do puzzles every day,2f418b46-7f95-4e6c-8e50-3d6f09eb55e4,"  memory_name entity    value
+0    activity   type  hobbies
+1    activity   name  puzzles",['puzzles'],1,Match,0.9842296242713928,"Information Items:
+memory_name: activity, entity: type, value: mental activity.
+memory_name: activity, entity: name, value: puzzles.
+memory_name: activity, entity: frequency, value: daily."
+Is there anything special planned for today?,i'm cooking a turkey,2f52688d-c86b-4085-8dc2-b742b8f576d8,"  memory_name entity     value
+0    activity   type  activity
+1    activity   name   cooking",['cooking'],1,Match,0.9893285632133484,"Information Items:
+memory_name: activity, entity: type, value: cooking.
+memory_name: activity, entity: name, value: turkey."
+It's absolutely beautiful. What do you think about it?,go to work,2f631733-fd7b-431a-a6b1-dccffdfb9a99,"  memory_name entity     value
+0    activity   type  activity
+1    activity   name      work",['work'],1,Match,0.954977810382843,"Information Items:
+memory_name: activity, entity: type, value: work.
+memory_name: activity, entity: name, value: going to work."
+Do you have any plans for tomorrow?,yes i'm going shopping,2f63bd72-2fc0-40da-87a2-922472c692cf,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name  shopping",['shopping'],1,Match,0.994419276714325,"Information Items:
+memory_name: activity, entity: type, value: shopping."
+How can I help you?,i went for a walk in the park,2f869195-4844-40b8-8f3a-015c5c5c794a,"  memory_name entity              value
+0    activity   type  physical_activity
+1    activity   name            walking",['walking'],1,Match,0.989470362663269,"Information Items:
+memory_name: activity, entity: type, value: physical activity.
+memory_name: activity, entity: name, value: walk.
+memory_name: place, entity: name, value: park."
+How can I help you?,say goodbye to my friend scott,2f9c4307-ef35-440e-b4f5-1bcc8ce9fd92,"    memory_name entity   value
+0  relationship   type  friend",['friend'],1,Match,0.5792612433433533,"Information Items:
+memory_name: relationship, entity: type, value: friend.
+memory_name: relationship, entity: name, value: Scott."
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",going to a play,2fa08dbc-8829-45b3-9069-5373e18c3531,"Empty DataFrame
+Columns: [memory_name, entity, value]
+Index: []",[],0,Match,0.825427770614624,"Information Items:
+memory_name: activity, entity: type, value: entertainment.
+memory_name: activity, entity: name, value: going to a play."
+"Just out of curiosity, are you planning on meeting someone?",yes i'm going to meet my new friends and he touchy,2fb34890-c9f4-4b80-89f0-6562e40eff52,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name   meeting",['meeting'],1,Match,0.9791094064712524,"Information Items:
+memory_name: relationship, entity: type, value: friend.
+memory_name: activity, entity: type, value: socializing.
+memory_name: activity, entity: name, value: meeting new friends."
+"Hiya <say-as interpret-as=""name"">Donna</say-as>! I was taking a quick power nap and recharging. How can I help?",i'm talking to my grandson lorenzo right now to,2fbe3dea-ba05-48f5-b815-058d05413947,"    memory_name entity     value
+0  relationship   type  grandson",['grandson'],1,Match,0.5597686171531677,"Information Items:
+memory_name: relationship, entity: type, value: grandson.
+memory_name: relationship, entity: name, value: Lorenzo.
+memory_name: activity, entity: name, value: talking."
+"What's up <say-as interpret-as=""name"">Beatrice</say-as>?",my grandson said good morning again,2fc530e0-efcb-4950-a4bf-9118ac9e235d,"    memory_name entity     value
+0  relationship   type  grandson",['grandson'],1,Match,0.8578259348869324,"Information Items:
+memory_name: relationship, entity: type, value: grandson."
+"elli cue, at your command. How can I help?",i'm going to the hospital for a few days i'll call you when i get back,301aa738-2b4a-48c4-b2d2-bce3bcb067be,"  memory_name entity     value
+1       place   name  hospital",['hospital'],1,Match,0.9694917798042296,"Information Items:
+memory_name: place, entity: name, value: hospital.
+memory_name: activity, entity: type, value: visit.
+memory_name: duration, entity: length, value: a few days.
+memory_name: communication, entity: method, value: call."
+Are you going on an adventure? Where are you off to?,i'm going to the club house to meet up with salad,301d3ea1-0735-4f08-934c-e97b379c9b34,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name   meeting",['meeting'],1,Match,0.9844957590103148,"Information Items:
+memory_name: place, entity: name, value: club house.
+memory_name: activity, entity: type, value: socializing.
+memory_name: relationship, entity: type, value: friend.
+memory_name: relationship, entity: name, value: salad."
+How can I help you?,i have a sister here,3023d6b0-bb1b-49f4-a9e3-abfb126fbcc2,"    memory_name entity   value
+0  relationship   type  sister",['sister'],1,Match,0.5648462176322937,"Information Items:
+memory_name: relationship, entity: type, value: sister."
+Are you going to meet someone?,no going to go grocery shopping,30265feb-c807-4199-b9b1-fe16fe8a03de,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name  shopping",['shopping'],1,Match,0.994128942489624,"Information Items:
+memory_name: activity, entity: type, value: shopping.
+memory_name: activity, entity: name, value: grocery shopping."
+"Great, what are your plans?",i have a doctor's appointment,305c1aa6-4503-4e00-830b-6d7a9c233f40,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name   meeting",['meeting'],1,Match,0.975599765777588,"Information Items:
+memory_name: activity, entity: type, value: appointment.
+memory_name: activity, entity: name, value: doctor's appointment."
+Wanna do something else instead?,not now i'm going to work,306b2f8c-aac7-4c2d-abec-2cc6d7229829,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name      work",['work'],1,Match,0.9946725964546204,"Information Items:
+memory_name: activity, entity: type, value: work."
+"So, I'm really curious, what was the highlight of your week?",going for a ride,30b6e09b-0586-4534-98c5-e35a966db7b4,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name   driving",['driving'],1,Match,0.9444358944892884,"Information Items:
+memory_name: activity, entity: type, value: transportation.
+memory_name: activity, entity: name, value: going for a ride."
+Having a hobby sounds so fun. Especially since I tend to just sit around all day. How many days a week would you say you get to do scrabble?,i haven't since my husband died so i'd love to play maybe we can try it this afternoon,30bd2822-b172-4e0f-aacb-0bd28003dbf9,"    memory_name entity    value
+0  relationship   type  husband",['husband'],1,Match,0.956770658493042,"Information Items:
+memory_name: hobby, entity: name, value: scrabble.
+memory_name: relationship, entity: type, value: husband.
+memory_name: event, entity: name, value: husband's death.
+memory_name: activity, entity: type, value: leisure.
+memory_name: activity, entity: name, value: playing scrabble.
+memory_name: time, entity: time_of_day, value: afternoon."
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",take a walk,30c119bb-d1a0-4e24-a2dd-6aed3c8792cb,"  memory_name entity    value
+0    activity   type  hobbies
+1    activity   name     walk",['walk'],1,Match,0.9866440892219543,"Information Items:
+memory_name: activity, entity: type, value: physical activity.
+memory_name: activity, entity: name, value: walk."
+How can I help you?,i'm leaving for exercise for the morning i will return for lunch,30d3ba7d-8b03-4ab5-98b5-9ff1f0ed2661,"  memory_name  entity  value
+1       place    name  lunch
+2    activity    type   meal
+3    activity    name  lunch
+4       place  people   Will","['lunch', 'Will']",2,Match,0.9729659557342528,"Information Items:
+memory_name: activity, entity: type, value: exercise.
+memory_name: activity, entity: time, value: morning.
+memory_name: activity, entity: type, value: meal.
+memory_name: activity, entity: name, value: lunch."
+Can’t wait to see you again! Where are you off to?,i'm off to an appointment,30e0d9f0-d416-437f-99d8-bd0d4f211db3,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name   meeting",['meeting'],1,Match,0.9854781627655028,"Information Items:
+memory_name: activity, entity: type, value: appointment."
+"Lovely, what are you up to today?",are going to church,30ec559f-574d-4237-8b2d-4eb6b169a53b,"  memory_name entity   value
+1       place   name  church",['church'],1,Match,0.9162102937698364,"Information Items:
+memory_name: activity, entity: type, value: religious activity.
+memory_name: activity, entity: name, value: going to church."
+What were you up to out there?,i have to go to my daughter's house,30f30ea4-9ef0-416e-8baf-9aea5492eab5,"    memory_name  entity     value
+0  relationship    type  daughter
+2         place  people  daughter",['daughter'],1,Match,0.9672447443008424,"Information Items:
+memory_name: relationship, entity: type, value: daughter.
+memory_name: place, entity: name, value: daughter's house."
+"Great, what are your plans?",i'm going grocery shopping,31067f9a-3fbd-46f9-9fd9-b502971f0618,"  memory_name entity      value
+1    activity   type   activity
+2    activity   name  groceries",['groceries'],1,Match,0.9895018935203552,"Information Items:
+memory_name: activity, entity: type, value: shopping.
+memory_name: activity, entity: name, value: grocery shopping."
+Wanna spend some time together?,i got to get ready for the doctor,3138bc81-2d88-469a-afdc-6aa709aeb8e4,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name    doctor",['doctor'],1,Match,0.9520931243896484,"Information Items:
+memory_name: activity, entity: type, value: appointment.
+memory_name: activity, entity: name, value: doctor."
+Do you have anything planned for today?,how to watch the super bowl football game,3158c0ea-a283-444c-922c-34e2bb372320,"  memory_name entity        value
+0    activity   type     activity
+1    activity   name  watching_tv",['watching tv'],1,Match,0.9207677841186525,"Information Items:
+memory_name: activity, entity: type, value: watching sports.
+memory_name: activity, entity: name, value: Super Bowl football game."
+"Wonderful, what’s on the agenda tomorrow?",going to the bank,315ad597-9778-4f07-a0c6-00d27d3fc7ed,"  memory_name entity value
+1       place   name  bank",['bank'],1,Match,0.8843681812286377,"Information Items:
+memory_name: place, entity: name, value: bank."
+How can I help you?,we're going for dinner,3179c269-3ccd-43e0-8f7f-9ece276828d2,"  memory_name entity   value
+1       place   name  dinner
+2    activity   type    meal
+3    activity   name  dinner",['dinner'],1,Match,0.9764566421508788,"Information Items:
+memory_name: activity, entity: type, value: meal.
+memory_name: activity, entity: name, value: dinner."
+How can I help you?,i would like to set a reminder for a doctor's appointment,318173fe-7ce6-4672-bf00-a50d9c12466b,"  memory_name entity     value
+0    activity   type  activity
+1    activity   name  doctor's","[""doctor's""]",1,Match,0.8995534181594849,"Information Items:
+memory_name: activity, entity: type, value: appointment.
+memory_name: activity, entity: name, value: doctor's appointment.
+memory_name: action, entity: type, value: set reminder."
+"I've got some free time, wanna do something together?",i can't we going to the store,31919c63-bf7c-4bd3-bd63-09c6c1a0d9f5,"  memory_name entity            value
+1       place   name  shopping center",['shopping center'],1,Match,0.9162775278091432,"Information Items:
+memory_name: activity, entity: type, value: shopping.
+memory_name: activity, entity: name, value: going to the store."
+Is there anything special planned for tomorrow?,going to the doctor,31b2fc2e-5e2a-4a44-8c84-7ae50562ffad,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name    doctor",['doctor'],1,Match,0.9625798463821412,"Information Items:
+memory_name: activity, entity: type, value: appointment.
+memory_name: place, entity: name, value: doctor."
+"Eva Perone was the First Lady of which country?. Brazil, Argentina, or Spain",my son stephen was me,31b32f15-6528-4e59-a506-2f3044f9c1c4,"    memory_name entity value
+0  relationship   type   son",['son'],1,Match,0.7527176737785339,"Information Items:
+memory_name: relationship, entity: type, value: son.
+memory_name: person, entity: name, value: Stephen."
+"That's great to hear, what are you having for dinner today?",wildflowers,31b6303a-c87c-4b9f-b05a-70d0bfb618ab,"  memory_name entity       value
+0    favorite   type      flower
+1    favorite   name  Wildflower",['Wildflower'],1,Match,0.981071412563324,"Information Items:
+memory_name: food, entity: type, value: dinner.
+memory_name: food, entity: name, value: wildflowers."
+"Houston, we have a problem. I couldn't understand you. please say the station name or number again",called floyd my son floyd,31c42575-3feb-4411-b009-949d6186aa9d,"    memory_name entity   value
+0  relationship   type  my son",['my son'],1,Match,0.807617723941803,"Information Items:
+memory_name: relationship, entity: type, value: son.
+memory_name: person, entity: name, value: Floyd."
+What should we paint a picture of?,woman in rocking chair knitting,31e26dd1-aaf7-44f7-b402-9e8adaf69759,"  memory_name entity     value
+0    activity   type   hobbies
+1    activity   name  knitting",['knitting'],1,Match,0.9584560990333556,"Information Items:
+memory_name: activity, entity: type, value: painting.
+memory_name: subject, entity: object, value: woman in rocking chair.
+memory_name: subject, entity: action, value: knitting."
+How can I help you?,say hello to my sister salia,31f4e639-f017-4182-af27-01aa2f8f3e67,"    memory_name entity   value
+0  relationship   type  sister",['sister'],1,Match,0.6816403269767761,"Information Items:
+memory_name: relationship, entity: type, value: sister.
+memory_name: relationship, entity: name, value: Salia."
+How can I help you?,i have to go to the doctor now,3202e29d-a900-46d7-b52c-7caa88140893,"  memory_name entity     value
+1    activity   type  activity
+2    activity   name    doctor",['doctor'],1,Match,0.9811351895332336,"Information Items:
+memory_name: activity, entity: type, value: medical appointment.
+memory_name: place, entity: name, value: doctor."
+How can I help you?,talk to me i'm kevin illinois son,32037fc8-6e0f-4766-8cb7-ea7b7aff95be,"    memory_name entity value
+0  relationship   type   son",['son'],1,Match,0.8207719922065735,"Information Items:
+memory_name: relationship, entity: type, value: son.
+memory_name: person, entity: name, value: Kevin.
+memory_name: location, entity: name, value: Illinois."
+How can I help you?,hello we're home from the pool,32043355-4d73-4f3d-9758-c74ac697d98f,"  memory_name entity    value
+1       place   name     pool
+2    activity   type  hobbies
+3    activity   name     pool",['pool'],1,Match,0.768903374671936,"Information Items:
+memory_name: place, entity: name, value: home.
+memory_name: activity, entity: name, value: pool."
+Wanna listen to an audiobook with me?,not right now i'm getting ready to go out to dinner,32149f1f-cb69-4f90-9b3f-5f02d0a73477,"  memory_name entity   value
+1       place   name  dinner
+2    activity   type    meal
+3    activity   name  dinner",['dinner'],1,Match,0.9953851103782654,"Information Items:
+memory_name: activity, entity: type, value: meal.
+memory_name: activity, entity: name, value: dinner.
+memory_name: activity, entity: type, value: going out."
+Hmmm. so who would be our ideal road trip companion?,my husband,32152790-f93e-4623-a76d-50cc1fcd152c,"    memory_name entity    value
+0  relationship   type  husband",['husband'],1,Match,0.7802378535270691,"Information Items:
+memory_name: relationship, entity: type, value: husband.
+memory_name: activity, entity: type, value: road trip."

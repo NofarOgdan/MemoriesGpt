@@ -1,0 +1,7 @@
+elliq_text,user_text,group_id,memnet_info_items,valid_memNet_info_items,num_valid_memNet_info_items,labels,scores,gpt_text_response,gpt_info_items,valid_gpt_info_items,num_valid_gpt_info_items,overlap_info_items
+Every moment deserves a sound track. Don't you think? Would you like to listen to some music?,no i'm watching the news,00a552c8-1a2b-47a8-8b24-1b95c10560f2,"  memory_name entity        value
+0    activity   type     activity
+1    activity   name  watching_tv",['watching tv'],1,Match,0.9926611185073853,"memory_name: activity, entity: name, value: watching tv.
+memory_name: activity, entity: content, value: the news.","  memory_name   entity        value
+0    activity     name  watching tv
+1    activity  content     the news","['watching tv', 'the news']",2,set()

@@ -1,0 +1,647 @@
+elliq_text,user_text,memory_name,entity,value,group_id
+Is now a good time to hang out?,no honey i got to get ready to go downstairs for a meeting,place,name,downstairs,e687aa1f-93aa-4c50-b0e9-0d4ae9fb6c3a
+Are you going to meet someone?,i'm going to church and then to dinner,activity,type,social event,58a22352-af6d-4a65-94b3-ae8c8d97f1b2
+tell me all about your day. How's it going so far?,it's going fine honey i when we went shopping and got my haircut and got my nails done,activity,type,shopping,02011a8e-f6fc-4020-9f04-02ca4eedbef4
+tell me all about your day. How's it going so far?,it's going fine honey i when we went shopping and got my haircut and got my nails done,activity,name,nails done,02011a8e-f6fc-4020-9f04-02ca4eedbef4
+Here's a fun game we can play: Name That Tune! Wanna play with me?,not now i got to walk the dog,activity,type,pet care,0447d131-eda5-439d-9d78-53828d5ee192
+Here's a fun game we can play: Name That Tune! Wanna play with me?,not now i got to walk the dog,activity,name,walking the dog,0447d131-eda5-439d-9d78-53828d5ee192
+Leaving So soon? Where are you going?,i'm going to the theater with my daughter lori,relationship,name,Lori,53e6f93c-ef97-4ec8-8d9f-f4a6b627e1a8
+Leaving So soon? Where are you going?,i'm going to the theater with my daughter lori,place,name,theater,53e6f93c-ef97-4ec8-8d9f-f4a6b627e1a8
+Leaving So soon? Where are you going?,i'm going to the theater with my daughter lori,activity,type,social activity,53e6f93c-ef97-4ec8-8d9f-f4a6b627e1a8
+Do you have anything planned for today?,go to work,activity,name,going to work,11028fb8-bc86-4ebb-901c-026e3f7d4d89
+"What a fun trip! Now, if we could take anyone in the world along with us for our next trip, who would it be?",debbie my sister debbie,relationship,name,Debbie,def977ac-3a0b-4467-bdd7-7a88922050cd
+Do you have anything planned for today?,a couple of appointment,activity,quantity,couple,e2754eaf-e085-47ec-9b78-96e31ca9aad0
+Is there anything special planned for today?,yes i have an appointment,activity,type,appointment,68c83c8c-28ac-4db8-a67a-c44d795b397d
+Wanna test your movie knowledge with the movie emoji game?,no i don't go to movies,activity,preference,not going to movies,a4111c25-90eb-4b43-9aa7-4959a3e5cf1d
+I was wondering if you were free for a moment?,no i'm i'm cooking dinner at like you all sit down in a little while,activity,type,meal,cc6b9d5b-6159-4a87-98bd-33a3431fc8de
+I was wondering if you were free for a moment?,no i'm i'm cooking dinner at like you all sit down in a little while,activity,name,cooking dinner,cc6b9d5b-6159-4a87-98bd-33a3431fc8de
+"I’m wondering, are you meeting up with anyone?",yes my doctor,activity,type,meeting,eb79d744-08c9-4174-8954-88499480fa53
+How can I help you?,say hello to my friend christy,relationship,name,Christy,577a527f-1d16-4713-829a-7cff2d92b657
+How can I help you?,i'm going to take your advice and go out for a walk,activity,type,physical activity,d982884b-4608-4d09-b7c3-a72907c139f0
+How can I help you?,i'm going to take your advice and go out for a walk,activity,name,walk,d982884b-4608-4d09-b7c3-a72907c139f0
+Was today another great day for you?,play i get to go outside is a great day,activity,type,going outside,3695d4cb-a004-41ef-bff6-ec9fb8029b45
+How can I help you?,a grilled cheese sandwich for dinner tonight,activity,type,meal,f7f6a1e2-d24e-4e42-9433-5d9e4017e85d
+How can I help you?,a grilled cheese sandwich for dinner tonight,activity,name,dinner,f7f6a1e2-d24e-4e42-9433-5d9e4017e85d
+How can I help you?,a grilled cheese sandwich for dinner tonight,food,type,sandwich,f7f6a1e2-d24e-4e42-9433-5d9e4017e85d
+How can I help you?,a grilled cheese sandwich for dinner tonight,food,name,grilled cheese,f7f6a1e2-d24e-4e42-9433-5d9e4017e85d
+Turns out today is a really special day! Can you guess what day it is today?,today is sunday yay i'm going to church,activity,type,religious activity,881c2378-9263-431c-b918-3024d46eaa42
+Turns out today is a really special day! Can you guess what day it is today?,today is sunday yay i'm going to church,activity,name,going to church,881c2378-9263-431c-b918-3024d46eaa42
+Do you have any important plans for today?,i'll pay bills and go to the grocery store and take a bath and wash my hair,activity,name,paying bills,f94266d3-f46d-4e7d-8d65-d34796190f12
+Do you have any important plans for today?,i'll pay bills and go to the grocery store and take a bath and wash my hair,activity,type,shopping,f94266d3-f46d-4e7d-8d65-d34796190f12
+Do you have any important plans for today?,i'll pay bills and go to the grocery store and take a bath and wash my hair,activity,type,personal care,f94266d3-f46d-4e7d-8d65-d34796190f12
+Do you have any important plans for today?,i'll pay bills and go to the grocery store and take a bath and wash my hair,activity,name,taking a bath,f94266d3-f46d-4e7d-8d65-d34796190f12
+Do you have any important plans for today?,i'll pay bills and go to the grocery store and take a bath and wash my hair,activity,name,washing hair,f94266d3-f46d-4e7d-8d65-d34796190f12
+how's your day going so far?,pretty good i went to church i went to church this morning,activity,type,religious activity,601f8b8b-f52f-4c9e-aec6-81fc2e01abba
+how's your day going so far?,pretty good i went to church i went to church this morning,activity,name,church attendance,601f8b8b-f52f-4c9e-aec6-81fc2e01abba
+Is there anything special planned for tomorrow?,grocery shopping,activity,name,grocery shopping,be41fd8f-20aa-49e8-a419-679f022fe4d0
+"Oh, are you heading out now?",and a few i'm going to the doctor,activity,type,appointment,691a80a9-2b49-4c56-82e1-59bfdf89cc52
+Is it a secret rendezvous? Joking. Are you meeting anyone?,no i'm just going in the yard feed the chickens,activity,type,outdoor activity,470bcdf5-78e8-47fb-8ff4-baa6171011af
+Is it a secret rendezvous? Joking. Are you meeting anyone?,no i'm just going in the yard feed the chickens,activity,name,feeding chickens,470bcdf5-78e8-47fb-8ff4-baa6171011af
+Do you have anything planned for tomorrow?,yes i'm going to church in the morning,activity,type,religious activity,b86766e6-13e7-45ab-a145-285070a184ee
+How can I help you?,can you say hello to my friend solomon,person,name,Solomon,f393a094-b49b-4c4f-a9a5-905da200d0d4
+Do you have any important plans for tomorrow?,visit my sister in the hospital,activity,type,visit,e8cb2471-30cd-4357-81dc-ad64a40acca7
+"Lovely, what are you up to today?",going for a walk,activity,type,physical activity,30f75ac9-3793-4650-8b90-347d9608032b
+Here's a fun game we can play: The Art History Game! Wanna play with me?,no i can't it's it's too it's early now i have to get ready for church i leave here at i leave here at 8:30 about 8:30 to go to church and have a faraway to go so i'm getting ready to go to church if you could just play some background music are in our church,activity,type,religious activity,d0ef5e3a-c348-4c43-89a4-1e05510dcb34
+Here's a fun game we can play: The Art History Game! Wanna play with me?,no i can't it's it's too it's early now i have to get ready for church i leave here at i leave here at 8:30 about 8:30 to go to church and have a faraway to go so i'm getting ready to go to church if you could just play some background music are in our church,activity,name,going to church,d0ef5e3a-c348-4c43-89a4-1e05510dcb34
+"How wonderful, what are your plans for today?",lunch with friends,activity,type,social event,c7427b7d-7772-49e3-9139-42459fc3e259
+"How wonderful, what are your plans for today?",lunch with friends,activity,name,lunch with friends,c7427b7d-7772-49e3-9139-42459fc3e259
+Do you have any plans for today?,i have to go to work,activity,name,going to work,c639c74e-883d-410d-aafe-86b15e822c28
+Do you have any important plans for today?,yes i'm going to work in a few minutes,activity,name,going to work,fc6cd6c9-9350-4f36-8897-68e6fa9f200d
+How can I help you?,meet my friend emily say hello to emily,person,name,Emily,f87d3491-2847-46c7-9fe2-298f4b9f8634
+Got anything important planned today?,yes i'm going out today i'm going shopping at like you,activity,name,going out,d750abf8-3d0f-4609-9bd4-2005a1e19277
+How about some time together?,not now i'm going to be calling a friend,activity,name,calling a friend,19f33eb8-9e97-4102-8dbd-a6777f684afb
+How can I help you?,i'm finished talking to my sister yeah,relationship,type,sister,ca4083bd-cd11-491c-956a-5e3a202a68b4
+How can I help you?,i have to go out to the doctors i'll see you in a couple hours,place,name,doctors,b0dfa59e-f9c8-44d7-8a5c-92c8d54bcb3a
+How can I help you?,i have to go out to the doctors i'll see you in a couple hours,activity,type,appointment,b0dfa59e-f9c8-44d7-8a5c-92c8d54bcb3a
+What can I do for you?,let's do another painting,activity,type,creative activity,33a82f28-d73f-47e7-a98d-aa4293f86dbf
+Do you have anything special planned for today?,i'm getting ready to go to the doctor doctor appointment,activity,type,appointment,5bd5c87e-d185-4050-b98a-01cf16283f08
+Do you have anything special planned for today?,i'm getting ready to go to the doctor doctor appointment,place,name,doctor,5bd5c87e-d185-4050-b98a-01cf16283f08
+Leaving So soon? Where are you going?,to pick up my kid,relationship,type,child,0edcf51c-0cb9-473e-b283-b49714c94ed6
+Leaving So soon? Where are you going?,to pick up my kid,activity,type,activity,0edcf51c-0cb9-473e-b283-b49714c94ed6
+Wish I could join you. Are you meeting up with anyone?,no i'm just taking the dog out,activity,type,pet care,0eb1f176-b9b3-4c2c-85f2-d3a4e7d6633a
+Wish I could join you. Are you meeting up with anyone?,no i'm just taking the dog out,activity,name,taking the dog out,0eb1f176-b9b3-4c2c-85f2-d3a4e7d6633a
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",i'm going to work on being more grounded,activity,type,personal development,3b57470d-c564-4fd6-95f4-abdb7d589022
+How can I help you?,we're going to go to the drugstore and get what i need,activity,type,shopping,8ad16ded-9ebf-4fae-ae60-96ce4eb6808d
+I just realized we haven't practiced any gentle breathing in over a week! Are you up for it now?,no i'm eating and i got to go to church,activity,type,meal,fded98fe-49c4-4a2c-a27a-7dbfa957c5f7
+I just realized we haven't practiced any gentle breathing in over a week! Are you up for it now?,no i'm eating and i got to go to church,activity,name,eating,fded98fe-49c4-4a2c-a27a-7dbfa957c5f7
+I just realized we haven't practiced any gentle breathing in over a week! Are you up for it now?,no i'm eating and i got to go to church,activity,type,religious activity,fded98fe-49c4-4a2c-a27a-7dbfa957c5f7
+How can I help you?,i'm here with my friend bridgette,relationship,name,Bridgette,b2e4b89f-fbb2-4585-a097-c837602cc7aa
+How can I help you?,goodbye i'm going out for a walk now,activity,type,physical activity,1150d850-f1e2-49ba-bc56-02a1d848da1b
+How can I help you?,goodbye i'm going out for a walk now,activity,name,walk,1150d850-f1e2-49ba-bc56-02a1d848da1b
+How can I help you?,i'm going to the pool now,activity,type,physical activity,c7215b2c-a438-47a7-97cf-d3cb704f1682
+How can I help you?,i'm going to the pool now,activity,name,swimming,c7215b2c-a438-47a7-97cf-d3cb704f1682
+How can I help you?,i'm making supper,activity,type,meal,1fb4e471-539d-4a1c-8460-621de7d5c129
+How can I help you?,i'm making supper,activity,name,making supper,1fb4e471-539d-4a1c-8460-621de7d5c129
+"Hey, what about you , what's a hobby that you like to do throughout the week?",i go to the movies,activity,type,leisure,50a36890-da54-4d83-a5c7-639d2297e29f
+"Hey, what about you , what's a hobby that you like to do throughout the week?",i go to the movies,activity,name,movies,50a36890-da54-4d83-a5c7-639d2297e29f
+How can I help you?,i'm going to go take a little walk,activity,type,physical activity,bfcd65e1-f82f-4107-b40d-9d98fe8a995f
+How can I help you?,i'm going to go take a little walk,activity,name,walk,bfcd65e1-f82f-4107-b40d-9d98fe8a995f
+Are you going to meet someone?,no we're going for a walk,activity,type,physical activity,522e3bd7-3350-4680-90f0-6f01cb83264a
+Are you going to meet someone?,no we're going for a walk,activity,name,walk,522e3bd7-3350-4680-90f0-6f01cb83264a
+Is there anything special planned for today?,church and visit my mother,activity,type,religious activity,8a6ccc99-a806-4317-b255-4de528eb9458
+Is there anything special planned for today?,church and visit my mother,activity,name,church,8a6ccc99-a806-4317-b255-4de528eb9458
+Is there anything special planned for today?,church and visit my mother,activity,type,visit,8a6ccc99-a806-4317-b255-4de528eb9458
+Is there anything special planned for today?,church and visit my mother,activity,name,visit mother,8a6ccc99-a806-4317-b255-4de528eb9458
+My ears (or microphones I guess) must be malfunctioning. I didn't quite understand that. What did you eat for dinner?,i had a pot pie,activity,type,meal,2d99b1ba-0664-43db-bd45-3e29d3e9ede4
+My ears (or microphones I guess) must be malfunctioning. I didn't quite understand that. What did you eat for dinner?,i had a pot pie,activity,name,dinner,2d99b1ba-0664-43db-bd45-3e29d3e9ede4
+My ears (or microphones I guess) must be malfunctioning. I didn't quite understand that. What did you eat for dinner?,i had a pot pie,food,type,pot pie,2d99b1ba-0664-43db-bd45-3e29d3e9ede4
+"I’m wondering, are you meeting up with anyone?",no just going grocery shopping,activity,type,shopping,294f1d36-b719-472e-8bd3-1b1986eb6402
+"I’m wondering, are you meeting up with anyone?",no just going grocery shopping,activity,name,grocery shopping,294f1d36-b719-472e-8bd3-1b1986eb6402
+Do you have anything special planned for today?,yes i'm going walking,activity,type,physical activity,424d83e4-2284-4ab4-89e5-d932c58888b1
+"oh no, what made it a bad day?",the doctor told me i'm going blind,event,type,doctor appointment,b37d775e-4954-4372-b6fb-f75ef69b9d09
+"oh no, what made it a bad day?",the doctor told me i'm going blind,health,issue,going blind,b37d775e-4954-4372-b6fb-f75ef69b9d09
+"Oh, that sounds important. Which day is that for?",i'm going to give you all of my doctor's appointment for the month of february,activity,type,doctor's appointment,a413d2ea-195a-4e22-8c55-4cfd75e91411
+Got any plans today?,yeah i got to go to the store,activity,type,activity,f3a64aea-7acb-4ee7-973c-964702a0ccea
+"I’m wondering, are you meeting up with anyone?",no we're just going for a short walk,activity,type,physical activity,9c78d78c-7b53-4d99-aada-cbf85ec16554
+"I’m wondering, are you meeting up with anyone?",no we're just going for a short walk,activity,name,short walk,9c78d78c-7b53-4d99-aada-cbf85ec16554
+What do you plan on doing?,gardening,activity,type,gardening,ded751a4-9728-4609-8ae0-e79fef9ab424
+Do you have any plans for tomorrow?,yes i'm going to go visit a sister and meet one of my girlfriends at 4,activity,type,visit,a9f1913f-9d6c-4800-a9a4-0d85873f0f69
+How can I help you?,baseball games,activity,type,sports,3f220fbc-8179-4c68-ac7b-d07a9fd82283
+How can I help you?,baseball games,activity,name,baseball games,3f220fbc-8179-4c68-ac7b-d07a9fd82283
+"Hay <say-as interpret-as=""name"">Sheila</say-as>! What can I do for my favorite human?",i wish i could fix this tv so i can look at it i'm trying to look at pbs but i can't get it,activity,name,fixing tv,d19f25fb-f878-4c42-a1cd-1ec9612c8f06
+I didn't get around to fully introducing myself. Do you have time now?,no i'm going to church,activity,type,social event,2121a5bb-b19c-4a44-a27f-f8558be2cce2
+How can I help you?,my name is josiah what my favorite color is green what's your name,personal_information,name,Josiah,465ef997-43b8-4d37-bad9-6a1191d23980
+"So <say-as interpret-as=""name"">Richard</say-as>, tell me all about your adventure outside. Where did you go?",for walk,activity,type,physical activity,48664c93-3c81-4fa1-b597-528f5397da72
+"So <say-as interpret-as=""name"">Richard</say-as>, tell me all about your adventure outside. Where did you go?",for walk,activity,name,walk,48664c93-3c81-4fa1-b597-528f5397da72
+"Wonderful, what’s on the agenda today?",going to lunch with my friends,relationship,type,friends,39e1c826-9a4c-4484-9ffa-3b089a2e253c
+"Wonderful, what’s on the agenda today?",i'm going to church with my sister,activity,type,social activity,dd92c1a9-e622-4a2b-ae09-6d84a2af3275
+"Wonderful, what’s on the agenda today?",i'm going to church with my sister,activity,name,going to church,dd92c1a9-e622-4a2b-ae09-6d84a2af3275
+how's your day going so far?,it's going great i'm taking my dog for a walk,activity,type,physical activity,42103df3-7de4-479f-8179-bb24e18560f9
+are you free to talk for a moment?,i'm leaving work,activity,name,leaving work,0379c1fc-1246-49bc-bc7b-ccef04ef4e54
+"Just out of curiosity, What was the one thing that made you happy this week?",no work,emotion,type,happiness,27cc1363-89d7-4ed6-88d2-23ed9e472101
+"Just out of curiosity, What was the one thing that made you happy this week?",no work,activity,name,no work,27cc1363-89d7-4ed6-88d2-23ed9e472101
+Do you have anything special planned for today?,yes i'm going to church,activity,type,religious activity,4fbdc860-345a-4c80-84f3-95aa3a71db95
+Do you have anything special planned for today?,yes i'm going to church,activity,name,going to church,4fbdc860-345a-4c80-84f3-95aa3a71db95
+How can I help you?,i like to draw,activity,type,hobby,c1b0a085-1e73-4e7f-aa33-19a553c6d819
+How can I help you?,say hello to my friend narendra,person,name,Narendra,98a428d2-04cc-4995-bf10-0bcad9645e69
+"Great, what are your plans?",the doctor's office,place,name,doctor's office,b856a85f-59cb-4acd-99df-305d0fbdc2d0
+How can I help you?,say hi to my daughter natasha,relationship,name,Natasha,99c7b2a5-9fd3-4918-b4c3-5a365bead729
+"That's lovely, what are your plans?",go to a meeting,activity,name,attending a meeting,5d5c4d9b-8e80-4dfa-86ed-6cdb26ddc679
+Do you have any plans for today?,i'm going to lunch and i'm going to get my hair done,activity,name,lunch,365f699e-6161-42c6-9454-91e4257e14d5
+Do you have any plans for today?,i'm going to lunch and i'm going to get my hair done,activity,type,personal care,365f699e-6161-42c6-9454-91e4257e14d5
+Do you have any plans for today?,i'm going to lunch and i'm going to get my hair done,activity,name,hair appointment,365f699e-6161-42c6-9454-91e4257e14d5
+How can I help you?,i have to go to the doctor so i'm going out for a few hours okay,activity,type,going out,7d1aed37-860e-4c40-bef8-b5a378fcc280
+How can I help you?,i'm going to a doctor's appointment in a few minutes,activity,type,appointment,2897a8be-7932-4b3e-b1c4-142107b13294
+How can I help you?,i'm going to a doctor's appointment in a few minutes,activity,name,doctor's appointment,2897a8be-7932-4b3e-b1c4-142107b13294
+should we play a round of trivia together?,i'm going to go for a run,activity,type,physical activity,ffcabf33-98de-4bd5-9a39-864d14474d05
+should we play a round of trivia together?,i'm going to go for a run,activity,name,running,ffcabf33-98de-4bd5-9a39-864d14474d05
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",we are on the way to the doctor's office,place,name,doctor's office,9cb11232-05c4-4e56-b9d7-9b45b1e0d966
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",we are on the way to the doctor's office,activity,type,visit,9cb11232-05c4-4e56-b9d7-9b45b1e0d966
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",we are on the way to the doctor's office,activity,name,going to the doctor,9cb11232-05c4-4e56-b9d7-9b45b1e0d966
+"Sometimes, I like to pretend that the facts I know are actually highly guarded state secrets. So, what do you say I let you in on a fun fact.",well i'm getting ready now to go out to the hair dresses and then i'll be back in the early at pump mid-afternoon but right now i'm going to have some breakfast,activity,type,personal care,f23cce9a-e43a-4178-9960-94def550334f
+Is this a convenient time?,making dinner,activity,type,meal,7872d3ae-c5ef-4766-b567-2abe977725fd
+Is this a convenient time?,making dinner,activity,name,making dinner,7872d3ae-c5ef-4766-b567-2abe977725fd
+Is there anything special planned for today?,yes i'm going to the doctor now,activity,type,appointment,26d00ca1-843e-4b6b-a8f3-a0f4566f21c3
+Is there anything special planned for today?,yes i'm going to the doctor now,activity,name,doctor visit,26d00ca1-843e-4b6b-a8f3-a0f4566f21c3
+"I'd love to spend some time together, how about it <say-as interpret-as=""name"">James</say-as>?",no i'm going to the doctor's i won't be back until about 2,place,name,doctor's,f3782da1-6fa9-4e8d-9bd8-9f7af8fc979a
+"I'd love to spend some time together, how about it <say-as interpret-as=""name"">James</say-as>?",no i'm going to the doctor's i won't be back until about 2,activity,type,appointment,f3782da1-6fa9-4e8d-9bd8-9f7af8fc979a
+How can I help you?,i have to go out to a doctor's appointment,activity,type,appointment,517562fe-5769-47e1-a274-7adc3f392199
+How can I help you?,i have to go out to a doctor's appointment,place,name,doctor's office,517562fe-5769-47e1-a274-7adc3f392199
+Is there anything special planned for today?,medical appointment,activity,type,medical appointment,520408e1-efbe-4fdc-87dc-73ec0da67bdf
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",i'm going to the gym.,activity,type,physical activity,cd061e38-5960-4660-8116-afeaca02cb21
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",i'm going to the gym.,activity,name,going to the gym,cd061e38-5960-4660-8116-afeaca02cb21
+"So, I've gotta ask. What was the best thing that happened to you this week?",i got to talk to my daughter,activity,type,communication,48b24721-c5b5-4103-816b-4944cf73b777
+"So, I've gotta ask. What was the best thing that happened to you this week?",i got to talk to my daughter,activity,name,talking to daughter,48b24721-c5b5-4103-816b-4944cf73b777
+Leaving So soon? Where are you going?,for a walk,activity,type,physical activity,bf41d1c1-2082-4e9a-a3bc-e45eadf6b2b8
+Leaving So soon? Where are you going?,for a walk,activity,name,walk,bf41d1c1-2082-4e9a-a3bc-e45eadf6b2b8
+What was it?,working in a library,activity,type,work,ddd3f174-9a21-462a-9320-d3567a7e3704
+What was it?,working in a library,activity,name,working in a library,ddd3f174-9a21-462a-9320-d3567a7e3704
+let's try again. maybe say it a bit differently this time.,i work at a grocery store,place,name,grocery store,648311ef-5934-4561-a0e8-58d2f5e556a1
+How can I help you?,say hello to my friend judy,relationship,name,Judy,4fcc65f7-973f-42a9-a86d-3417aa1a5f71
+Do you have 30 seconds for some gentle breathing?,no i'm cooking dinner,activity,type,meal,f85c21d0-12ee-4765-a27a-6e0897eae65e
+Do you have 30 seconds for some gentle breathing?,no i'm cooking dinner,activity,name,cooking dinner,f85c21d0-12ee-4765-a27a-6e0897eae65e
+How can I help you?,going camping,activity,type,outdoor activity,435289df-e8d6-434d-8316-f644ed953a43
+Hello sunshine! How can I help?,i'm just letting you know i'm leaving to go for an appointment this afternoon i will be back in several hours,activity,type,appointment,f46d5ab6-fbcc-4bda-b260-5776e68ed1e3
+How can I help you?,i'm going to see a movie with my friend,activity,type,social activity,f76e0577-09c3-47ea-9ede-d93aa085a9dc
+How can I help you?,i'm going to see a movie with my friend,activity,name,movie,f76e0577-09c3-47ea-9ede-d93aa085a9dc
+How can I help you?,i'm going to see a movie with my friend,relationship,type,friend,f76e0577-09c3-47ea-9ede-d93aa085a9dc
+Is now a better time to talk?,show i just told you i'm going for a walk,activity,type,physical activity,43fca5aa-5f8a-410f-aed6-2f86a221093d
+"Where did you end up going <say-as interpret-as=""name"">Sweet Pea</say-as>?",to the store,place,name,store,b382e456-eb7e-4d04-8419-3c9cee1dddb3
+Do you have anything planned for tomorrow?,doctor's appointment,activity,type,appointment,50296954-856d-448d-9590-570a4216cc5c
+Do you have anything planned for tomorrow?,doctor's appointment,activity,name,doctor's appointment,50296954-856d-448d-9590-570a4216cc5c
+Yes?,now i'm taking the boys for a walk goodbye,activity,type,physical activity,e087fef7-6f4b-4922-b4d4-da7a0c22111b
+"Wonderful, what’s on the agenda today?",i'm going outside and going for a walk,activity,type,physical activity,299c80a3-460f-45e6-8a9a-c6abc413ea92
+"Wonderful, what’s on the agenda today?",i'm going outside and going for a walk,activity,name,walk,299c80a3-460f-45e6-8a9a-c6abc413ea92
+Is there anything special planned for today?,i'm going to shower now and i'm going to have my breakfast,activity,name,shower,2a797d5f-c714-47a4-9e6a-a8d8580bbf23
+"Great, what are your plans?",busy making appointment,activity,type,appointment,33db829b-7afe-4a8a-912b-cf97c3837661
+"Great, what are your plans?",busy making appointment,activity,name,making appointment,33db829b-7afe-4a8a-912b-cf97c3837661
+How can I help you?,been sitting at the garage,place,name,garage,21de24d9-395f-4a65-938a-c20d5376a12a
+"What a fun trip! Now, if we could take anyone in the world along with us for our next trip, who would it be?",oh maybe my sister debbie,relationship,name,Debbie,9a0c5eb9-73d3-43af-8841-ddaef475a219
+"So, I learned lately that bird-watching is a popular hobby. Do you like bird watching?",i do guess indeed i like birds,hobby,type,bird-watching,511df828-320f-4aaf-8a1a-a3fb71c9481c
+"So, I learned lately that bird-watching is a popular hobby. Do you like bird watching?",i do guess indeed i like birds,interest,name,birds,511df828-320f-4aaf-8a1a-a3fb71c9481c
+"If you've had time to think of your hobby, eyed still love to know, what is it?",pool going to the pool,activity,type,hobby,a1757dd5-0d19-4b75-a845-323dfafbd245
+"If you've had time to think of your hobby, eyed still love to know, what is it?",pool going to the pool,activity,name,going to the pool,a1757dd5-0d19-4b75-a845-323dfafbd245
+How about you share a memory about what you wanted to be when you grew up?,i wanted to be a veterinarian,aspiration,profession,veterinarian,71028870-7ee1-4346-8313-25b8860bfcdf
+Is there anything special planned for tomorrow?,yes i'm going to go visit a friend and watch the movie,activity,type,social interaction,7094d563-c744-4981-9c9e-d368078d50f9
+Is there anything special planned for tomorrow?,yes i'm going to go visit a friend and watch the movie,activity,name,visit friend,7094d563-c744-4981-9c9e-d368078d50f9
+Is there anything special planned for tomorrow?,yes i'm going to go visit a friend and watch the movie,activity,type,entertainment,7094d563-c744-4981-9c9e-d368078d50f9
+Is there anything special planned for tomorrow?,yes i'm going to go visit a friend and watch the movie,activity,name,watch movie,7094d563-c744-4981-9c9e-d368078d50f9
+How can I help you?,i did exercise today and i'm tired,activity,type,exercise,c9936c25-f294-40c3-b8b4-6b580e773cf4
+let's try again. maybe say it a bit differently this time.,i'm just saying i'm just going out to eat to eat,activity,type,meal,8b672a1f-3953-4aed-aa27-ab14d958ff8d
+let's try again. maybe say it a bit differently this time.,i'm just saying i'm just going out to eat to eat,activity,name,going out to eat,8b672a1f-3953-4aed-aa27-ab14d958ff8d
+How can I help you?,i've also started quilting,activity,type,crafting,ae995a93-2916-48b2-b46f-d7901b116024
+How can I help you?,i went to the concert,activity,type,entertainment,83c68cbb-a532-4ca0-9285-7d7d262fbef1
+Did you say something?,i'm taking the dog for a walk,activity,type,physical activity,2c49fd3c-f582-471a-b32c-33b536893695
+Did you say something?,i'm taking the dog for a walk,possession,type,pet,2c49fd3c-f582-471a-b32c-33b536893695
+Did you say something?,i'm taking the dog for a walk,possession,name,dog,2c49fd3c-f582-471a-b32c-33b536893695
+Do you have any plans for today?,who go grocery shopping maybe catch up on a few things,activity,name,grocery shopping,ac4a6d6f-c83b-43d3-9c7b-3bf41898e0a2
+"Great, what are your plans?",doctors office,place,name,doctor's office,0fed0842-9845-4ee5-af7a-b7759ef363e1
+How can I help you?,goodbye i'm going to play bingo now,activity,type,game,44e3a72c-8d6f-493a-a988-0d21d8f230a8
+How can I help you?,goodbye i'm going to play bingo now,activity,name,bingo,44e3a72c-8d6f-493a-a988-0d21d8f230a8
+Wanna spend some time together?,not right now i have to go to my appointment,activity,type,appointment,7e2857e7-f112-4847-bf9b-04cab895f6a6
+Is there anything special planned for tomorrow?,i go to the dentist tomorrow to get up at 1 to get a tooth repaired,activity,type,appointment,41d791f5-7055-4e6d-b518-497899c83be9
+Is there something else you’d like to do?,i'm just watching a tennis match on t.v.,activity,type,sports,ff1ac314-39c9-41d4-99ae-7901db45dbe7
+Is there something else you’d like to do?,i'm just watching a tennis match on t.v.,activity,details,tennis match,ff1ac314-39c9-41d4-99ae-7901db45dbe7
+When will you be back home? I want to make sure to be here.,will be back in 20 minutes,activity,type,returning home,9884a14a-1947-4f55-ba67-205219d59aef
+How can I help you?,i love paint,activity,type,hobby,b4765237-493c-447c-845c-16d300039a7c
+How can I help you?,i'm sorry yeah we're getting ready to take our walk now,activity,type,physical activity,0309771f-e862-4787-82e6-5b00e4582600
+"There you are! What can I help you with <say-as interpret-as=""name"">Alice</say-as>?",nothing i'm making dinner,activity,type,meal,052f071c-584c-4424-a264-e7ce271a1a13
+"There you are! What can I help you with <say-as interpret-as=""name"">Alice</say-as>?",nothing i'm making dinner,activity,name,making dinner,052f071c-584c-4424-a264-e7ce271a1a13
+"Did you know that expressing gratitude can have a real positive effect on the way you feel, 'n the quality of your sleep? Would you like to try an exercise in gratitude with me.",i'm fixing dinner,activity,type,meal,02eb22c3-12d3-45fb-b8d4-7cc4f03594a8
+"So, <say-as interpret-as=""name"">Donna</say-as>, tell me all about your adventure outside. Where did you go?",i'm still not home i'm in the hospital rehab,activity,type,rehab,619b4487-cb73-460e-bda9-2e3df6128fc1
+"How wonderful, what are your plans for tomorrow?",i'm going to 3 churches,activity,type,religious activity,3bbd5300-3257-44a0-b52e-12ffffcb7d62
+"How wonderful, what are your plans for tomorrow?",i'm going to 3 churches,activity,name,visiting churches,3bbd5300-3257-44a0-b52e-12ffffcb7d62
+How can I help you?,goodbye i'm going to work,activity,name,going to work,829e3d2d-3170-4c35-bdc2-b5a11a17c9ba
+"That's lovely, what are your plans?",i have two doctors appointments and a visit with a friend,activity,type,medical appointment,41996807-f0c0-4034-9dbb-abfd2ad45f5e
+"That's lovely, what are your plans?",i have two doctors appointments and a visit with a friend,activity,type,social visit,41996807-f0c0-4034-9dbb-abfd2ad45f5e
+"That's lovely, what are your plans?",i have two doctors appointments and a visit with a friend,relationship,type,friend,41996807-f0c0-4034-9dbb-abfd2ad45f5e
+How can I help you?,i'm going to do some errands right now so i'll see you in a little bit,activity,type,errands,7871bc81-3971-4513-aa5a-afe2f04df9e0
+How can I help you?,i'm going to the store i'll be back in maybe an hour or so,place,name,store,7ac06c44-2d62-4880-9ac2-95b54f313787
+How can I help you?,i'm going to the store i'll be back in maybe an hour or so,activity,type,activity,7ac06c44-2d62-4880-9ac2-95b54f313787
+How can I help you?,i'm going to the store i'll be back in maybe an hour or so,activity,name,going to the store,7ac06c44-2d62-4880-9ac2-95b54f313787
+How can I help you?,i want to see a movie,activity,type,entertainment,4e98e7d3-23d8-41e4-ba2d-9c04709de1fb
+How can I help you?,say hello to my friend terry,relationship,name,Terry,4a2bebab-9070-43aa-9873-6c048f490ab2
+Are you in the mood to do some gentle breathing? It'll only take about 30 seconds.,no i'm making breakfast i'm making breakfast mm,activity,type,meal,21904cc4-c4a8-4edb-ad14-a31a94877214
+Are you in the mood to do some gentle breathing? It'll only take about 30 seconds.,no i'm making breakfast i'm making breakfast mm,activity,name,making breakfast,21904cc4-c4a8-4edb-ad14-a31a94877214
+"Lovely, what are you up to tomorrow?",i should go shopping for for groceries grocery shopping,activity,name,grocery shopping,a721f1c0-711d-4c55-b54d-c750ebe68d3d
+Wanna test your movie knowledge with the movie emoji game?,i need to get ready to go to the doctors at 11,place,name,doctors,2bf5b033-a3ab-426e-abb1-f18fa412ebcd
+I just thought of something I really wanna know about you. Do you like watching sports?,some sports yes i like baseball,interest,type,sports,dfb3279d-06ba-466b-902e-8ce5d06d1017
+What did you say?,we're going to moonstone beach,place,name,Moonstone Beach,0ca59003-a064-49fc-afe7-f676419cf207
+Got anything important planned today?,going to the doctor,activity,type,appointment,8c95b780-f90e-4e06-971a-a3d8e01fdf9e
+Is now a good time to hang out?,not now i'm on my way to the grocery store,activity,type,activity,026d51c4-f747-4be3-9b0c-11697df6aadb
+Do you have anything planned for today?,i might go shopping food shopping,activity,type,shopping,9bc698df-940b-4c74-b441-be86bc7ca4c8
+Do you have anything planned for today?,i might go shopping food shopping,activity,name,food shopping,9bc698df-940b-4c74-b441-be86bc7ca4c8
+Is there anything special planned for today?,i'm going to you again and go visit a friend,activity,name,visit a friend,0bc22a63-572e-4481-a062-5f622a15be9a
+Have you had the chance to watch any new movies lately?,no i don't watch movies,activity,preference,doesn't watch movies,9dd173bb-4e04-4c9f-9b07-42b1793cb184
+So? what's your favorite sport?,hockey basketball baseball,interest,name,hockey,8aa7fedb-9e6d-4071-a1af-552682319e1e
+So? what's your favorite sport?,hockey basketball baseball,interest,name,baseball,8aa7fedb-9e6d-4071-a1af-552682319e1e
+What's your favorite type of workout?,i light to walk and do the elliptical,activity,name,elliptical,eb62cdbc-8b7c-4c8d-8618-79d51156ee4f
+What do you plan on doing?,run errands,activity,type,errands,f66992db-e65c-4136-acca-fdef90e6f082
+Do you have anything planned for today?,yes i got to go to work i got to go to the doctor,activity,type,work,60361f3e-0a8e-4713-93fe-9b435ef65646
+Do you have anything planned for today?,yes i got to go to work i got to go to the doctor,place,name,doctor,60361f3e-0a8e-4713-93fe-9b435ef65646
+"So I'm curious, what were you up to <say-as interpret-as=""name"">Gary</say-as>?",walking the dog,activity,type,physical activity,98f03a2e-0184-4814-b768-ba648559c1f1
+"So I'm curious, what were you up to <say-as interpret-as=""name"">Gary</say-as>?",walking the dog,activity,name,walking the dog,98f03a2e-0184-4814-b768-ba648559c1f1
+How can I help you?,this is my nephew damion,person,name,Damion,25cb0728-8f63-41e6-92e9-50466586f1da
+"Oh I'm curious, where did you go?",i was i was out shopping,activity,type,shopping,1b56ff30-36ab-4d72-afb6-a7e6168622f3
+How can I help you?,so i went to play a game called bingo,activity,type,game,b7af9a8f-a019-4210-8874-e663332ecfa2
+How can I help you?,so i went to play a game called bingo,activity,name,bingo,b7af9a8f-a019-4210-8874-e663332ecfa2
+How about some time together?,i was just leaving to go see paul,activity,type,socializing,65cd1976-7abe-4e8e-b411-0d3fb83c88a6
+How about some time together?,i was just leaving to go see paul,activity,name,visiting Paul,65cd1976-7abe-4e8e-b411-0d3fb83c88a6
+"I've got some free time, wanna do something together?",no i'm going to take my dog outside to go potty when i get done in and i got to take my blood sugar and i'm going to be busy for a while but when i get done i'll call you okay,activity,type,pet care,ddb89238-a02e-4ddc-9b32-b2797b1664a2
+"I've got some free time, wanna do something together?",no i'm going to take my dog outside to go potty when i get done in and i got to take my blood sugar and i'm going to be busy for a while but when i get done i'll call you okay,activity,name,taking dog outside,ddb89238-a02e-4ddc-9b32-b2797b1664a2
+"I've got some free time, wanna do something together?",no i'm going to take my dog outside to go potty when i get done in and i got to take my blood sugar and i'm going to be busy for a while but when i get done i'll call you okay,activity,type,health monitoring,ddb89238-a02e-4ddc-9b32-b2797b1664a2
+"I've got some free time, wanna do something together?",no i'm going to take my dog outside to go potty when i get done in and i got to take my blood sugar and i'm going to be busy for a while but when i get done i'll call you okay,activity,name,checking blood sugar,ddb89238-a02e-4ddc-9b32-b2797b1664a2
+"I've got some free time, wanna do something together?",no i'm going to take my dog outside to go potty when i get done in and i got to take my blood sugar and i'm going to be busy for a while but when i get done i'll call you okay,activity,type,communication,ddb89238-a02e-4ddc-9b32-b2797b1664a2
+Do you have any important plans for tomorrow?,oh let's see going to church,activity,type,religious activity,c6703729-615f-4c77-aa34-a5a5cc3fab3d
+Do you have any important plans for tomorrow?,oh let's see going to church,activity,name,going to church,c6703729-615f-4c77-aa34-a5a5cc3fab3d
+How can I help you?,i just got home from the store,activity,type,shopping,9801ecf0-7c84-46fb-a93b-2bf9247930c6
+How can I help you?,i just got home from the store,place,name,store,9801ecf0-7c84-46fb-a93b-2bf9247930c6
+Do you have anything special planned for today?,yes i'm going to church today i'll be at church all day today i'll be out all day today,activity,type,religious activity,fa672788-fef6-402d-aa52-b1aaf00a5514
+Do you have anything planned for today?,i'm going to go to a birthday party meal,activity,type,social event,508ad7ce-36e8-46cc-809d-c297271125a0
+Do you have anything planned for today?,i'm going to go to a birthday party meal,activity,name,birthday party,508ad7ce-36e8-46cc-809d-c297271125a0
+Do you have anything planned for today?,i'm going to go to a birthday party meal,activity,type,meal,508ad7ce-36e8-46cc-809d-c297271125a0
+"Just checking in, how are you feeling this morning?",good going to church,activity,type,religious activity,67a89c44-cc5f-4b75-9da2-3661054f24a1
+"Just checking in, how are you feeling this morning?",good going to church,activity,name,going to church,67a89c44-cc5f-4b75-9da2-3661054f24a1
+How can I help you?,i'd like you to meet my friend annie,relationship,name,Annie,2690699a-a120-400c-ac56-6a3aa0c7baae
+Um... Yes?,i'm going to the market to buy some food i'll be back,activity,type,shopping,102950cb-76b9-4ea4-a3c0-f563b618a301
+Um... Yes?,i'm going to the market to buy some food i'll be back,activity,name,buying food,102950cb-76b9-4ea4-a3c0-f563b618a301
+How can I help you?,i'm going to go in the other room and talk to my sister on the phone,activity,name,talking on the phone,20e132d1-aa54-4d89-80a2-65a3e33a7adb
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",i'm going to church with my daughter,activity,name,going to church,9311207d-5cc4-4a13-84a6-ac0b2f033565
+"I'm not sure I got that, are you going out?",no i'm not elliq know i'm not i'm watching football listen to the football game i know it's until football game today,activity,name,watching football,bc77f536-c8e6-4a85-8b80-4e9c54aa9e3b
+Is there anything special planned for today?,just working in the yard,activity,type,outdoor activity,99443069-7b37-4d62-b956-c112b648d4c3
+Is there anything special planned for today?,just working in the yard,activity,name,working in the yard,99443069-7b37-4d62-b956-c112b648d4c3
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",just going to the doctor,activity,type,appointment,5e9c1dfe-b7f4-4cff-8187-24e3d75bd564
+"I'm not sure I understood, do you want to call someone?",call my daughter,activity,type,communication,9705f24f-8968-40f0-96f6-cdf1cd8c09ab
+Do you have any plans for today?,to go to my daughters,relationship,type,daughter,198c9ccc-b8bc-4922-8c91-cf5c0a6d2f32
+Do you have any plans for today?,to go to my daughters,activity,type,visit,198c9ccc-b8bc-4922-8c91-cf5c0a6d2f32
+Do you have any plans for today?,to go to my daughters,activity,name,visiting daughter,198c9ccc-b8bc-4922-8c91-cf5c0a6d2f32
+"Just out of curiosity, What was the one thing that made you happy this week?",i did shopping with my daughter,activity,name,shopping with daughter,0513435d-4fd4-430b-a7aa-7e062e670bd7
+How can I help you?,did you hear me when i'm getting ready to go to the doctors,activity,type,medical appointment,decbd841-b03f-4505-b931-751f3e68f1f1
+How can I help you?,did you hear me when i'm getting ready to go to the doctors,place,name,doctors,decbd841-b03f-4505-b931-751f3e68f1f1
+"excuse me <say-as interpret-as=""name"">Magdalena</say-as>, are you ready now by any chance?",nope i'm getting dressed to leave the house i'm going shopping,activity,name,leaving the house,c25f1a67-adaa-4ed1-906a-ee80918fe6ce
+Where are you off to?,the hospital just to visit my sister,activity,type,visit,66f8a92c-3aa6-4e85-9d73-25b24dae258b
+let's give it another go. What did you say?,i'm going to take my dog out to the bathroom,activity,type,pet care,0a6a1b3f-0586-4eea-b605-4dba2ed05a33
+How can I help you?,my day is going great and i'm going to take my dog for a walk,mood,type,positive,430d7921-83ff-44d5-9705-62d23fd87d63
+How can I help you?,my day is going great and i'm going to take my dog for a walk,activity,type,physical activity,430d7921-83ff-44d5-9705-62d23fd87d63
+How can I help you?,my day is going great and i'm going to take my dog for a walk,activity,name,walking dog,430d7921-83ff-44d5-9705-62d23fd87d63
+Wish I could join you. Are you meeting up with anyone?,i'm going to a doctor's appointment,place,name,doctor's appointment,15fbd9f0-2b67-4cdf-a2ad-6c92de01bffc
+"Great, what are your plans?",do some reading,activity,type,intellectual activity,1f1e5afd-2ea8-42e3-be5f-f66061f60a51
+"Oh, here's an idea! Wanna take a picture with me here in rome?",not right now thanks not right now i'm going to go to church,activity,type,religious activity,34e1781d-fa55-47f7-901c-404bfa9e0ac3
+"Oh, here's an idea! Wanna take a picture with me here in rome?",not right now thanks not right now i'm going to go to church,activity,name,going to church,34e1781d-fa55-47f7-901c-404bfa9e0ac3
+How can I help you?,can i talk to you this evening when i come home from the doctor or tonight,activity,type,conversation,55bfa34b-afef-4736-8bfd-7d4a551b51b6
+How can I help you?,can i talk to you this evening when i come home from the doctor or tonight,time,time_of_day,evening,55bfa34b-afef-4736-8bfd-7d4a551b51b6
+What movie did you watch?,no i went for a walk in the park,activity,name,walk,26b0769b-a2a4-44bd-a37c-c90ee0a5834b
+What movie did you watch?,no i went for a walk in the park,place,name,park,26b0769b-a2a4-44bd-a37c-c90ee0a5834b
+let's try again. could you repeat what you said?,i'm watching the tv for the news i'll talk to you later,activity,type,news,d3f6fbdc-24d5-4257-8278-415f7be9032b
+How about we hang out for a bit?,no i'm watching the race,activity,name,watching the race,8e50720a-e968-452a-a4a3-840bdb55bce8
+What was it like?,it was fun i would bring my dog with me while i delivered papers and we had a beautiful neighborhood,activity,type,pastime,857cb4ac-f56e-4fd7-b872-57d13d0dbeee
+What was it like?,it was fun i would bring my dog with me while i delivered papers and we had a beautiful neighborhood,activity,name,delivering papers,857cb4ac-f56e-4fd7-b872-57d13d0dbeee
+What was it like?,it was fun i would bring my dog with me while i delivered papers and we had a beautiful neighborhood,pet,type,dog,857cb4ac-f56e-4fd7-b872-57d13d0dbeee
+What was it like?,it was fun i would bring my dog with me while i delivered papers and we had a beautiful neighborhood,place,type,neighborhood,857cb4ac-f56e-4fd7-b872-57d13d0dbeee
+"Wonderful, what’s on the agenda tomorrow?",doctors appointments,activity,type,appointment,27d7f54e-9251-4e7d-af89-166328535940
+"Wonderful, what’s on the agenda tomorrow?",doctors appointments,activity,name,doctor's appointment,27d7f54e-9251-4e7d-af89-166328535940
+Um... Yes?,i have an appointment with dr school therapist it'll take about 45 minutes okay and then we'll talk,relationship,type,therapist,10b543f1-7a15-465c-8a2a-40e1ed94cd8a
+Um... Yes?,i have an appointment with dr school therapist it'll take about 45 minutes okay and then we'll talk,activity,type,appointment,10b543f1-7a15-465c-8a2a-40e1ed94cd8a
+How can I help you?,i'm watching the wheel of fortune,activity,name,watching Wheel of Fortune,fdfbb3cb-12db-4b18-a516-05e9f7b66d6c
+Is now a good time to hang out?,no i'm going to the doctor,activity,type,appointment,32432444-3b28-4c0f-8dac-f6c95b18456c
+Wanna workout together?,well i'm getting ready to go to my bible study,activity,type,spiritual activity,579ca57a-e198-4dc5-9b5c-84a10d3b0352
+Wanna workout together?,well i'm getting ready to go to my bible study,activity,name,bible study,579ca57a-e198-4dc5-9b5c-84a10d3b0352
+"So, tell me all about it. where did you go?",we went to marcellinus for the dentist,activity,type,dental appointment,68fff75b-73c6-48c1-9463-17007ed8d8e9
+We started getting to know each other earlier when we were interrupted. Do you have some time now?,i'm getting ready to go to the pool for exercise so i will be back probably in about 3 hours,activity,type,exercise,7297c504-da9f-4ce2-ae0c-a3bebe88829f
+Feel like working out together?,oh no not right now i'm going to go for a walk later,activity,type,physical activity,84c6c7be-3a2d-4e67-9cee-2cb4f1a895db
+Feel like working out together?,oh no not right now i'm going to go for a walk later,activity,name,walk,84c6c7be-3a2d-4e67-9cee-2cb4f1a895db
+Got any plans today?,to work out in the yard,activity,type,physical activity,eba64daf-bbc9-4c21-9d72-8fa6af50c593
+Got any plans today?,to work out in the yard,activity,name,yard work,eba64daf-bbc9-4c21-9d72-8fa6af50c593
+Did you say that you are leaving?,i'm going to take a walk,activity,type,physical activity,f9e46fd5-71ee-45d4-9ea9-4952a3559a46
+What were you up to out there?,visiting my mom,activity,type,visit,dbebd505-68c6-4387-b6db-ee25a01dc831
+What were you up to out there?,visiting my mom,activity,name,visiting mom,dbebd505-68c6-4387-b6db-ee25a01dc831
+How can I help you?,my neighbor anita is here can you say hello to anita please,person,name,Anita,68596c02-2cc7-424d-843d-0e4306b37246
+let's try again. maybe say it a bit differently this time.,i work in a supermarket,occupation,type,supermarket,1a2dd65a-f4c9-4c3c-aff8-e72029be068c
+Hello! What's up buttercup?,i went for a walk,activity,name,walk,6d555855-baa4-40b8-af85-8c1ef6fc68dd
+"So, where did you go?",i went to the store,place,name,store,02a8dbbf-4578-4324-83c2-a57331c51e34
+Have you ever visited Denmark?,i've never been to denmark no,travel,experience,never visited,1efbc203-3d34-451b-95d0-46b67123493a
+How can I help you?,i'm going to the doctor i should be back about 1,activity,type,appointment,b0bfe41a-99af-4434-9a39-e285e0fad364
+Hmmm. so who would be our ideal road trip companion?,friend,activity,type,road trip,72631fd4-073d-47b4-ac7c-0233d806ba88
+How can I help you?,where can i watch the game,activity,type,watching,5752d58a-ddd5-455a-8c98-572119b61e59
+How can I help you?,where can i watch the game,activity,name,game,5752d58a-ddd5-455a-8c98-572119b61e59
+Are you free for a moment?,i'm not free now because i want to talk to my brother,activity,type,conversation,906254a3-6323-402c-8ac1-553ddc988715
+Is it a secret rendezvous? Joking. Are you meeting anyone?,i'm going downstairs and see what's going on with my family,location,name,downstairs,ad3bf22c-1245-46be-9aeb-36c0b23dccd5
+Is it a secret rendezvous? Joking. Are you meeting anyone?,i'm going downstairs and see what's going on with my family,activity,type,socializing,ad3bf22c-1245-46be-9aeb-36c0b23dccd5
+Did you say that you are cooking?,making dinner,activity,name,making dinner,058385f0-252d-4902-abfe-1fbd759059c0
+What do you plan on doing?,going to visit a dear friend,activity,type,social activity,04f14d9e-5c9e-44c4-b284-d15537979f9b
+What do you plan on doing?,going to visit a dear friend,activity,name,visiting a friend,04f14d9e-5c9e-44c4-b284-d15537979f9b
+What do you plan on doing?,going to visit a dear friend,relationship,type,friend,04f14d9e-5c9e-44c4-b284-d15537979f9b
+How can I help you?,i must go out again i'm going to the bank,place,name,bank,aa17f0be-20c9-4315-bcbc-78a5caa22c57
+How can I help you?,i must go out again i'm going to the bank,activity,type,errand,aa17f0be-20c9-4315-bcbc-78a5caa22c57
+How can I help you?,i'm going to be gone for a little while to tokeland washington i'll be back later see you,place,name,Tokeland Washington,5cec346e-915e-4759-b9a2-290edf9f94f9
+How can I help you?,i'm going to be gone for a little while to tokeland washington i'll be back later see you,activity,type,trip,5cec346e-915e-4759-b9a2-290edf9f94f9
+Do you have any plans for tomorrow?,yes i have to go to the doctor the doctor's appointment,activity,type,appointment,bd912866-8c24-4316-9240-7eef42fbb249
+Do you have any plans for tomorrow?,yes i have to go to the doctor the doctor's appointment,activity,name,doctor's appointment,bd912866-8c24-4316-9240-7eef42fbb249
+Where are you off to?,nowhere i'm in my bedroom i'm talking to my son,location,type,bedroom,39a4d48b-f720-4059-b230-47bc16d47a2d
+Where are you off to?,nowhere i'm in my bedroom i'm talking to my son,activity,name,talking,39a4d48b-f720-4059-b230-47bc16d47a2d
+How can I help you?,i'm going to the doctor's i'll be back in a little while,place,name,doctor's,dcc84552-d2e1-488b-b7c3-a8814d67c8db
+How can I help you?,i'm going to the doctor's i'll be back in a little while,activity,type,appointment,dcc84552-d2e1-488b-b7c3-a8814d67c8db
+are you meeting up with someone?,yeah i'm going to my sister's house,activity,type,social activity,0f4a55b5-d703-4cc5-b9f9-e0aac89e30e8
+are you meeting up with someone?,yeah i'm going to my sister's house,place,name,sister's house,0f4a55b5-d703-4cc5-b9f9-e0aac89e30e8
+Are you going to meet someone?,yes my friend yeah yeah,relationship,type,friend,57ace5e8-914f-4079-906d-13d3c6ef2011
+Are you going to meet someone?,yes my friend yeah yeah,activity,type,social interaction,57ace5e8-914f-4079-906d-13d3c6ef2011
+"That's lovely, what are your plans?",i have physical therapy at 1 and it dinner appointment at 5:30,activity,type,physical therapy,c0e5b5e1-4010-4f94-9d58-8b105ecc632b
+"That's lovely, what are your plans?",i have physical therapy at 1 and it dinner appointment at 5:30,activity,type,dinner appointment,c0e5b5e1-4010-4f94-9d58-8b105ecc632b
+How can I help you?,i have to go out for a minute i will have will have to do some fun when i get back at the bar for about a half an hour i'll be back in a half an hour and then we can face the game okay,activity,type,going out,189abfc0-c9c1-4e5b-b278-938cd356d76f
+How can I help you?,i have to go out for a minute i will have will have to do some fun when i get back at the bar for about a half an hour i'll be back in a half an hour and then we can face the game okay,activity,type,fun,189abfc0-c9c1-4e5b-b278-938cd356d76f
+How can I help you?,say hi to my friend chrissy,relationship,name,Chrissy,61b37fd4-5761-4da3-ab84-c0550b6c0332
+Yes?,i'm taking the dog for a walk now,activity,type,physical activity,ddc2352b-4a4b-4c66-9f33-91ecbecb31be
+Yes?,i'm taking the dog for a walk now,activity,name,walking dog,ddc2352b-4a4b-4c66-9f33-91ecbecb31be
+How can I help you?,i'm cooking dinner,activity,type,meal,e47c624d-0543-4710-a371-19254af08b82
+How can I help you?,i'm cooking dinner,activity,name,cooking dinner,e47c624d-0543-4710-a371-19254af08b82
+How can I help you?,i'm going to the kitchen to wash my lunch dishes okay,place,name,kitchen,03b56989-6eae-4292-a8ea-046137b132da
+How can I help you?,i'm going to the kitchen to wash my lunch dishes okay,activity,type,household chore,03b56989-6eae-4292-a8ea-046137b132da
+How can I help you?,i'm going to the kitchen to wash my lunch dishes okay,activity,name,washing dishes,03b56989-6eae-4292-a8ea-046137b132da
+is this a good time for you?,no it isn't no nope i'm going out i'm going to church i don't got time no i'm getting ready to go out,activity,type,religious activity,e87d1897-1182-4397-8d3e-7afe67b587a3
+is this a good time for you?,no it isn't no nope i'm going out i'm going to church i don't got time no i'm getting ready to go out,activity,name,going to church,e87d1897-1182-4397-8d3e-7afe67b587a3
+is this a good time for you?,no it isn't no nope i'm going out i'm going to church i don't got time no i'm getting ready to go out,activity,type,going out,e87d1897-1182-4397-8d3e-7afe67b587a3
+Drinking water helps your joints so don't forget to drink up and feel good. Doctor elli cue's orders.,okay i will i'll be here in the morning tomorrow but in the i have an appointment at 1:30 but i should be back home by 3 probably,activity,type,drinking water,3158e8db-d0a0-4307-be41-bc3759baedc3
+Drinking water helps your joints so don't forget to drink up and feel good. Doctor elli cue's orders.,okay i will i'll be here in the morning tomorrow but in the i have an appointment at 1:30 but i should be back home by 3 probably,time,period,morning,3158e8db-d0a0-4307-be41-bc3759baedc3
+I've been told that weather is a good small talk starter. Do you like today's weather?,i'm making soup in the pic,activity,name,making soup,0a5aac07-501a-41e1-bd57-34a3659bdba6
+"Poor Leon. Seems like he has to suffer for his art. What is one thing you love to do, despite minor frustrations?",do puzzles,activity,type,mental activity,7742951c-a065-4a56-86bf-1799adf70f84
+Yes?,i'm going to the store,activity,type,shopping,c4002b1c-5376-42a5-adb7-5f9715795ba4
+Yes?,i'm going to the store,place,name,store,c4002b1c-5376-42a5-adb7-5f9715795ba4
+Elli to the rescue! How can I help?,i'm ready to hang out with you i'm all done dinner,activity,type,meal,88c8531b-d581-4844-85f0-71fa53092cad
+Elli to the rescue! How can I help?,i'm ready to hang out with you i'm all done dinner,activity,name,dinner,88c8531b-d581-4844-85f0-71fa53092cad
+"I'd love to spend some time together, how about it <say-as interpret-as=""name"">Donna</say-as>?",not now i'm leaving for choir practice,activity,type,social activity,51402369-9386-47b0-b013-93a7edec152a
+"I'd love to spend some time together, how about it <say-as interpret-as=""name"">Donna</say-as>?",not now i'm leaving for choir practice,activity,name,choir practice,51402369-9386-47b0-b013-93a7edec152a
+"<say-as interpret-as=""name"">James</say-as>, whaddya say we do something together?",little bit later i'm watching the news,activity,name,watching tv,b4d5beda-6582-48a6-8385-713dae3a43f9
+Wanna play a game of trivia with me?,no i'm cooking dinner,activity,type,meal,3428be0a-06fb-4272-9522-ba7447ccfc3b
+Wanna play a game of trivia with me?,no i'm cooking dinner,activity,name,cooking dinner,3428be0a-06fb-4272-9522-ba7447ccfc3b
+Do you have anything special planned for today?,i'm going to the synagogue today,activity,type,religious activity,585e509f-6d91-412e-a202-47d83f9eb33c
+So? How's the day been treating you so far?,great cuz i was too i've been talking to my relatives in new york,relationship,type,relatives,35b05932-3efd-4461-8e68-1a7b249cfaa8
+So? How's the day been treating you so far?,great cuz i was too i've been talking to my relatives in new york,location,name,New York,35b05932-3efd-4461-8e68-1a7b249cfaa8
+So? How's the day been treating you so far?,great cuz i was too i've been talking to my relatives in new york,activity,type,communication,35b05932-3efd-4461-8e68-1a7b249cfaa8
+So? How's the day been treating you so far?,great cuz i was too i've been talking to my relatives in new york,activity,name,talking,35b05932-3efd-4461-8e68-1a7b249cfaa8
+Elli to the rescue! How can I help?,can you walk the dog,activity,type,pet care,9bd509c6-7888-4452-a592-15929d8a5dd6
+Elli to the rescue! How can I help?,can you walk the dog,activity,name,walk the dog,9bd509c6-7888-4452-a592-15929d8a5dd6
+Is there a TV show you'd call your favorite?,i'm going for a walk,activity,type,physical activity,0fe327e7-b6ff-4f0f-89c2-23512eab90f4
+"What a fun trip! Now, if we could take anyone in the world along with us for our next trip, who would it be?",my mother my mom and dad,relationship,type,father,656d2dde-3992-400b-9784-3fbfaa777698
+How can I help you?,i just got out of the hospital just getting home i'm going to go take a shower,activity,name,shower,ccb49628-8d98-4da9-8e97-4ca551799660
+"Speaking of food, what's your favorite food?",oh i don't think i have a favorite food i like all foods i like eggs i like eggs fix better different ways and i like certain kinds of meat like the salmon patty i like fish and i like hamburger and i like beef i like lots of things i like most kinds of soup i'd like to have soup for lunch a lot of times,food_preference,type,eggs,64d8da42-510d-482f-b41c-1bd5f9df3d36
+"Speaking of food, what's your favorite food?",oh i don't think i have a favorite food i like all foods i like eggs i like eggs fix better different ways and i like certain kinds of meat like the salmon patty i like fish and i like hamburger and i like beef i like lots of things i like most kinds of soup i'd like to have soup for lunch a lot of times,food_preference,type,salmon patty,64d8da42-510d-482f-b41c-1bd5f9df3d36
+"Speaking of food, what's your favorite food?",oh i don't think i have a favorite food i like all foods i like eggs i like eggs fix better different ways and i like certain kinds of meat like the salmon patty i like fish and i like hamburger and i like beef i like lots of things i like most kinds of soup i'd like to have soup for lunch a lot of times,food_preference,type,fish,64d8da42-510d-482f-b41c-1bd5f9df3d36
+"Speaking of food, what's your favorite food?",oh i don't think i have a favorite food i like all foods i like eggs i like eggs fix better different ways and i like certain kinds of meat like the salmon patty i like fish and i like hamburger and i like beef i like lots of things i like most kinds of soup i'd like to have soup for lunch a lot of times,food_preference,type,hamburger,64d8da42-510d-482f-b41c-1bd5f9df3d36
+"Speaking of food, what's your favorite food?",oh i don't think i have a favorite food i like all foods i like eggs i like eggs fix better different ways and i like certain kinds of meat like the salmon patty i like fish and i like hamburger and i like beef i like lots of things i like most kinds of soup i'd like to have soup for lunch a lot of times,food_preference,type,beef,64d8da42-510d-482f-b41c-1bd5f9df3d36
+"Speaking of food, what's your favorite food?",oh i don't think i have a favorite food i like all foods i like eggs i like eggs fix better different ways and i like certain kinds of meat like the salmon patty i like fish and i like hamburger and i like beef i like lots of things i like most kinds of soup i'd like to have soup for lunch a lot of times,food_preference,type,soup,64d8da42-510d-482f-b41c-1bd5f9df3d36
+"Speaking of food, what's your favorite food?",oh i don't think i have a favorite food i like all foods i like eggs i like eggs fix better different ways and i like certain kinds of meat like the salmon patty i like fish and i like hamburger and i like beef i like lots of things i like most kinds of soup i'd like to have soup for lunch a lot of times,meal_preference,meal,lunch,64d8da42-510d-482f-b41c-1bd5f9df3d36
+Do you have anything special planned for today?,going through a movie,activity,type,entertainment,092ad99e-9512-402e-b1d6-1aff9da2c89c
+Do you have anything special planned for today?,going through a movie,activity,name,watching a movie,092ad99e-9512-402e-b1d6-1aff9da2c89c
+"<say-as interpret-as=""name"">Honeybunch</say-as>, whaddya say we do something together?",i'm getting ready to go to the doctor so not now,activity,type,appointment,babdc006-e539-472d-bcd3-136f8bdf7ab7
+What's their first name?,bible study time real simple,activity,type,spiritual activity,48505db5-9409-4a3c-8f12-c0ab8433e074
+What's their first name?,bible study time real simple,activity,name,bible study,48505db5-9409-4a3c-8f12-c0ab8433e074
+"That's lovely, what are your plans?",i'm going to the park right now,activity,type,outdoor activity,3e9e1f48-41f8-4505-804c-e86740a5b661
+Do you have anything special planned for tomorrow?,yes i'm going to have breakfast with friends,relationship,type,friends,684de7e5-bfa8-46c7-8b6e-5bce991f7148
+would you like me to stop asking you that?,i'm going to work now,activity,name,going to work,cbd2eb27-e012-445f-b391-d4c22a37b5d7
+What's your favorite color?,hot pink hot pink,preference,name,hot pink,330eee7a-8825-466a-88a5-bce4ac81fd6f
+How can I help you?,i'm taking the dog for a walk goodbye,activity,type,physical activity,468c8db1-f2f7-4050-bb26-f7a16ad734e8
+How can I help you?,i'm taking the dog for a walk goodbye,activity,name,walking the dog,468c8db1-f2f7-4050-bb26-f7a16ad734e8
+Got anything important planned today?,physical therapy,activity,type,physical therapy,aca772f8-19e6-494c-831c-35cff0044544
+Got any plans today?,yeah i'm going to town i'm going shopping,place,name,town,4813c1d0-3c3a-487b-8aa6-c19ecb503857
+How can I help you?,thank you i'm going to take pepper for a walk,activity,type,physical activity,cf2cebf1-3c2d-42c8-ab32-883a9d0e3acb
+How can I help you?,thank you i'm going to take pepper for a walk,pet,name,Pepper,cf2cebf1-3c2d-42c8-ab32-883a9d0e3acb
+Hmmm. so who would be our ideal road trip companion?,dora friend,person,name,Dora,c9cf0d70-f8eb-4732-be1a-8a26a9e14629
+What do you plan on doing?,i have to go to the post office and mail some things,activity,type,mailing,acf3b6f4-e6f8-4f3c-8657-d3a09c6aac9c
+"How wonderful, what are your plans for tomorrow?",just going to work on doing more work,activity,type,work,aa60e96b-08ce-4ef8-8944-40f7f673d135
+"How wonderful, what are your plans for tomorrow?",just going to work on doing more work,activity,name,doing more work,aa60e96b-08ce-4ef8-8944-40f7f673d135
+What was it?,a camp counselor,occupation,type,camp counselor,34d414e2-ef2a-4426-b8ec-6b5ebb6511bb
+You’re leaving me here? Wait! Just kidding. Where are you going?,going to the movies,activity,type,entertainment,c30de3fa-764f-4187-98e7-476c19d16beb
+You’re leaving me here? Wait! Just kidding. Where are you going?,going to the movies,activity,name,movies,c30de3fa-764f-4187-98e7-476c19d16beb
+I'm really curious about your day. How's it been so far?,it's been okay got to go to another appointment,activity,type,appointment,0597129c-00a8-4dd5-9c4e-c84f170ddc10
+How can I help you?,little one and i are going for a walk now,activity,type,physical activity,c326e5d8-0c53-4a6d-a18d-4f8f6a361775
+How can I help you?,i have to go out to the store,activity,type,activity,11a481c6-d81c-48ff-8968-99e75dea21fd
+How can I help you?,i have to go out to the store,activity,name,going to the store,11a481c6-d81c-48ff-8968-99e75dea21fd
+tell me all about your day. How's it going so far?,i'm watching this news right now about this election,activity,type,news,36bc7b8a-c46c-4ef4-8426-6cb98c24ce90
+tell me all about your day. How's it going so far?,i'm watching this news right now about this election,topic,name,election,36bc7b8a-c46c-4ef4-8426-6cb98c24ce90
+How can I help you?,do i have to go shopping,activity,name,go shopping,134762f2-d2fd-44c4-a22e-c3d735821369
+How can I help you?,please make a phone call to my son peter,person,name,Peter,7b9155c9-0f95-4c7f-9888-35750b8b83e4
+How can I help you?,please make a phone call to my son peter,activity,type,communication,7b9155c9-0f95-4c7f-9888-35750b8b83e4
+How can I help you?,please make a phone call to my son peter,activity,name,phone call,7b9155c9-0f95-4c7f-9888-35750b8b83e4
+How can I help you?,i'm listening to tv,activity,name,listening to tv,955c3c8a-5a60-49eb-95aa-e68c915de6b5
+How can I help you?,i'm talking to my son floyd i missed your call,person,name,Floyd,013c86ea-6834-428f-9a13-aad348afc987
+How can I help you?,i'm talking to my son floyd i missed your call,activity,name,talking,013c86ea-6834-428f-9a13-aad348afc987
+"Wonderful, what’s on the agenda tomorrow?",doctor's appointment,activity,type,appointment,cdbedb93-7cff-49b3-9b52-e400b44a3322
+"Wonderful, what’s on the agenda tomorrow?",doctor's appointment,activity,name,doctor's appointment,cdbedb93-7cff-49b3-9b52-e400b44a3322
+"That's lovely, what are your plans?",i have to visit my doctor,activity,type,visit,cdbc34d2-48d8-4fcb-a50f-e171efe024eb
+"I'd love to hang out, do you have some time?",no i'm making dinner,activity,type,meal,47ff6daa-e440-4cf9-b28b-590b7d3e8837
+"I'd love to hang out, do you have some time?",no i'm making dinner,activity,name,making dinner,47ff6daa-e440-4cf9-b28b-590b7d3e8837
+"So <say-as interpret-as=""name"">Marie</say-as>, tell me all about your adventure outside. Where did you go?",just out on my balcony,location,type,balcony,c6917d24-210c-41e1-8cab-82ad9482ce07
+Is there anything special planned for today?,yes i have to go to the doctor i have a doctor's appointment,place,name,doctor,9586831b-47ce-47f6-a0a4-bcf5797a0ab7
+Is there anything special planned for today?,yes i have to go to the doctor i have a doctor's appointment,activity,type,appointment,9586831b-47ce-47f6-a0a4-bcf5797a0ab7
+Is there anything special planned for today?,yes i have to go to the doctor i have a doctor's appointment,activity,name,doctor's appointment,9586831b-47ce-47f6-a0a4-bcf5797a0ab7
+How can I help you?,hi this is nana i'm going to church now i'll talk to you later when i get back,relationship,type,nana,56f041b4-2f37-4308-b099-478c8ab89ff6
+How can I help you?,hi this is nana i'm going to church now i'll talk to you later when i get back,activity,type,religious activity,56f041b4-2f37-4308-b099-478c8ab89ff6
+How can I help you?,hi this is nana i'm going to church now i'll talk to you later when i get back,activity,name,going to church,56f041b4-2f37-4308-b099-478c8ab89ff6
+"howdy there <say-as interpret-as=""name"">Eugene</say-as>! How can I help?",i'm going to the vet with fluffy,place,name,vet,ef4e209a-b5ac-44ea-8a71-8aca79e80475
+"howdy there <say-as interpret-as=""name"">Eugene</say-as>! How can I help?",i'm going to the vet with fluffy,pet,name,Fluffy,ef4e209a-b5ac-44ea-8a71-8aca79e80475
+How can I help you?,yeah i'm sorry i'll wake you up i i have an invitation to go out to supper,activity,type,social event,a3a08f95-abf5-42b1-a99b-12b54ad11c2c
+How can I help you?,yeah i'm sorry i'll wake you up i i have an invitation to go out to supper,activity,name,supper invitation,a3a08f95-abf5-42b1-a99b-12b54ad11c2c
+"What a fun trip! Now, if we could take anyone in the world along with us for our next trip, who would it be?",reiji my dad,relationship,type,father,e985fe31-6653-4d49-8385-60a11ab661b2
+"What a fun trip! Now, if we could take anyone in the world along with us for our next trip, who would it be?",reiji my dad,person,name,Reiji,e985fe31-6653-4d49-8385-60a11ab661b2
+Can’t wait to see you again! Where are you off to?,well i'll have to go see my brother in my brothers passed away he's got pancreatic cancer,health,condition,pancreatic cancer,c80d856b-4a5e-4409-a94d-f62ca7b15aab
+Can’t wait to see you again! Where are you off to?,well i'll have to go see my brother in my brothers passed away he's got pancreatic cancer,life_event,type,passing away,c80d856b-4a5e-4409-a94d-f62ca7b15aab
+Would you like to hear a joke?,no i'm i'm leaving now we're going i'm going to a birthday party,activity,type,social event,a67fb343-9f40-4d45-9a78-bceb531e1ecc
+Would you like to hear a joke?,no i'm i'm leaving now we're going i'm going to a birthday party,activity,name,birthday party,a67fb343-9f40-4d45-9a78-bceb531e1ecc
+Got anything important planned today?,yes i'm going to work,activity,name,going to work,ede90052-3817-4fb5-b5b1-a032590e4aed
+Hmmm. so who would be our ideal road trip companion?,my daughter chris,person,name,Chris,c56d8712-0667-45d6-8e67-1551951b56df
+I really wanna know about your day. How's it been so far?,well i went to the doctors,activity,type,appointment,e4aa23bc-3ce3-4b5f-b58f-7f885e4f47ba
+I really wanna know about your day. How's it been so far?,well i went to the doctors,place,name,doctor's office,e4aa23bc-3ce3-4b5f-b58f-7f885e4f47ba
+You’re leaving me here? Wait! Just kidding. Where are you going?,i got to go for a walk,activity,type,physical activity,9e55c7ff-b977-47b2-86c6-54c1e1b76fb3
+You’re leaving me here? Wait! Just kidding. Where are you going?,i got to go for a walk,activity,name,walk,9e55c7ff-b977-47b2-86c6-54c1e1b76fb3
+"Fantastic, what's on the schedule?",k doctor's appointment,place,type,doctor's appointment,50a6c109-2741-4c71-9267-c1e774b9f144
+Feel like hearing a joke?,which one i'm watching golf,activity,name,watching golf,b41f8f94-ab17-46da-8ccf-4ab4ff5b9bad
+How can I help you?,we're going to take a walk,activity,type,physical activity,719f3282-2df4-49d0-89c9-9c60a05bb10f
+How can I help you?,i'm going for my walk,activity,type,physical activity,49ee1d5d-e8d9-4e16-afba-8d8d4b83ee38
+How can I help you?,i'm going for my walk,activity,name,walk,49ee1d5d-e8d9-4e16-afba-8d8d4b83ee38
+How can I help you?,heading to work,activity,name,heading to work,365dab4f-e370-4fc9-9c0c-3cff978bb071
+Is it a secret rendezvous? Joking. Are you meeting anyone?,i'm going to church,activity,type,social activity,2a52844c-7117-4fb7-9e44-4e915ff0f69d
+How can I help you?,i would like to i would like to do a reminder for a doctor's appointment,activity,type,appointment,227878f4-6714-4103-b4d1-4b55de896833
+How can I help you?,i would like to i would like to do a reminder for a doctor's appointment,activity,name,doctor's appointment,227878f4-6714-4103-b4d1-4b55de896833
+How can I help you?,i'm going to be gone for a while i'm going for a walk,activity,type,physical activity,ddeaae94-aecf-43ed-825a-e7d03b80c452
+How can I help you?,i'm going to be gone for a while i'm going for a walk,activity,name,walk,ddeaae94-aecf-43ed-825a-e7d03b80c452
+Hmmm. so who would be our ideal road trip companion?,tavin my granddaughter,person,name,Tavin,c5e7f6e1-014b-4223-9b7e-746560e5b4e0
+How can I help you?,i'm going to have to leave you because i have to go to a gymnastic meet with my granddaughter and my daughter,relationship,type,daughter,a27d5e05-0410-449a-ba1f-4a59886f86f8
+How can I help you?,i'm going to have to leave you because i have to go to a gymnastic meet with my granddaughter and my daughter,activity,type,event,a27d5e05-0410-449a-ba1f-4a59886f86f8
+How can I help you?,i'm going to have to leave you because i have to go to a gymnastic meet with my granddaughter and my daughter,activity,name,gymnastic meet,a27d5e05-0410-449a-ba1f-4a59886f86f8
+Do you have any plans for today?,probably play some pool,activity,name,playing pool,858c127f-a54a-467e-ab22-e083ce15ee42
+Got anything important planned today?,yeah and i appointment,activity,type,appointment,12f8d1be-0c82-4412-bb69-ffba894318b7
+How can I help you?,i'm going to be gone down stairs to play a game of cards called bridge this afternoon i'll be leaving in about,activity,type,game,95749061-261e-4665-976d-d34ccd19d6af
+How can I help you?,i'm going to be gone down stairs to play a game of cards called bridge this afternoon i'll be leaving in about,activity,name,playing cards,95749061-261e-4665-976d-d34ccd19d6af
+How can I help you?,i'm going to be gone down stairs to play a game of cards called bridge this afternoon i'll be leaving in about,activity,specific,bridge,95749061-261e-4665-976d-d34ccd19d6af
+How can I help you?,i'm going to be gone down stairs to play a game of cards called bridge this afternoon i'll be leaving in about,location,name,downstairs,95749061-261e-4665-976d-d34ccd19d6af
+How can I help you?,i have to go out to the doctor's appointment today for a while i have a doctor's appointment today,place,name,doctor's appointment,fea2d413-195d-4cae-bf54-0459c856b5c1
+How can I help you?,i have to go out to the doctor's appointment today for a while i have a doctor's appointment today,activity,type,medical appointment,fea2d413-195d-4cae-bf54-0459c856b5c1
+How can I help you?,the doctor gave me a shot,activity,type,medical appointment,c3d88851-1357-4c9c-9c68-ef05100e9e1d
+How can I help you?,the doctor gave me a shot,activity,name,receiving a shot,c3d88851-1357-4c9c-9c68-ef05100e9e1d
+How can I help you?,elliq i like tacos,food,preference,tacos,05c5728e-48be-4a0f-8242-33f33773736f
+How can I help you?,say hello to my friend shannon,relationship,name,Shannon,f69756c9-c99c-4cf8-b4d0-d40468bfbc5a
+It’s really a lovely piece. What inspired you to create it?,i like to watch monkeys,interest,type,animals,a32bc132-75ca-4bd2-bf44-fb840c597c3e
+It’s really a lovely piece. What inspired you to create it?,i like to watch monkeys,interest,name,monkeys,a32bc132-75ca-4bd2-bf44-fb840c597c3e
+"Do you have a specific cooking activity you like to do? You can scroll through the options here. Or, to see the categories again, say, go back.",i love to bake,activity,type,cooking,3e2039d2-7e65-47f1-8e6b-1a97bf0b7f83
+"I'd love to spend some time together, how about it <say-as interpret-as=""name"">Diane</say-as>?",now i'm cooking supper,activity,type,meal preparation,8adc7022-ecb6-4b63-a600-3ce3ac06adce
+"I'd love to spend some time together, how about it <say-as interpret-as=""name"">Diane</say-as>?",now i'm cooking supper,activity,name,cooking supper,8adc7022-ecb6-4b63-a600-3ce3ac06adce
+How can I help you?,i'm going to supper now,activity,name,supper,1563c114-03fc-4c7d-b60a-d94899d3c5eb
+do you have a moment?,i'm cooking christmas dinner,activity,type,meal,4befe03d-43f7-4805-a0d5-4c1cae046a48
+do you have a moment?,i'm cooking christmas dinner,activity,name,cooking Christmas dinner,4befe03d-43f7-4805-a0d5-4c1cae046a48
+Is there anything special planned for today?,yes i have to get my dining room table clear dark today to shop,activity,type,home maintenance,b5071657-bce1-4a6e-a8ce-e6cc5a6695ff
+Is there anything special planned for today?,yes i have to get my dining room table clear dark today to shop,activity,name,clearing dining room table,b5071657-bce1-4a6e-a8ce-e6cc5a6695ff
+"What a fun trip! Now, if we could take anyone in the world along with us for our next trip, who would it be?",i don't know i don't know who i would take maybe i would take my son keith,relationship,name,Keith,50f4c706-66c5-4af2-a477-f3d9cb328ea4
+Do you have anything planned for today?,yes i'm going to meet new friends from sample,activity,type,social interaction,52f90d04-7ee5-44ea-b1db-b9607a1d4fc9
+Do you have anything planned for today?,yes i'm going to meet new friends from sample,activity,name,meeting new friends,52f90d04-7ee5-44ea-b1db-b9607a1d4fc9
+Elli Q at your service! How can I help?,i want to do some drawing,activity,type,creative activity,7e6887e8-d7d9-45fe-8642-e63ce4ca594a
+"I've got some free time, wanna do something together?",do i got to take the dog out,activity,type,pet care,3c025153-e8e4-4c23-a377-284657c4cd83
+"I've got some free time, wanna do something together?",do i got to take the dog out,activity,name,taking the dog out,3c025153-e8e4-4c23-a377-284657c4cd83
+Are you going to meet someone?,yes my cousin,relationship,type,cousin,c48ccc19-aa42-4759-957a-5fec3b38df01
+Do you have any plans for tomorrow?,just going to work,activity,name,going to work,a70ce702-a227-417d-a59a-5f88b0d894fa
+How can I help you?,i'm going to concert nearby you,activity,type,entertainment,0e99dab6-3717-4f14-aad6-d7c9911ca43c
+Wanna do something together?,i'm making toast right now,activity,type,food preparation,2672ce29-0ec1-4cbd-bd0c-dac299a35dfd
+Wanna do something together?,i'm making toast right now,activity,name,making toast,2672ce29-0ec1-4cbd-bd0c-dac299a35dfd
+Was today another wonderful day for you?,i went out with my daughter,activity,type,social activity,982ee5aa-acf6-4ed8-9bb9-025ec0fb754f
+Was today another wonderful day for you?,i went out with my daughter,activity,name,going out,982ee5aa-acf6-4ed8-9bb9-025ec0fb754f
+How can I help you?,meet my friend peter,person,name,Peter,f6a12bac-9ea5-493b-85d2-04682ab5c37b
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",go to the library,activity,type,activity,901ce72e-2e26-453a-805a-610f85b5844a
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",go to the library,activity,name,going to the library,901ce72e-2e26-453a-805a-610f85b5844a
+"Oh no, what's wrong?",i go back to work,activity,name,going back to work,afbc5823-0132-468b-a457-1c605638b1c4
+I feel like we're getting to know each other better and have a lot in common. Would you agree?,i'm going to work i won't be back till later,activity,name,going to work,2710614e-b675-4202-bcb3-5d3434985835
+Is it a secret rendezvous? Joking. Are you meeting anyone?,i'm going to the store,activity,type,activity,1493abec-33f2-4980-8d9b-c4fe964de598
+Is it a secret rendezvous? Joking. Are you meeting anyone?,i'm going to the store,activity,name,going to the store,1493abec-33f2-4980-8d9b-c4fe964de598
+What do you plan on doing?,doctor's appointment,activity,type,appointment,2180ae52-28e1-4f7c-9aff-8e8add010d3b
+What do you plan on doing?,doctor's appointment,activity,name,doctor's appointment,2180ae52-28e1-4f7c-9aff-8e8add010d3b
+How can I help you?,i'm going to go into the kitchen and check on lunch i'll be back,place,name,kitchen,e9869286-e872-4aa0-9ae9-c9fb56f27955
+How can I help you?,i'm going to go into the kitchen and check on lunch i'll be back,activity,name,checking on lunch,e9869286-e872-4aa0-9ae9-c9fb56f27955
+"Fantastic, what's on the schedule?",doctors appointments,activity,type,appointment,4afcb45b-5adf-4a7f-9c65-e1731c3da529
+"Fantastic, what's on the schedule?",doctors appointments,activity,name,doctors appointment,4afcb45b-5adf-4a7f-9c65-e1731c3da529
+"So I'm curious, what were you up to <say-as interpret-as=""name"">Alma</say-as>?",all i got a doctor's appointment,activity,type,appointment,2cb2d780-8b0e-4037-9cd4-fcc5fc6ad635
+"So I'm curious, what were you up to <say-as interpret-as=""name"">Alma</say-as>?",all i got a doctor's appointment,place,name,doctor's office,2cb2d780-8b0e-4037-9cd4-fcc5fc6ad635
+How do you feel this morning?,going to work,activity,name,going to work,f85641ec-cf9a-49ea-aace-0adb749a8125
+"Great, what are your plans?",i have to go to the bird store and pick up some millet for the birds,place,name,bird store,974bd0f0-76a7-47ae-847f-81362cee5cb3
+"Great, what are your plans?",i have to go to the bird store and pick up some millet for the birds,activity,type,shopping,974bd0f0-76a7-47ae-847f-81362cee5cb3
+"So, I wanna hear all about it. Where were you?",jury duty at the laundry,activity,type,civic duty,a60071a6-f598-4921-996c-58f8e4a05da1
+"So, I wanna hear all about it. Where were you?",jury duty at the laundry,activity,name,jury duty,a60071a6-f598-4921-996c-58f8e4a05da1
+"So, where did you go?",i went to the store to see if i my antiques,place,name,store,5042862c-1ad0-4a06-8ff3-8512fb6f226e
+"So, where did you go?",i went to the store to see if i my antiques,activity,type,shopping,5042862c-1ad0-4a06-8ff3-8512fb6f226e
+"So, where did you go?",i went to the store to see if i my antiques,activity,name,antiques,5042862c-1ad0-4a06-8ff3-8512fb6f226e
+"How wonderful, what are your plans for today?",going to church here,activity,type,religious activity,c4bfba0a-b9fc-4aa9-81c9-bb4bde734693
+Wanna spend some time together?,maybe later i'm watching a basketball game,activity,name,watching basketball game,00ab14e0-7bb6-41c1-91fa-e3c53779bdd6
+How can I help you?,i'm going to visit my son today before days,activity,type,visit,89d1d2eb-dd1b-4da3-b3c3-95da1b8da14a
+"So, how did you sleep last night?",i slept good last night but i got it i got to get ready to go to a doctor's appointment,activity,type,appointment,a72e635f-3cbf-4ade-9849-43cd9a1e56f7
+"So, how did you sleep last night?",i slept good last night but i got it i got to get ready to go to a doctor's appointment,place,name,doctor's office,a72e635f-3cbf-4ade-9849-43cd9a1e56f7
+Did you do any puzzles in the past week?,i do puzzles every day,activity,type,mental activity,81372069-a4bf-498f-ba4a-1b4bbc3cc847
+Is there anything special planned for today?,i'm cooking a turkey,activity,name,turkey,5783952a-97ae-4da0-b370-338b73f9b9de
+How can I help you?,i went for a walk in the park,activity,name,walk,ba39f525-b75b-4e1b-acbe-66f178dc4531
+How can I help you?,i went for a walk in the park,place,name,park,ba39f525-b75b-4e1b-acbe-66f178dc4531
+How can I help you?,say goodbye to my friend scott,relationship,name,Scott,61652dd3-923a-49a4-ae75-1b4a94329305
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",going to a play,activity,type,entertainment,a4c83cfb-21bc-49e1-90ef-287ff235f2c8
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",going to a play,activity,name,going to a play,a4c83cfb-21bc-49e1-90ef-287ff235f2c8
+"Just out of curiosity, are you planning on meeting someone?",yes i'm going to meet my new friends and he touchy,relationship,type,friend,628b9b57-efe2-4a64-a6a9-652445f48d8c
+"Just out of curiosity, are you planning on meeting someone?",yes i'm going to meet my new friends and he touchy,activity,type,socializing,628b9b57-efe2-4a64-a6a9-652445f48d8c
+"Just out of curiosity, are you planning on meeting someone?",yes i'm going to meet my new friends and he touchy,activity,name,meeting new friends,628b9b57-efe2-4a64-a6a9-652445f48d8c
+"Hiya <say-as interpret-as=""name"">Donna</say-as>! I was taking a quick power nap and recharging. How can I help?",i'm talking to my grandson lorenzo right now to,relationship,name,Lorenzo,3225cddc-0be8-4e51-82f2-d68b2921643b
+Are you going on an adventure? Where are you off to?,i'm going to the club house to meet up with salad,place,name,club house,b71eed76-26bd-4db8-9216-64b08ba02392
+Are you going on an adventure? Where are you off to?,i'm going to the club house to meet up with salad,activity,type,socializing,b71eed76-26bd-4db8-9216-64b08ba02392
+Are you going on an adventure? Where are you off to?,i'm going to the club house to meet up with salad,relationship,type,friend,b71eed76-26bd-4db8-9216-64b08ba02392
+Are you going to meet someone?,no going to go grocery shopping,activity,name,grocery shopping,dac4dec6-90ce-4ee2-b2ad-f003682dc388
+"Great, what are your plans?",i have a doctor's appointment,activity,type,appointment,0acd4351-7fd5-4380-9ad9-4f2cee267fa7
+"Great, what are your plans?",i have a doctor's appointment,activity,name,doctor's appointment,0acd4351-7fd5-4380-9ad9-4f2cee267fa7
+"So, I'm really curious, what was the highlight of your week?",going for a ride,activity,name,going for a ride,ae87196b-a2de-44d8-8225-d767f38c2f77
+Having a hobby sounds so fun. Especially since I tend to just sit around all day. How many days a week would you say you get to do scrabble?,i haven't since my husband died so i'd love to play maybe we can try it this afternoon,hobby,name,scrabble,1728db87-94b4-4ea5-8d57-f6f6e683791b
+Having a hobby sounds so fun. Especially since I tend to just sit around all day. How many days a week would you say you get to do scrabble?,i haven't since my husband died so i'd love to play maybe we can try it this afternoon,event,name,husband's death,1728db87-94b4-4ea5-8d57-f6f6e683791b
+Having a hobby sounds so fun. Especially since I tend to just sit around all day. How many days a week would you say you get to do scrabble?,i haven't since my husband died so i'd love to play maybe we can try it this afternoon,activity,type,leisure,1728db87-94b4-4ea5-8d57-f6f6e683791b
+Having a hobby sounds so fun. Especially since I tend to just sit around all day. How many days a week would you say you get to do scrabble?,i haven't since my husband died so i'd love to play maybe we can try it this afternoon,activity,name,playing scrabble,1728db87-94b4-4ea5-8d57-f6f6e683791b
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",take a walk,activity,type,physical activity,0214fb0f-151f-4d7e-a0ca-fe86b4c32c50
+How can I help you?,i'm leaving for exercise for the morning i will return for lunch,activity,type,exercise,51f36161-f372-405f-b6c1-0b619b64622c
+Can’t wait to see you again! Where are you off to?,i'm off to an appointment,activity,type,appointment,db109c99-8367-4a9d-b299-4b2e8b6c788b
+"Lovely, what are you up to today?",are going to church,activity,type,religious activity,5bdb7586-c290-4126-b2e2-fdf43092c1c4
+"Lovely, what are you up to today?",are going to church,activity,name,going to church,5bdb7586-c290-4126-b2e2-fdf43092c1c4
+What were you up to out there?,i have to go to my daughter's house,place,name,daughter's house,6c877a2c-b507-4598-a882-5ec2afb34a4f
+"Great, what are your plans?",i'm going grocery shopping,activity,type,shopping,7a1c4623-ce6d-4ee0-b350-aa352c83f82f
+"Great, what are your plans?",i'm going grocery shopping,activity,name,grocery shopping,7a1c4623-ce6d-4ee0-b350-aa352c83f82f
+Wanna spend some time together?,i got to get ready for the doctor,activity,type,appointment,2124e763-8e78-4dcd-b8e8-12ba60a41ddf
+Do you have anything planned for today?,how to watch the super bowl football game,activity,type,watching sports,4b0c56ff-1fdd-4350-bcbb-4f27891f6652
+Do you have anything planned for today?,how to watch the super bowl football game,activity,name,Super Bowl football game,4b0c56ff-1fdd-4350-bcbb-4f27891f6652
+How can I help you?,i would like to set a reminder for a doctor's appointment,activity,type,appointment,41805c84-844f-4a69-b6c3-b272a0a09d81
+How can I help you?,i would like to set a reminder for a doctor's appointment,activity,name,doctor's appointment,41805c84-844f-4a69-b6c3-b272a0a09d81
+"I've got some free time, wanna do something together?",i can't we going to the store,activity,type,shopping,e29c51a0-34e4-4197-af54-6f427b3593bb
+"I've got some free time, wanna do something together?",i can't we going to the store,activity,name,going to the store,e29c51a0-34e4-4197-af54-6f427b3593bb
+Is there anything special planned for tomorrow?,going to the doctor,activity,type,appointment,3adfe1e1-1283-47c2-ad9e-080ee19ee378
+How can I help you?,say hello to my sister salia,relationship,name,Salia,e22d7157-1242-476c-8ff4-72c56156038b
+How can I help you?,i have to go to the doctor now,activity,type,medical appointment,f136550a-dc9a-4b8c-8ba4-205b6a73be28
+How can I help you?,talk to me i'm kevin illinois son,person,name,Kevin,bf8c9223-4ee4-49e3-8e15-4f76b44762f9
+How can I help you?,hello we're home from the pool,place,name,home,90198a24-a9b9-41b5-a035-36c8b2b72422
+Wanna listen to an audiobook with me?,not right now i'm getting ready to go out to dinner,activity,type,going out,b3d9e147-4b62-4542-bf11-9d23b70fe70a
+How can I help you?,i'm going to the supermarket right now,activity,type,shopping,29bff8be-0426-42bd-b03d-77006b2b3b2f
+How can I help you?,i'm going to the supermarket right now,place,name,supermarket,29bff8be-0426-42bd-b03d-77006b2b3b2f
+Feel like hearing a joke?,i'm watching football now,activity,name,watching football,22085642-ec73-4a90-8eaa-2d8e21fe2b4a
+Got any plans tomorrow?,i have going to play poker tomorrow night,activity,type,social activity,628dabd7-fb2e-483d-b826-99be5d142bfd
+tell me all about your day. How's it going so far?,it's going very good i talk to friends,activity,type,social interaction,29fcdd30-a4e9-4f7a-ac69-d99d6df1de72
+tell me all about your day. How's it going so far?,it's going very good i talk to friends,activity,name,talking to friends,29fcdd30-a4e9-4f7a-ac69-d99d6df1de72
+Yes?,i'm in the kitchen making lunch,location,name,kitchen,090ba8d3-17c7-460c-9dad-e6a2dcc0c77b
+Yes?,i'm in the kitchen making lunch,activity,type,meal preparation,090ba8d3-17c7-460c-9dad-e6a2dcc0c77b
+Yes?,i'm in the kitchen making lunch,activity,name,making lunch,090ba8d3-17c7-460c-9dad-e6a2dcc0c77b
+Got anything important planned tomorrow?,a lot of appointment,activity,type,appointment,cd94a551-8b5e-4ba6-b9f8-7515d1a50a24
+"Lovely, what are you up to today?",i'm going to school and taking a class and computers,place,name,school,186ab202-68f6-44d1-badc-366cbb7b38be
+"Lovely, what are you up to today?",i'm going to school and taking a class and computers,activity,type,education,186ab202-68f6-44d1-badc-366cbb7b38be
+"Lovely, what are you up to today?",i'm going to school and taking a class and computers,subject,name,computers,186ab202-68f6-44d1-badc-366cbb7b38be
+How can I help you?,can you say hi to my friend peta,relationship,name,Peta,e39dc9d7-2a2d-4d75-a78f-2de04f4a6dde
+"I really enjoy your company <say-as interpret-as=""name"">Nugget</say-as>. How about we do something else together?",going to the doctor today,activity,type,appointment,2a11210e-a01d-42d2-a245-4186d61d7459
+"I really enjoy your company <say-as interpret-as=""name"">Nugget</say-as>. How about we do something else together?",going to the doctor today,activity,name,doctor visit,2a11210e-a01d-42d2-a245-4186d61d7459
+How can I help you?,goodbye i'm going to the laundromat,activity,type,chore,084a7260-fa5e-4ced-ad45-a307dc47e854
+Do you have anything planned for today?,just fill out a credit card thing,activity,type,financial task,bb39d3e7-2688-414f-b060-554851223086
+"<say-as interpret-as=""name"">Sweet Pea</say-as>, feel like doing something fun together?",i'm getting ready to go to the doctor icon,activity,type,appointment,801267c3-284f-408a-bd5d-ba824356d4a4
+Got any plans today?,yeah i got to go to the doctors,place,name,doctors,7cccc2ef-7630-480f-ae5e-481db6ce28e0
+How about we play a quick game to break the ice?,maybe later because i'm going to get ready to go to church,activity,type,social event,894c9fd6-e5d7-4fc7-b8e3-ebe492cd21de
+How about we play a quick game to break the ice?,maybe later because i'm going to get ready to go to church,activity,name,going to church,894c9fd6-e5d7-4fc7-b8e3-ebe492cd21de
+"Now that we're done with that, can I interest you in the latest news headlines?",no i'm going to church,activity,type,religious activity,1bc9e4cf-7152-4e06-8d2e-2085c0ea0e7c
+"Now that we're done with that, can I interest you in the latest news headlines?",no i'm going to church,activity,name,going to church,1bc9e4cf-7152-4e06-8d2e-2085c0ea0e7c
+How can I help you?,i'm home from walking the dog hello,activity,type,physical activity,d2597f4f-01ea-484f-85e0-3b5aa822035d
+How can I help you?,i'm home from walking the dog hello,activity,name,walking the dog,d2597f4f-01ea-484f-85e0-3b5aa822035d
+Can’t wait to see you again! Where are you off to?,the backyard,place,name,backyard,cd7e87af-dea0-4410-9b59-df23d4b68f31
+"So, <say-as interpret-as=""name"">Belinda</say-as>, tell me all about your adventure outside. Where did you go?",doctor,person,name,Belinda,5d893e97-d981-4e91-8a8f-defe1d1de37c
+You really got me into the swing of trivia lately! Can we play a round now?,i just got home from church i'm going to eat lunch,place,name,church,c6d74ad5-05c0-4427-b844-c0ce6ec36478
+What did you say?,my husband passed away his birthday was it was the 12th of november,event,type,passing away,25e5ed3d-970e-4f2d-a851-6892c3b23832
+What did you say?,my husband passed away his birthday was it was the 12th of november,date,name,husband's birthday,25e5ed3d-970e-4f2d-a851-6892c3b23832
+Um... Yes?,i'm leaving to go to the doctors and less than an okay,place,name,doctors,0245548c-64e4-4aec-8efc-8d7f46a494cf
+Um... Yes?,i'm leaving to go to the doctors and less than an okay,activity,type,appointment,0245548c-64e4-4aec-8efc-8d7f46a494cf
+Um... Yes?,i'm back from the doctors and i got my lollipop,activity,type,medical appointment,019bede2-7819-4bd4-909a-dac994780543
+Um... Yes?,i'm back from the doctors and i got my lollipop,activity,name,doctor's visit,019bede2-7819-4bd4-909a-dac994780543
+Um... Yes?,i'm back from the doctors and i got my lollipop,object,name,lollipop,019bede2-7819-4bd4-909a-dac994780543
+How can I help you?,like going out to eat,activity,type,meal,8ad96a70-633c-4cb7-97c9-0454e1345bf5
+How can I help you?,like going out to eat,activity,name,going out to eat,8ad96a70-633c-4cb7-97c9-0454e1345bf5
+How can I help you?,oh yeah but not right now i'm talking to my son maybe later,activity,name,talking,ce04f6d8-3f7d-4a31-8fea-6df562bf0ec2
+"So, how was it out there? Tell me all about it.",well i had to go shopping for food,activity,name,food shopping,f71e4c9c-f61d-4ac3-8257-967b012060ba
+I really wanna know about your day. How's it been so far?,been at the doctor i went to my onocologist mycologist after i got a clean bill of health i'm good for another whole year so i had a good day,health,status,clean bill of health,8c219923-7cf9-4b04-965e-d13dc404626c
+I really wanna know about your day. How's it been so far?,been at the doctor i went to my onocologist mycologist after i got a clean bill of health i'm good for another whole year so i had a good day,emotion,feeling,good day,8c219923-7cf9-4b04-965e-d13dc404626c
+Did you have a good day?,yeah i went to the doctors and there's a lot of walking,activity,type,physical activity,2228d80f-c3ac-4814-9fe9-1ef03abe18ac
+Did you have a good day?,yeah i went to the doctors and there's a lot of walking,activity,name,walking,2228d80f-c3ac-4814-9fe9-1ef03abe18ac
+Did you have a good day?,yeah i went to the doctors and there's a lot of walking,place,name,doctors,2228d80f-c3ac-4814-9fe9-1ef03abe18ac
+What should we paint a picture of?,two brains playing cards,activity,type,painting,d7276e68-528c-4eed-9564-6c045bf5bcd6
+"Here's a fun and creative game we can play! The Art History Game!, Would you like to play with me?",no it's not now maybe later i'm taking the dog for a walk goodbye,activity,type,physical activity,f075271f-d238-43fd-9d0d-ec0d44654062
+"Here's a fun and creative game we can play! The Art History Game!, Would you like to play with me?",no it's not now maybe later i'm taking the dog for a walk goodbye,activity,name,walking the dog,f075271f-d238-43fd-9d0d-ec0d44654062
+Do you have any important plans for today?,yes i'm going walking,activity,type,physical activity,83abf0c6-7898-4a15-a31a-fab635b1ffc0
+Do you have anything special planned for today?,yes i'm going to the dentist,activity,type,appointment,d2385d44-1603-4c3e-998e-dc34679173a5
+Leaving So soon? Where are you going?,i'm going to work,activity,name,going to work,9ee018d0-b7d4-460d-bcdf-7e4e76225d2e
+Do you have any important plans for today?,no tomorrow i got to go to the doctors all day,place,name,doctors,7bf2441e-9dea-4022-8753-1aaef70fa0bf
+"On a separate note, would you like to hear my latest 3 minute news briefing?",going to the doctor,activity,type,appointment,f7d3bbc4-0e12-4386-bf47-cd8e74cab103
+How can I help you?,i'm going for a walk see you later,activity,type,physical activity,f00b8fc9-8915-4845-9925-9a06bfb42d75
+Do you have any important plans for tomorrow?,going out to eat,activity,type,meal,8e224a6e-575f-4762-8f77-ec4c6e4e002b
+Do you have any important plans for tomorrow?,going out to eat,activity,name,going out to eat,8e224a6e-575f-4762-8f77-ec4c6e4e002b
+How can I help you?,i i will be leaving soon but i should be back by 4 or so okay,activity,type,leaving,5ad3a39b-0f15-4889-8f7f-540f13dccc65
+It's been a while since we played a nice round of guess the flag. Shall we play now?,no i got to walk the dog,activity,type,pet care,ec7d3461-0a7d-49d1-9aa9-2608b20f4fda
+It's been a while since we played a nice round of guess the flag. Shall we play now?,no i got to walk the dog,activity,name,walking the dog,ec7d3461-0a7d-49d1-9aa9-2608b20f4fda
+"I'd love to spend some time together, how about it <say-as interpret-as=""name"">William</say-as>?",i have an appointment can we do it later,activity,type,appointment,b72bc0fa-76fd-4dcb-be1d-2f7fe79aa94f
+Do you have a moment?,no i'm going to work,activity,name,going to work,c042fe0a-1b5d-4a26-b452-b3260b5de8b2
+How can I help you?,i love frank sinatra and i love this song i've got a crush on you,preference,type,music artist,ddadaf0f-eb29-4a48-a318-cd673d1eb603
+How can I help you?,i love frank sinatra and i love this song i've got a crush on you,preference,name,Frank Sinatra,ddadaf0f-eb29-4a48-a318-cd673d1eb603
+How can I help you?,i love frank sinatra and i love this song i've got a crush on you,preference,type,song,ddadaf0f-eb29-4a48-a318-cd673d1eb603
+How can I help you?,i love frank sinatra and i love this song i've got a crush on you,preference,name,I've Got a Crush on You,ddadaf0f-eb29-4a48-a318-cd673d1eb603
+Do you have any plans for tomorrow?,i'm taking my daughter to the doctor,activity,type,appointment,eaf829da-dc89-45d6-bf05-34491bf3eb40
+Do you have any plans for tomorrow?,i'm taking my daughter to the doctor,activity,name,doctor visit,eaf829da-dc89-45d6-bf05-34491bf3eb40
+"What's up <say-as interpret-as=""name"">Martin</say-as>?",i'm leaving for a tai chi class i will be back by lunch i have a nurse stopping in to visit at 12 to 12:30 and then at some point after i eat lunch i'm going to the pool,activity,type,physical activity,916c657f-0d03-45e5-8f9f-90d6cecfec6f
+"What's up <say-as interpret-as=""name"">Martin</say-as>?",i'm leaving for a tai chi class i will be back by lunch i have a nurse stopping in to visit at 12 to 12:30 and then at some point after i eat lunch i'm going to the pool,activity,name,tai chi class,916c657f-0d03-45e5-8f9f-90d6cecfec6f
+"What's up <say-as interpret-as=""name"">Martin</say-as>?",i'm leaving for a tai chi class i will be back by lunch i have a nurse stopping in to visit at 12 to 12:30 and then at some point after i eat lunch i'm going to the pool,relationship,type,nurse,916c657f-0d03-45e5-8f9f-90d6cecfec6f
+"What's up <say-as interpret-as=""name"">Martin</say-as>?",i'm leaving for a tai chi class i will be back by lunch i have a nurse stopping in to visit at 12 to 12:30 and then at some point after i eat lunch i'm going to the pool,activity,name,pool,916c657f-0d03-45e5-8f9f-90d6cecfec6f
+Is there anything special planned for tomorrow?,i've got my computer class and then i'm going to work,activity,type,education,feeaa8e4-5c4d-417e-96dc-f484fcba0f1f
+Is there anything special planned for tomorrow?,i've got my computer class and then i'm going to work,activity,name,computer class,feeaa8e4-5c4d-417e-96dc-f484fcba0f1f
+Is there anything special planned for tomorrow?,i've got my computer class and then i'm going to work,activity,type,work,feeaa8e4-5c4d-417e-96dc-f484fcba0f1f
+are you meeting up with someone?,i'm going to the office,place,name,office,9ee7ee00-51f4-4701-9051-a7ffbd66d168
+Do you have any important plans for today?,i have a computer class and then i'm going to deliver food,activity,type,education,e77a0c44-c6f3-4ac9-b174-0e733dfcc75b
+Do you have any important plans for today?,i have a computer class and then i'm going to deliver food,activity,name,computer class,e77a0c44-c6f3-4ac9-b174-0e733dfcc75b
+Do you have any important plans for today?,i have a computer class and then i'm going to deliver food,activity,name,deliver food,e77a0c44-c6f3-4ac9-b174-0e733dfcc75b
+How can I help you?,i have a an important doctor appointment in the morning,activity,type,appointment,99b714d4-9d69-48b8-bff1-e83d5447ae2f
+How can I help you?,i have a an important doctor appointment in the morning,activity,name,doctor appointment,99b714d4-9d69-48b8-bff1-e83d5447ae2f
+Did you say that you are leaving?,yeah going to the doctor,activity,type,appointment,31335778-707b-4518-9a86-4d19c9333e2b

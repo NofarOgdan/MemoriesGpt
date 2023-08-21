@@ -1,0 +1,647 @@
+elliq_text,user_text,memory_name,entity,value,group_id,validated,created_time,agent_id
+Is now a good time to hang out?,no honey i got to get ready to go downstairs for a meeting,place,name,downstairs,00895f6f-4328-481b-950c-7e031effcc17,1,2023-08-15 14:56:24 UTC,fd-mass-004
+Are you going to meet someone?,i'm going to church and then to dinner,activity,type,social event,00cb83a4-114c-435d-a513-b042dd40e9d5,1,2023-08-15 14:56:24 UTC,eqc-iowa-160
+tell me all about your day. How's it going so far?,it's going fine honey i when we went shopping and got my haircut and got my nails done,activity,type,shopping,0111f45b-cd01-4f7e-b138-f923b852d495,1,2023-08-15 14:56:24 UTC,ga-florida-0039
+tell me all about your day. How's it going so far?,it's going fine honey i when we went shopping and got my haircut and got my nails done,activity,name,nails done,0111f45b-cd01-4f7e-b138-f923b852d495,1,2023-08-15 14:56:24 UTC,ga-florida-0039
+Here's a fun game we can play: Name That Tune! Wanna play with me?,not now i got to walk the dog,activity,type,pet care,0126a286-ae05-4a46-af98-1106eb660225,1,2023-08-15 14:56:24 UTC,fd-mass-030
+Here's a fun game we can play: Name That Tune! Wanna play with me?,not now i got to walk the dog,activity,name,walking the dog,0126a286-ae05-4a46-af98-1106eb660225,1,2023-08-15 14:56:24 UTC,fd-mass-030
+Leaving So soon? Where are you going?,i'm going to the theater with my daughter lori,relationship,name,Lori,012c868e-c9ff-4021-a057-6f2c796fca4a,1,2023-08-15 14:56:24 UTC,ir-insiders-sofia007
+Leaving So soon? Where are you going?,i'm going to the theater with my daughter lori,place,name,theater,012c868e-c9ff-4021-a057-6f2c796fca4a,1,2023-08-15 14:56:24 UTC,ir-insiders-sofia007
+Leaving So soon? Where are you going?,i'm going to the theater with my daughter lori,activity,type,social activity,012c868e-c9ff-4021-a057-6f2c796fca4a,1,2023-08-15 14:56:24 UTC,ir-insiders-sofia007
+Do you have anything planned for today?,go to work,activity,name,going to work,012e6905-cd61-45a9-a9eb-6f413153d8a1,1,2023-08-15 14:56:24 UTC,ohel-ny-0003
+"What a fun trip! Now, if we could take anyone in the world along with us for our next trip, who would it be?",debbie my sister debbie,relationship,name,Debbie,01334d75-c53b-4968-9882-f7841605a1d1,1,2023-08-15 14:56:24 UTC,eqc-iowa-263
+Do you have anything planned for today?,a couple of appointment,activity,quantity,couple,0138ab6e-998a-4a15-9475-ae39d242b52f,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0187
+Is there anything special planned for today?,yes i have an appointment,activity,type,appointment,013cb4e1-19b0-463e-8d51-b10c5aec7894,1,2023-08-15 14:56:24 UTC,broward-florida-0027
+Wanna test your movie knowledge with the movie emoji game?,no i don't go to movies,activity,preference,not going to movies,0192f581-aae8-446f-8871-d4042da99422,1,2023-08-15 14:56:24 UTC,ga-wash-0189
+I was wondering if you were free for a moment?,no i'm i'm cooking dinner at like you all sit down in a little while,activity,type,meal,01a04fac-af6d-4c17-b253-e104d5885c0d,1,2023-08-15 14:56:24 UTC,ga-florida-0182
+I was wondering if you were free for a moment?,no i'm i'm cooking dinner at like you all sit down in a little while,activity,name,cooking dinner,01a04fac-af6d-4c17-b253-e104d5885c0d,1,2023-08-15 14:56:24 UTC,ga-florida-0182
+"I’m wondering, are you meeting up with anyone?",yes my doctor,activity,type,meeting,01c0ff9f-065f-40d5-960f-d4e43e638ded,1,2023-08-15 14:56:24 UTC,eqc-scarolina-310
+How can I help you?,say hello to my friend christy,relationship,name,Christy,01f50dd7-c6b3-4642-ba66-c46c23097d78,1,2023-08-15 14:56:24 UTC,nysofa-otsego-0235
+How can I help you?,i'm going to take your advice and go out for a walk,activity,type,physical activity,0217fcdd-73a9-43a6-9c54-e23e02d2ec83,1,2023-08-15 14:56:24 UTC,ga-ny-0221
+How can I help you?,i'm going to take your advice and go out for a walk,activity,name,walk,0217fcdd-73a9-43a6-9c54-e23e02d2ec83,1,2023-08-15 14:56:24 UTC,ga-ny-0221
+Was today another great day for you?,play i get to go outside is a great day,activity,type,going outside,02379d79-a467-48d7-b4c8-26b14f53db3a,1,2023-08-15 14:56:24 UTC,ymow-michigan-0021
+How can I help you?,a grilled cheese sandwich for dinner tonight,activity,type,meal,026ea1b2-6827-445e-8326-9c8606cdef34,1,2023-08-15 14:56:24 UTC,ga-florida-0129
+How can I help you?,a grilled cheese sandwich for dinner tonight,activity,name,dinner,026ea1b2-6827-445e-8326-9c8606cdef34,1,2023-08-15 14:56:24 UTC,ga-florida-0129
+How can I help you?,a grilled cheese sandwich for dinner tonight,food,type,sandwich,026ea1b2-6827-445e-8326-9c8606cdef34,1,2023-08-15 14:56:24 UTC,ga-florida-0129
+How can I help you?,a grilled cheese sandwich for dinner tonight,food,name,grilled cheese,026ea1b2-6827-445e-8326-9c8606cdef34,1,2023-08-15 14:56:24 UTC,ga-florida-0129
+Turns out today is a really special day! Can you guess what day it is today?,today is sunday yay i'm going to church,activity,type,religious activity,02d1abbb-1ed8-458e-88eb-9337c82a9ca3,1,2023-08-15 14:56:24 UTC,broward-florida-0036
+Turns out today is a really special day! Can you guess what day it is today?,today is sunday yay i'm going to church,activity,name,going to church,02d1abbb-1ed8-458e-88eb-9337c82a9ca3,1,2023-08-15 14:56:24 UTC,broward-florida-0036
+Do you have any important plans for today?,i'll pay bills and go to the grocery store and take a bath and wash my hair,activity,name,paying bills,02e76a1e-ca01-4653-a776-2c2e67f4d0b2,1,2023-08-15 14:56:24 UTC,eqc-florida-288
+Do you have any important plans for today?,i'll pay bills and go to the grocery store and take a bath and wash my hair,activity,type,shopping,02e76a1e-ca01-4653-a776-2c2e67f4d0b2,1,2023-08-15 14:56:24 UTC,eqc-florida-288
+Do you have any important plans for today?,i'll pay bills and go to the grocery store and take a bath and wash my hair,activity,type,personal care,02e76a1e-ca01-4653-a776-2c2e67f4d0b2,1,2023-08-15 14:56:24 UTC,eqc-florida-288
+Do you have any important plans for today?,i'll pay bills and go to the grocery store and take a bath and wash my hair,activity,name,taking a bath,02e76a1e-ca01-4653-a776-2c2e67f4d0b2,1,2023-08-15 14:56:24 UTC,eqc-florida-288
+Do you have any important plans for today?,i'll pay bills and go to the grocery store and take a bath and wash my hair,activity,name,washing hair,02e76a1e-ca01-4653-a776-2c2e67f4d0b2,1,2023-08-15 14:56:24 UTC,eqc-florida-288
+how's your day going so far?,pretty good i went to church i went to church this morning,activity,type,religious activity,02fd2bb9-ee9e-4553-84b2-f8b422274a9e,1,2023-08-15 14:56:24 UTC,ir-temp-7220022
+how's your day going so far?,pretty good i went to church i went to church this morning,activity,name,church attendance,02fd2bb9-ee9e-4553-84b2-f8b422274a9e,1,2023-08-15 14:56:24 UTC,ir-temp-7220022
+Is there anything special planned for tomorrow?,grocery shopping,activity,name,grocery shopping,0315ad79-16f0-4922-8b53-2a5f4bf1d4f7,1,2023-08-15 14:56:24 UTC,nysofa-tompkins-0339
+"Oh, are you heading out now?",and a few i'm going to the doctor,activity,type,appointment,0328c848-db6b-4bfb-9847-2233fb22ce5a,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0102
+Is it a secret rendezvous? Joking. Are you meeting anyone?,no i'm just going in the yard feed the chickens,activity,type,outdoor activity,036f68ce-d8ac-446b-ad35-72b05e489191,1,2023-08-15 14:56:24 UTC,o3a-wash-0005
+Is it a secret rendezvous? Joking. Are you meeting anyone?,no i'm just going in the yard feed the chickens,activity,name,feeding chickens,036f68ce-d8ac-446b-ad35-72b05e489191,1,2023-08-15 14:56:24 UTC,o3a-wash-0005
+Do you have anything planned for tomorrow?,yes i'm going to church in the morning,activity,type,religious activity,039a8019-8a9a-4d75-8cf6-db818b2fa64b,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0233
+How can I help you?,can you say hello to my friend solomon,person,name,Solomon,03d125f2-eeaf-4792-896e-e8c866a22319,1,2023-08-15 14:56:24 UTC,nysofa-westchester-0350
+Do you have any important plans for tomorrow?,visit my sister in the hospital,activity,type,visit,03d8e7ec-744b-40b6-a7d0-7aef1e17d6cc,1,2023-08-15 14:56:24 UTC,ga-florida-0127
+"Lovely, what are you up to today?",going for a walk,activity,type,physical activity,03e6daaf-45d9-4079-8745-92dc8718cacb,1,2023-08-15 14:56:24 UTC,indy-florida-021
+Here's a fun game we can play: The Art History Game! Wanna play with me?,no i can't it's it's too it's early now i have to get ready for church i leave here at i leave here at 8:30 about 8:30 to go to church and have a faraway to go so i'm getting ready to go to church if you could just play some background music are in our church,activity,type,religious activity,03f33106-b3dc-4fa3-8732-38d395025542,1,2023-08-15 14:56:24 UTC,broward-florida-0036
+Here's a fun game we can play: The Art History Game! Wanna play with me?,no i can't it's it's too it's early now i have to get ready for church i leave here at i leave here at 8:30 about 8:30 to go to church and have a faraway to go so i'm getting ready to go to church if you could just play some background music are in our church,activity,name,going to church,03f33106-b3dc-4fa3-8732-38d395025542,1,2023-08-15 14:56:24 UTC,broward-florida-0036
+"How wonderful, what are your plans for today?",lunch with friends,activity,type,social event,04373049-ddb4-4e30-9005-fc9a8104fdc3,1,2023-08-15 14:56:24 UTC,nysofa-chautauqua-0076
+"How wonderful, what are your plans for today?",lunch with friends,activity,name,lunch with friends,04373049-ddb4-4e30-9005-fc9a8104fdc3,1,2023-08-15 14:56:24 UTC,nysofa-chautauqua-0076
+Do you have any plans for today?,i have to go to work,activity,name,going to work,0459d386-ef3c-41a4-ae9c-d54092324508,1,2023-08-15 14:56:24 UTC,eqc-ohio-022
+Do you have any important plans for today?,yes i'm going to work in a few minutes,activity,name,going to work,04966987-ddda-48a5-8023-51cae4f477f8,1,2023-08-15 14:56:24 UTC,ga-virginia-0011
+How can I help you?,meet my friend emily say hello to emily,person,name,Emily,0498ae4b-9292-4b6d-b889-934de4061ba6,1,2023-08-15 14:56:24 UTC,eqc-georgia-047
+Got anything important planned today?,yes i'm going out today i'm going shopping at like you,activity,name,going out,04a461f8-7553-4769-acd6-30e21a70f176,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0048
+How about some time together?,not now i'm going to be calling a friend,activity,name,calling a friend,04bebc22-a713-4278-a90d-1e848997e14c,1,2023-08-15 14:56:24 UTC,eqc-florida-243
+How can I help you?,i'm finished talking to my sister yeah,relationship,type,sister,04f52bc3-2316-4900-812c-35f5c6331011,1,2023-08-15 14:56:24 UTC,indy-cali-019
+How can I help you?,i have to go out to the doctors i'll see you in a couple hours,place,name,doctors,05151705-1d5a-4d72-aa7a-59408ab8e796,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0194
+How can I help you?,i have to go out to the doctors i'll see you in a couple hours,activity,type,appointment,05151705-1d5a-4d72-aa7a-59408ab8e796,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0194
+What can I do for you?,let's do another painting,activity,type,creative activity,0517e1e6-f2d6-47c4-ac6e-4be25d54e93a,1,2023-08-15 14:56:24 UTC,nysofa-erie-0400
+Do you have anything special planned for today?,i'm getting ready to go to the doctor doctor appointment,activity,type,appointment,056f0600-ed64-49c6-ab85-6277425106f8,1,2023-08-15 14:56:24 UTC,eqc-florida-288
+Do you have anything special planned for today?,i'm getting ready to go to the doctor doctor appointment,place,name,doctor,056f0600-ed64-49c6-ab85-6277425106f8,1,2023-08-15 14:56:24 UTC,eqc-florida-288
+Leaving So soon? Where are you going?,to pick up my kid,relationship,type,child,0582db95-2afb-4949-954a-bf7144bf35dd,1,2023-08-15 14:56:24 UTC,opt-dev-moshe
+Leaving So soon? Where are you going?,to pick up my kid,activity,type,activity,0582db95-2afb-4949-954a-bf7144bf35dd,1,2023-08-15 14:56:24 UTC,opt-dev-moshe
+Wish I could join you. Are you meeting up with anyone?,no i'm just taking the dog out,activity,type,pet care,05aa4968-52a6-433a-abc2-678bf62718a7,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+Wish I could join you. Are you meeting up with anyone?,no i'm just taking the dog out,activity,name,taking the dog out,05aa4968-52a6-433a-abc2-678bf62718a7,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",i'm going to work on being more grounded,activity,type,personal development,05c8d710-0708-41de-a772-6cf598858f5b,1,2023-08-15 14:56:24 UTC,ga-colorado-0152
+How can I help you?,we're going to go to the drugstore and get what i need,activity,type,shopping,061cfeb3-acc5-472a-b9e4-9c101d26a0bd,1,2023-08-15 14:56:24 UTC,ga-texas-0124
+I just realized we haven't practiced any gentle breathing in over a week! Are you up for it now?,no i'm eating and i got to go to church,activity,type,meal,063f32a7-8275-431d-8184-db6862efa41d,1,2023-08-15 14:56:24 UTC,nysofa-oswego-0053
+I just realized we haven't practiced any gentle breathing in over a week! Are you up for it now?,no i'm eating and i got to go to church,activity,name,eating,063f32a7-8275-431d-8184-db6862efa41d,1,2023-08-15 14:56:24 UTC,nysofa-oswego-0053
+I just realized we haven't practiced any gentle breathing in over a week! Are you up for it now?,no i'm eating and i got to go to church,activity,type,religious activity,063f32a7-8275-431d-8184-db6862efa41d,1,2023-08-15 14:56:24 UTC,nysofa-oswego-0053
+How can I help you?,i'm here with my friend bridgette,relationship,name,Bridgette,0658d56c-053a-4123-8ddb-bfc5ffa3f723,1,2023-08-15 14:56:24 UTC,ir-temp-90593
+How can I help you?,goodbye i'm going out for a walk now,activity,type,physical activity,065ef96a-aa11-47a4-88dd-770aa27b80a3,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+How can I help you?,goodbye i'm going out for a walk now,activity,name,walk,065ef96a-aa11-47a4-88dd-770aa27b80a3,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+How can I help you?,i'm going to the pool now,activity,type,physical activity,067b46ec-db69-45ac-b31a-d5c2497fa1e4,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+How can I help you?,i'm going to the pool now,activity,name,swimming,067b46ec-db69-45ac-b31a-d5c2497fa1e4,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+How can I help you?,i'm making supper,activity,type,meal,068f9f61-b415-4c00-b950-52d5d85b82ed,1,2023-08-15 14:56:24 UTC,nysofa-rockland-0230
+How can I help you?,i'm making supper,activity,name,making supper,068f9f61-b415-4c00-b950-52d5d85b82ed,1,2023-08-15 14:56:24 UTC,nysofa-rockland-0230
+"Hey, what about you , what's a hobby that you like to do throughout the week?",i go to the movies,activity,type,leisure,06b5d716-2765-4894-861b-dd337e9582fc,1,2023-08-15 14:56:24 UTC,broward-florida-0050
+"Hey, what about you , what's a hobby that you like to do throughout the week?",i go to the movies,activity,name,movies,06b5d716-2765-4894-861b-dd337e9582fc,1,2023-08-15 14:56:24 UTC,broward-florida-0050
+How can I help you?,i'm going to go take a little walk,activity,type,physical activity,06bf9c60-97dc-493d-b3d4-15f9027b23a8,1,2023-08-15 14:56:24 UTC,nysofa-rockland-0230
+How can I help you?,i'm going to go take a little walk,activity,name,walk,06bf9c60-97dc-493d-b3d4-15f9027b23a8,1,2023-08-15 14:56:24 UTC,nysofa-rockland-0230
+Are you going to meet someone?,no we're going for a walk,activity,type,physical activity,06e89354-31b0-4b0a-be1e-9d94f7897f51,1,2023-08-15 14:56:24 UTC,ga-northcarolina-0185
+Are you going to meet someone?,no we're going for a walk,activity,name,walk,06e89354-31b0-4b0a-be1e-9d94f7897f51,1,2023-08-15 14:56:24 UTC,ga-northcarolina-0185
+Is there anything special planned for today?,church and visit my mother,activity,type,religious activity,073f85a6-1189-4b35-8ced-fd56db87d60a,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0153
+Is there anything special planned for today?,church and visit my mother,activity,name,church,073f85a6-1189-4b35-8ced-fd56db87d60a,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0153
+Is there anything special planned for today?,church and visit my mother,activity,type,visit,073f85a6-1189-4b35-8ced-fd56db87d60a,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0153
+Is there anything special planned for today?,church and visit my mother,activity,name,visit mother,073f85a6-1189-4b35-8ced-fd56db87d60a,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0153
+My ears (or microphones I guess) must be malfunctioning. I didn't quite understand that. What did you eat for dinner?,i had a pot pie,activity,type,meal,076812a1-42c2-42a8-ad34-7bd918d981b4,1,2023-08-15 14:56:24 UTC,eqc-florida-216
+My ears (or microphones I guess) must be malfunctioning. I didn't quite understand that. What did you eat for dinner?,i had a pot pie,activity,name,dinner,076812a1-42c2-42a8-ad34-7bd918d981b4,1,2023-08-15 14:56:24 UTC,eqc-florida-216
+My ears (or microphones I guess) must be malfunctioning. I didn't quite understand that. What did you eat for dinner?,i had a pot pie,food,type,pot pie,076812a1-42c2-42a8-ad34-7bd918d981b4,1,2023-08-15 14:56:24 UTC,eqc-florida-216
+"I’m wondering, are you meeting up with anyone?",no just going grocery shopping,activity,type,shopping,0801f60b-523c-4118-b80a-d04f743ac351,1,2023-08-15 14:56:24 UTC,eqc-florida-216
+"I’m wondering, are you meeting up with anyone?",no just going grocery shopping,activity,name,grocery shopping,0801f60b-523c-4118-b80a-d04f743ac351,1,2023-08-15 14:56:24 UTC,eqc-florida-216
+Do you have anything special planned for today?,yes i'm going walking,activity,type,physical activity,0823f61e-55f4-4808-a90b-0ea687c730a5,1,2023-08-15 14:56:24 UTC,ecumen-sav-039
+"oh no, what made it a bad day?",the doctor told me i'm going blind,event,type,doctor appointment,08a8b92d-16d6-405d-b298-202bc37649dd,1,2023-08-15 14:56:24 UTC,eqc-wash-201
+"oh no, what made it a bad day?",the doctor told me i'm going blind,health,issue,going blind,08a8b92d-16d6-405d-b298-202bc37649dd,1,2023-08-15 14:56:24 UTC,eqc-wash-201
+"Oh, that sounds important. Which day is that for?",i'm going to give you all of my doctor's appointment for the month of february,activity,type,doctor's appointment,08b67073-cb08-4155-bfe9-35f04219c33f,1,2023-08-15 14:56:24 UTC,ga-mississippi-0196
+Got any plans today?,yeah i got to go to the store,activity,type,activity,08cadc74-896c-4cd6-a5ff-d3cc4f3c0c9d,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0198
+"I’m wondering, are you meeting up with anyone?",no we're just going for a short walk,activity,type,physical activity,08f4a961-bae1-4f56-aa2c-8f57f7ea3553,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+"I’m wondering, are you meeting up with anyone?",no we're just going for a short walk,activity,name,short walk,08f4a961-bae1-4f56-aa2c-8f57f7ea3553,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+What do you plan on doing?,gardening,activity,type,gardening,08f6d402-c896-4645-ba86-e8b231c683b8,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0175
+Do you have any plans for tomorrow?,yes i'm going to go visit a sister and meet one of my girlfriends at 4,activity,type,visit,09226c81-bf07-4d3b-a7c6-37256487755f,1,2023-08-15 14:56:24 UTC,eqc-indiana-151
+How can I help you?,baseball games,activity,type,sports,092c745e-1485-4840-a7cd-3bc8619ca0c9,1,2023-08-15 14:56:24 UTC,cabhi-groupc-025
+How can I help you?,baseball games,activity,name,baseball games,092c745e-1485-4840-a7cd-3bc8619ca0c9,1,2023-08-15 14:56:24 UTC,cabhi-groupc-025
+"Hay <say-as interpret-as=""name"">Sheila</say-as>! What can I do for my favorite human?",i wish i could fix this tv so i can look at it i'm trying to look at pbs but i can't get it,activity,name,fixing tv,096a19de-db4d-43e1-950e-03da02a4d961,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0145
+I didn't get around to fully introducing myself. Do you have time now?,no i'm going to church,activity,type,social event,09c239b0-05a5-4234-bdd5-688e4270edb4,1,2023-08-15 14:56:24 UTC,talcott-il-0004
+How can I help you?,my name is josiah what my favorite color is green what's your name,personal_information,name,Josiah,09ecee81-42a5-4c65-bafd-667cefd6d86f,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0059
+"So <say-as interpret-as=""name"">Richard</say-as>, tell me all about your adventure outside. Where did you go?",for walk,activity,type,physical activity,0a110fe0-f134-46f7-bee0-f99a12056270,1,2023-08-15 14:56:24 UTC,nysofa-schuyler-0274
+"So <say-as interpret-as=""name"">Richard</say-as>, tell me all about your adventure outside. Where did you go?",for walk,activity,name,walk,0a110fe0-f134-46f7-bee0-f99a12056270,1,2023-08-15 14:56:24 UTC,nysofa-schuyler-0274
+"Wonderful, what’s on the agenda today?",going to lunch with my friends,relationship,type,friends,0a16091f-a373-45c9-97b3-76178e07c554,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0018
+"Wonderful, what’s on the agenda today?",i'm going to church with my sister,activity,type,social activity,0a49e390-33ce-4a5c-82f1-4cbcd6099fdc,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0111
+"Wonderful, what’s on the agenda today?",i'm going to church with my sister,activity,name,going to church,0a49e390-33ce-4a5c-82f1-4cbcd6099fdc,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0111
+how's your day going so far?,it's going great i'm taking my dog for a walk,activity,type,physical activity,0a986aa7-7f42-452a-93d0-8b70e2a1a42e,1,2023-08-15 14:56:24 UTC,ga-northcarolina-0185
+are you free to talk for a moment?,i'm leaving work,activity,name,leaving work,0aaa229d-4cda-44aa-a85c-900e27cecd31,1,2023-08-15 14:56:24 UTC,nysofa-suffolk-0046
+"Just out of curiosity, What was the one thing that made you happy this week?",no work,emotion,type,happiness,0b335ce6-82e9-47e7-97c5-0109eb570d10,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0119
+"Just out of curiosity, What was the one thing that made you happy this week?",no work,activity,name,no work,0b335ce6-82e9-47e7-97c5-0109eb570d10,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0119
+Do you have anything special planned for today?,yes i'm going to church,activity,type,religious activity,0b4086e0-baa9-44db-afa7-ad0485896825,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0037
+Do you have anything special planned for today?,yes i'm going to church,activity,name,going to church,0b4086e0-baa9-44db-afa7-ad0485896825,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0037
+How can I help you?,i like to draw,activity,type,hobby,0b54db7d-dfe0-449c-b804-0ff06a5d8606,1,2023-08-15 14:56:24 UTC,ga-tenn-0211
+How can I help you?,say hello to my friend narendra,person,name,Narendra,0b87751f-3435-47c0-ac02-bb717e950c60,1,2023-08-15 14:56:24 UTC,broward-florida-0012
+"Great, what are your plans?",the doctor's office,place,name,doctor's office,0b8908f0-9b66-4550-a4d2-96e13ae2a327,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0187
+How can I help you?,say hi to my daughter natasha,relationship,name,Natasha,0ba14bd4-5ef0-4ab0-a37f-4e6f91d89786,1,2023-08-15 14:56:24 UTC,o3a-wash-0020
+"That's lovely, what are your plans?",go to a meeting,activity,name,attending a meeting,0bbf6b53-2f82-4ef0-90e5-dabcf41bced8,1,2023-08-15 14:56:24 UTC,eqc-florida-187
+Do you have any plans for today?,i'm going to lunch and i'm going to get my hair done,activity,name,lunch,0bd0d184-d02c-4c79-abb8-02d4606a0d88,1,2023-08-15 14:56:24 UTC,ga-arizona-0194
+Do you have any plans for today?,i'm going to lunch and i'm going to get my hair done,activity,type,personal care,0bd0d184-d02c-4c79-abb8-02d4606a0d88,1,2023-08-15 14:56:24 UTC,ga-arizona-0194
+Do you have any plans for today?,i'm going to lunch and i'm going to get my hair done,activity,name,hair appointment,0bd0d184-d02c-4c79-abb8-02d4606a0d88,1,2023-08-15 14:56:24 UTC,ga-arizona-0194
+How can I help you?,i have to go to the doctor so i'm going out for a few hours okay,activity,type,going out,0c29cba2-37ca-4732-a248-b1cfa520a0ae,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0175
+How can I help you?,i'm going to a doctor's appointment in a few minutes,activity,type,appointment,0c38d7c4-99ef-4b7e-97bb-97a267947620,1,2023-08-15 14:56:24 UTC,eqc-texas-002
+How can I help you?,i'm going to a doctor's appointment in a few minutes,activity,name,doctor's appointment,0c38d7c4-99ef-4b7e-97bb-97a267947620,1,2023-08-15 14:56:24 UTC,eqc-texas-002
+should we play a round of trivia together?,i'm going to go for a run,activity,type,physical activity,0c58c444-a4e7-43a4-97dd-99be7d63ce89,1,2023-08-15 14:56:24 UTC,ga-ny-0221
+should we play a round of trivia together?,i'm going to go for a run,activity,name,running,0c58c444-a4e7-43a4-97dd-99be7d63ce89,1,2023-08-15 14:56:24 UTC,ga-ny-0221
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",we are on the way to the doctor's office,place,name,doctor's office,0c6fb887-bd01-470f-97f5-4bd5475db434,1,2023-08-15 14:56:24 UTC,eqc-florida-210
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",we are on the way to the doctor's office,activity,type,visit,0c6fb887-bd01-470f-97f5-4bd5475db434,1,2023-08-15 14:56:24 UTC,eqc-florida-210
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",we are on the way to the doctor's office,activity,name,going to the doctor,0c6fb887-bd01-470f-97f5-4bd5475db434,1,2023-08-15 14:56:24 UTC,eqc-florida-210
+"Sometimes, I like to pretend that the facts I know are actually highly guarded state secrets. So, what do you say I let you in on a fun fact.",well i'm getting ready now to go out to the hair dresses and then i'll be back in the early at pump mid-afternoon but right now i'm going to have some breakfast,activity,type,personal care,0c738f2e-ad89-4841-82a9-222082350b45,1,2023-08-15 14:56:24 UTC,fd-mass-004
+Is this a convenient time?,making dinner,activity,type,meal,0c83233e-599c-4490-b474-efb23697af12,1,2023-08-15 14:56:24 UTC,eqc-florida-288
+Is this a convenient time?,making dinner,activity,name,making dinner,0c83233e-599c-4490-b474-efb23697af12,1,2023-08-15 14:56:24 UTC,eqc-florida-288
+Is there anything special planned for today?,yes i'm going to the doctor now,activity,type,appointment,0c8e2843-3a33-43be-a3d9-ec2fedabf5ca,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0271
+Is there anything special planned for today?,yes i'm going to the doctor now,activity,name,doctor visit,0c8e2843-3a33-43be-a3d9-ec2fedabf5ca,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0271
+"I'd love to spend some time together, how about it <say-as interpret-as=""name"">James</say-as>?",no i'm going to the doctor's i won't be back until about 2,place,name,doctor's,0cb8dfee-ddf3-48d8-a3df-1b1b2f357f4f,1,2023-08-15 14:56:24 UTC,nysofa-livingston-0078
+"I'd love to spend some time together, how about it <say-as interpret-as=""name"">James</say-as>?",no i'm going to the doctor's i won't be back until about 2,activity,type,appointment,0cb8dfee-ddf3-48d8-a3df-1b1b2f357f4f,1,2023-08-15 14:56:24 UTC,nysofa-livingston-0078
+How can I help you?,i have to go out to a doctor's appointment,activity,type,appointment,0cc7801c-f786-409f-9615-9f228d60c3b4,1,2023-08-15 14:56:24 UTC,nysofa-tompkins-0339
+How can I help you?,i have to go out to a doctor's appointment,place,name,doctor's office,0cc7801c-f786-409f-9615-9f228d60c3b4,1,2023-08-15 14:56:24 UTC,nysofa-tompkins-0339
+Is there anything special planned for today?,medical appointment,activity,type,medical appointment,0cda49e1-baa7-44f2-b2e0-f70f7df66f37,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0059
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",i'm going to the gym.,activity,type,physical activity,0ce317a1-91cd-428d-8b6f-0fa81d51f77f,1,2023-08-15 14:56:24 UTC,eqc-scarolina-310
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",i'm going to the gym.,activity,name,going to the gym,0ce317a1-91cd-428d-8b6f-0fa81d51f77f,1,2023-08-15 14:56:24 UTC,eqc-scarolina-310
+"So, I've gotta ask. What was the best thing that happened to you this week?",i got to talk to my daughter,activity,type,communication,0ce53ea2-fd61-48f1-8d5b-580387ecca3d,1,2023-08-15 14:56:24 UTC,eqc-iowa-160
+"So, I've gotta ask. What was the best thing that happened to you this week?",i got to talk to my daughter,activity,name,talking to daughter,0ce53ea2-fd61-48f1-8d5b-580387ecca3d,1,2023-08-15 14:56:24 UTC,eqc-iowa-160
+Leaving So soon? Where are you going?,for a walk,activity,type,physical activity,0cecad24-13b9-4811-a8ea-f0b64d0d5898,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0034
+Leaving So soon? Where are you going?,for a walk,activity,name,walk,0cecad24-13b9-4811-a8ea-f0b64d0d5898,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0034
+What was it?,working in a library,activity,type,work,0d44089e-fea2-4ac7-bdfe-1a1c2fef8f49,1,2023-08-15 14:56:24 UTC,nysofa-onondaga-0262
+What was it?,working in a library,activity,name,working in a library,0d44089e-fea2-4ac7-bdfe-1a1c2fef8f49,1,2023-08-15 14:56:24 UTC,nysofa-onondaga-0262
+let's try again. maybe say it a bit differently this time.,i work at a grocery store,place,name,grocery store,0d46fbb4-aa43-4eb6-8673-b93c55d06612,1,2023-08-15 14:56:24 UTC,ir-vip-049
+How can I help you?,say hello to my friend judy,relationship,name,Judy,0d5feae5-da5e-4c77-bc60-ad6daf702cf1,1,2023-08-15 14:56:24 UTC,nysofa-otsego-0192
+Do you have 30 seconds for some gentle breathing?,no i'm cooking dinner,activity,type,meal,0d72bee5-2278-4feb-9e42-d77d60ddde91,1,2023-08-15 14:56:24 UTC,ga-ny-0147
+Do you have 30 seconds for some gentle breathing?,no i'm cooking dinner,activity,name,cooking dinner,0d72bee5-2278-4feb-9e42-d77d60ddde91,1,2023-08-15 14:56:24 UTC,ga-ny-0147
+How can I help you?,going camping,activity,type,outdoor activity,0dd742c1-af45-415b-9e3b-cf0fe978370c,1,2023-08-15 14:56:24 UTC,nysofa-greene-0101
+Hello sunshine! How can I help?,i'm just letting you know i'm leaving to go for an appointment this afternoon i will be back in several hours,activity,type,appointment,0e04870a-3b79-488d-a322-7c02d7f5f789,1,2023-08-15 14:56:24 UTC,nysofa-erie-0156
+How can I help you?,i'm going to see a movie with my friend,activity,type,social activity,0e378da7-45af-43b8-a897-e8721a89ab13,1,2023-08-15 14:56:24 UTC,eqc-ny-003
+How can I help you?,i'm going to see a movie with my friend,activity,name,movie,0e378da7-45af-43b8-a897-e8721a89ab13,1,2023-08-15 14:56:24 UTC,eqc-ny-003
+How can I help you?,i'm going to see a movie with my friend,relationship,type,friend,0e378da7-45af-43b8-a897-e8721a89ab13,1,2023-08-15 14:56:24 UTC,eqc-ny-003
+Is now a better time to talk?,show i just told you i'm going for a walk,activity,type,physical activity,0e4b3b2d-2092-4d40-a0a0-3667c112fadb,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+"Where did you end up going <say-as interpret-as=""name"">Sweet Pea</say-as>?",to the store,place,name,store,0eb70555-8b5e-4e44-b06f-4cee1962fa60,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0041
+Do you have anything planned for tomorrow?,doctor's appointment,activity,type,appointment,0ed0e6e9-7cd1-4cea-9f91-ef598c8911cb,1,2023-08-15 14:56:24 UTC,eqc-ohio-174
+Do you have anything planned for tomorrow?,doctor's appointment,activity,name,doctor's appointment,0ed0e6e9-7cd1-4cea-9f91-ef598c8911cb,1,2023-08-15 14:56:24 UTC,eqc-ohio-174
+Yes?,now i'm taking the boys for a walk goodbye,activity,type,physical activity,0ef22f6a-5e36-464f-a800-d568565fc1bb,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+"Wonderful, what’s on the agenda today?",i'm going outside and going for a walk,activity,type,physical activity,0efcfc6d-9f2a-4e24-b06b-1c9fab8f4671,1,2023-08-15 14:56:24 UTC,ga-mass-0150
+"Wonderful, what’s on the agenda today?",i'm going outside and going for a walk,activity,name,walk,0efcfc6d-9f2a-4e24-b06b-1c9fab8f4671,1,2023-08-15 14:56:24 UTC,ga-mass-0150
+Is there anything special planned for today?,i'm going to shower now and i'm going to have my breakfast,activity,name,shower,0f3f6b41-7e41-4e70-86c7-0bae4e42b93f,1,2023-08-15 14:56:24 UTC,fd-mass-026
+"Great, what are your plans?",busy making appointment,activity,type,appointment,0f6bab20-1bbd-421c-8939-0f8165c1137f,1,2023-08-15 14:56:24 UTC,eqc-florida-221
+"Great, what are your plans?",busy making appointment,activity,name,making appointment,0f6bab20-1bbd-421c-8939-0f8165c1137f,1,2023-08-15 14:56:24 UTC,eqc-florida-221
+How can I help you?,been sitting at the garage,place,name,garage,0f6c6523-9573-40de-bb68-e51678794b78,1,2023-08-15 14:56:24 UTC,indy-ny-033
+"What a fun trip! Now, if we could take anyone in the world along with us for our next trip, who would it be?",oh maybe my sister debbie,relationship,name,Debbie,0f6cb90b-94b5-4e8b-a621-c7639cb8aad3,1,2023-08-15 14:56:24 UTC,eqc-iowa-263
+"So, I learned lately that bird-watching is a popular hobby. Do you like bird watching?",i do guess indeed i like birds,hobby,type,bird-watching,0f77182a-4ebc-457a-b2dc-7d91fba62f1a,1,2023-08-15 14:56:24 UTC,ga-wash-0189
+"So, I learned lately that bird-watching is a popular hobby. Do you like bird watching?",i do guess indeed i like birds,interest,name,birds,0f77182a-4ebc-457a-b2dc-7d91fba62f1a,1,2023-08-15 14:56:24 UTC,ga-wash-0189
+"If you've had time to think of your hobby, eyed still love to know, what is it?",pool going to the pool,activity,type,hobby,0f7aa94a-1454-4e25-847e-ed472d3acbc8,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+"If you've had time to think of your hobby, eyed still love to know, what is it?",pool going to the pool,activity,name,going to the pool,0f7aa94a-1454-4e25-847e-ed472d3acbc8,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+How about you share a memory about what you wanted to be when you grew up?,i wanted to be a veterinarian,aspiration,profession,veterinarian,0f9090f3-bfc5-4cbf-bf2f-cec16772d665,1,2023-08-15 14:56:24 UTC,ga-florida-0236
+Is there anything special planned for tomorrow?,yes i'm going to go visit a friend and watch the movie,activity,type,social interaction,0fbc123c-c3f3-4c7d-8a5a-0aba08006d11,1,2023-08-15 14:56:24 UTC,eqc-ohio-116
+Is there anything special planned for tomorrow?,yes i'm going to go visit a friend and watch the movie,activity,name,visit friend,0fbc123c-c3f3-4c7d-8a5a-0aba08006d11,1,2023-08-15 14:56:24 UTC,eqc-ohio-116
+Is there anything special planned for tomorrow?,yes i'm going to go visit a friend and watch the movie,activity,type,entertainment,0fbc123c-c3f3-4c7d-8a5a-0aba08006d11,1,2023-08-15 14:56:24 UTC,eqc-ohio-116
+Is there anything special planned for tomorrow?,yes i'm going to go visit a friend and watch the movie,activity,name,watch movie,0fbc123c-c3f3-4c7d-8a5a-0aba08006d11,1,2023-08-15 14:56:24 UTC,eqc-ohio-116
+How can I help you?,i did exercise today and i'm tired,activity,type,exercise,0fcbefc9-1574-4b31-8029-692f453f14e9,1,2023-08-15 14:56:24 UTC,ecumen-sav-039
+let's try again. maybe say it a bit differently this time.,i'm just saying i'm just going out to eat to eat,activity,type,meal,0ff8dd1d-3824-4a58-a401-a2f4cdba32a9,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+let's try again. maybe say it a bit differently this time.,i'm just saying i'm just going out to eat to eat,activity,name,going out to eat,0ff8dd1d-3824-4a58-a401-a2f4cdba32a9,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+How can I help you?,i've also started quilting,activity,type,crafting,1005b611-2aab-41c7-b493-042c96eb21fa,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0284
+How can I help you?,i went to the concert,activity,type,entertainment,100d5999-8f60-46fa-9af8-7d75d20f5eb3,1,2023-08-15 14:56:24 UTC,ga-florida-0129
+Did you say something?,i'm taking the dog for a walk,activity,type,physical activity,10139219-c031-43a6-b344-43a059caf732,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0175
+Did you say something?,i'm taking the dog for a walk,possession,type,pet,10139219-c031-43a6-b344-43a059caf732,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0175
+Did you say something?,i'm taking the dog for a walk,possession,name,dog,10139219-c031-43a6-b344-43a059caf732,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0175
+Do you have any plans for today?,who go grocery shopping maybe catch up on a few things,activity,name,grocery shopping,106c506a-8640-47ac-91c2-2acbb5c73755,1,2023-08-15 14:56:24 UTC,ir-vip-033
+"Great, what are your plans?",doctors office,place,name,doctor's office,107f082f-3c8d-4bfc-96a5-b0e3e557e782,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0187
+How can I help you?,goodbye i'm going to play bingo now,activity,type,game,10cc1fe8-1a44-45a7-800a-ddcc4d44f041,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+How can I help you?,goodbye i'm going to play bingo now,activity,name,bingo,10cc1fe8-1a44-45a7-800a-ddcc4d44f041,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+Wanna spend some time together?,not right now i have to go to my appointment,activity,type,appointment,10d931c9-ef13-4e77-8df4-3d64b621114f,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0260
+Is there anything special planned for tomorrow?,i go to the dentist tomorrow to get up at 1 to get a tooth repaired,activity,type,appointment,1109d092-9da4-4730-9a5a-6c0d1ede2e95,1,2023-08-15 14:56:24 UTC,nysofa-niagara-0346
+Is there something else you’d like to do?,i'm just watching a tennis match on t.v.,activity,type,sports,115505ce-c6c0-45cb-8bcd-2ca71de1c086,1,2023-08-15 14:56:24 UTC,nysofa-onondaga-0266
+Is there something else you’d like to do?,i'm just watching a tennis match on t.v.,activity,details,tennis match,115505ce-c6c0-45cb-8bcd-2ca71de1c086,1,2023-08-15 14:56:24 UTC,nysofa-onondaga-0266
+When will you be back home? I want to make sure to be here.,will be back in 20 minutes,activity,type,returning home,11567bcf-cc6b-4709-8587-57f3b1e11be9,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+How can I help you?,i love paint,activity,type,hobby,1174499a-7c19-4806-9ba6-3b88cd593c72,1,2023-08-15 14:56:24 UTC,ga-florida-0129
+How can I help you?,i'm sorry yeah we're getting ready to take our walk now,activity,type,physical activity,1183f4e2-638a-4dc1-a7d9-332056f21b6f,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0233
+"There you are! What can I help you with <say-as interpret-as=""name"">Alice</say-as>?",nothing i'm making dinner,activity,type,meal,11fac057-2f0e-4a1b-b3ad-a7ccf31699ba,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0194
+"There you are! What can I help you with <say-as interpret-as=""name"">Alice</say-as>?",nothing i'm making dinner,activity,name,making dinner,11fac057-2f0e-4a1b-b3ad-a7ccf31699ba,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0194
+"Did you know that expressing gratitude can have a real positive effect on the way you feel, 'n the quality of your sleep? Would you like to try an exercise in gratitude with me.",i'm fixing dinner,activity,type,meal,122a7520-7ad5-425d-834a-41a5bb6ebb62,1,2023-08-15 14:56:24 UTC,eqc-florida-288
+"So, <say-as interpret-as=""name"">Donna</say-as>, tell me all about your adventure outside. Where did you go?",i'm still not home i'm in the hospital rehab,activity,type,rehab,1238a192-ef76-47d0-a111-2ccf53c8d6ec,1,2023-08-15 14:56:24 UTC,eqc-florida-314
+"How wonderful, what are your plans for tomorrow?",i'm going to 3 churches,activity,type,religious activity,128fe8d3-8029-4a8c-af8b-68ff81b1dc46,1,2023-08-15 14:56:24 UTC,ga-texas-0062
+"How wonderful, what are your plans for tomorrow?",i'm going to 3 churches,activity,name,visiting churches,128fe8d3-8029-4a8c-af8b-68ff81b1dc46,1,2023-08-15 14:56:24 UTC,ga-texas-0062
+How can I help you?,goodbye i'm going to work,activity,name,going to work,12c77a28-61d1-43db-ac5d-5601b91fa843,1,2023-08-15 14:56:24 UTC,nysofa-tompkins-0201
+"That's lovely, what are your plans?",i have two doctors appointments and a visit with a friend,activity,type,medical appointment,12d25926-b0a5-4878-864b-7c008d4dfb31,1,2023-08-15 14:56:24 UTC,vns-ny-0002
+"That's lovely, what are your plans?",i have two doctors appointments and a visit with a friend,activity,type,social visit,12d25926-b0a5-4878-864b-7c008d4dfb31,1,2023-08-15 14:56:24 UTC,vns-ny-0002
+"That's lovely, what are your plans?",i have two doctors appointments and a visit with a friend,relationship,type,friend,12d25926-b0a5-4878-864b-7c008d4dfb31,1,2023-08-15 14:56:24 UTC,vns-ny-0002
+How can I help you?,i'm going to do some errands right now so i'll see you in a little bit,activity,type,errands,13521e1c-9a09-4375-8b80-78f86ade46a6,1,2023-08-15 14:56:24 UTC,ga-florida-0072
+How can I help you?,i'm going to the store i'll be back in maybe an hour or so,place,name,store,1368f4f2-6f45-463e-89b4-aefa1ba02d5d,1,2023-08-15 14:56:24 UTC,ga-nebraska-0180
+How can I help you?,i'm going to the store i'll be back in maybe an hour or so,activity,type,activity,1368f4f2-6f45-463e-89b4-aefa1ba02d5d,1,2023-08-15 14:56:24 UTC,ga-nebraska-0180
+How can I help you?,i'm going to the store i'll be back in maybe an hour or so,activity,name,going to the store,1368f4f2-6f45-463e-89b4-aefa1ba02d5d,1,2023-08-15 14:56:24 UTC,ga-nebraska-0180
+How can I help you?,i want to see a movie,activity,type,entertainment,136909d0-4328-4a87-801b-f411ef5a53d0,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0111
+How can I help you?,say hello to my friend terry,relationship,name,Terry,13ad615d-6cdb-4363-90ba-7fd335f2b4d9,1,2023-08-15 14:56:24 UTC,nysofa-erie-0400
+Are you in the mood to do some gentle breathing? It'll only take about 30 seconds.,no i'm making breakfast i'm making breakfast mm,activity,type,meal,13b0b0d9-1560-4e55-b1eb-a7809e45e75b,1,2023-08-15 14:56:24 UTC,ga-florida-0182
+Are you in the mood to do some gentle breathing? It'll only take about 30 seconds.,no i'm making breakfast i'm making breakfast mm,activity,name,making breakfast,13b0b0d9-1560-4e55-b1eb-a7809e45e75b,1,2023-08-15 14:56:24 UTC,ga-florida-0182
+"Lovely, what are you up to tomorrow?",i should go shopping for for groceries grocery shopping,activity,name,grocery shopping,13ecb679-0f90-4a91-9cee-6ae70831905a,1,2023-08-15 14:56:24 UTC,nysofa-monroe-0185
+Wanna test your movie knowledge with the movie emoji game?,i need to get ready to go to the doctors at 11,place,name,doctors,13f071c1-9304-449c-bd89-b62d2eafe071,1,2023-08-15 14:56:24 UTC,nysofa-greene-0317
+I just thought of something I really wanna know about you. Do you like watching sports?,some sports yes i like baseball,interest,type,sports,140863fa-70c1-4ff2-b312-ae40e16855b8,1,2023-08-15 14:56:24 UTC,nysofa-westchester-0350
+What did you say?,we're going to moonstone beach,place,name,Moonstone Beach,146f9a51-3048-485f-819e-dd0637ef711f,1,2023-08-15 14:56:24 UTC,fd-mass-022
+Got anything important planned today?,going to the doctor,activity,type,appointment,1476f2b5-e3a2-48a3-82c9-5556a5a32b48,1,2023-08-15 14:56:24 UTC,eqc-ohio-109
+Is now a good time to hang out?,not now i'm on my way to the grocery store,activity,type,activity,147a1c3f-869f-4f9b-a134-0a85adbf5474,1,2023-08-15 14:56:24 UTC,o3a-wash-0015
+Do you have anything planned for today?,i might go shopping food shopping,activity,type,shopping,1498d977-fff1-4470-a4e9-a5fa93e6b64d,1,2023-08-15 14:56:24 UTC,nysofa-suffolk-0031
+Do you have anything planned for today?,i might go shopping food shopping,activity,name,food shopping,1498d977-fff1-4470-a4e9-a5fa93e6b64d,1,2023-08-15 14:56:24 UTC,nysofa-suffolk-0031
+Is there anything special planned for today?,i'm going to you again and go visit a friend,activity,name,visit a friend,14991256-9c06-4aa7-91a0-1e5a0b1a15cb,1,2023-08-15 14:56:24 UTC,o3a-wash-0001
+Have you had the chance to watch any new movies lately?,no i don't watch movies,activity,preference,doesn't watch movies,14b06015-73ea-4019-99d5-72a1534289ca,1,2023-08-15 14:56:24 UTC,o3a-wash-0026
+So? what's your favorite sport?,hockey basketball baseball,interest,name,hockey,14c2aaf2-c13f-4664-984e-0da7b8186d57,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0082
+So? what's your favorite sport?,hockey basketball baseball,interest,name,baseball,14c2aaf2-c13f-4664-984e-0da7b8186d57,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0082
+What's your favorite type of workout?,i light to walk and do the elliptical,activity,name,elliptical,14d2b448-47df-4165-850a-f50ac2badc36,1,2023-08-15 14:56:24 UTC,nysofa-erie-0400
+What do you plan on doing?,run errands,activity,type,errands,14edd9b8-d01e-41d6-bf83-ed1816d570b8,1,2023-08-15 14:56:24 UTC,broward-florida-0018
+Do you have anything planned for today?,yes i got to go to work i got to go to the doctor,activity,type,work,15150342-42c2-40bb-b7b1-702a9c9f0c71,1,2023-08-15 14:56:24 UTC,nysofa-suffolk-0261
+Do you have anything planned for today?,yes i got to go to work i got to go to the doctor,place,name,doctor,15150342-42c2-40bb-b7b1-702a9c9f0c71,1,2023-08-15 14:56:24 UTC,nysofa-suffolk-0261
+"So I'm curious, what were you up to <say-as interpret-as=""name"">Gary</say-as>?",walking the dog,activity,type,physical activity,152e0d10-bb70-48b1-9230-afc42c037c8e,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0321
+"So I'm curious, what were you up to <say-as interpret-as=""name"">Gary</say-as>?",walking the dog,activity,name,walking the dog,152e0d10-bb70-48b1-9230-afc42c037c8e,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0321
+How can I help you?,this is my nephew damion,person,name,Damion,1534ca95-2de3-4754-9a3a-73f05107e05f,1,2023-08-15 14:56:24 UTC,nysofa-greene-0317
+"Oh I'm curious, where did you go?",i was i was out shopping,activity,type,shopping,154cd455-88e6-4bf4-a025-fc17c54287e6,1,2023-08-15 14:56:24 UTC,eqc-ny-075
+How can I help you?,so i went to play a game called bingo,activity,type,game,155b9eb7-df1a-4f9a-a4cf-7849fb1b3727,1,2023-08-15 14:56:24 UTC,indy-cali-019
+How can I help you?,so i went to play a game called bingo,activity,name,bingo,155b9eb7-df1a-4f9a-a4cf-7849fb1b3727,1,2023-08-15 14:56:24 UTC,indy-cali-019
+How about some time together?,i was just leaving to go see paul,activity,type,socializing,157dac66-cf15-4207-b968-007a32c24e4a,1,2023-08-15 14:56:24 UTC,ir-insiders-iowa015
+How about some time together?,i was just leaving to go see paul,activity,name,visiting Paul,157dac66-cf15-4207-b968-007a32c24e4a,1,2023-08-15 14:56:24 UTC,ir-insiders-iowa015
+"I've got some free time, wanna do something together?",no i'm going to take my dog outside to go potty when i get done in and i got to take my blood sugar and i'm going to be busy for a while but when i get done i'll call you okay,activity,type,pet care,15b9c998-1d0e-42ad-bb51-2b55f0ba66e3,1,2023-08-15 14:56:24 UTC,ga-minnesota-0071
+"I've got some free time, wanna do something together?",no i'm going to take my dog outside to go potty when i get done in and i got to take my blood sugar and i'm going to be busy for a while but when i get done i'll call you okay,activity,name,taking dog outside,15b9c998-1d0e-42ad-bb51-2b55f0ba66e3,1,2023-08-15 14:56:24 UTC,ga-minnesota-0071
+"I've got some free time, wanna do something together?",no i'm going to take my dog outside to go potty when i get done in and i got to take my blood sugar and i'm going to be busy for a while but when i get done i'll call you okay,activity,type,health monitoring,15b9c998-1d0e-42ad-bb51-2b55f0ba66e3,1,2023-08-15 14:56:24 UTC,ga-minnesota-0071
+"I've got some free time, wanna do something together?",no i'm going to take my dog outside to go potty when i get done in and i got to take my blood sugar and i'm going to be busy for a while but when i get done i'll call you okay,activity,name,checking blood sugar,15b9c998-1d0e-42ad-bb51-2b55f0ba66e3,1,2023-08-15 14:56:24 UTC,ga-minnesota-0071
+"I've got some free time, wanna do something together?",no i'm going to take my dog outside to go potty when i get done in and i got to take my blood sugar and i'm going to be busy for a while but when i get done i'll call you okay,activity,type,communication,15b9c998-1d0e-42ad-bb51-2b55f0ba66e3,1,2023-08-15 14:56:24 UTC,ga-minnesota-0071
+Do you have any important plans for tomorrow?,oh let's see going to church,activity,type,religious activity,15c89e5a-d4dc-43bc-b2e1-351f7eb872ac,1,2023-08-15 14:56:24 UTC,ga-colorado-0094
+Do you have any important plans for tomorrow?,oh let's see going to church,activity,name,going to church,15c89e5a-d4dc-43bc-b2e1-351f7eb872ac,1,2023-08-15 14:56:24 UTC,ga-colorado-0094
+How can I help you?,i just got home from the store,activity,type,shopping,15f8f468-8055-4bc8-81b3-51f086d6dc6b,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0194
+How can I help you?,i just got home from the store,place,name,store,15f8f468-8055-4bc8-81b3-51f086d6dc6b,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0194
+Do you have anything special planned for today?,yes i'm going to church today i'll be at church all day today i'll be out all day today,activity,type,religious activity,160b438e-e175-49f5-a082-78418e1a9cd0,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0048
+Do you have anything planned for today?,i'm going to go to a birthday party meal,activity,type,social event,164c108b-8696-439f-af33-22026bfc7693,1,2023-08-15 14:56:24 UTC,eqc-florida-243
+Do you have anything planned for today?,i'm going to go to a birthday party meal,activity,name,birthday party,164c108b-8696-439f-af33-22026bfc7693,1,2023-08-15 14:56:24 UTC,eqc-florida-243
+Do you have anything planned for today?,i'm going to go to a birthday party meal,activity,type,meal,164c108b-8696-439f-af33-22026bfc7693,1,2023-08-15 14:56:24 UTC,eqc-florida-243
+"Just checking in, how are you feeling this morning?",good going to church,activity,type,religious activity,1663dcba-3029-4e31-bebb-31a540141d80,1,2023-08-15 14:56:24 UTC,fmn-mass-003
+"Just checking in, how are you feeling this morning?",good going to church,activity,name,going to church,1663dcba-3029-4e31-bebb-31a540141d80,1,2023-08-15 14:56:24 UTC,fmn-mass-003
+How can I help you?,i'd like you to meet my friend annie,relationship,name,Annie,168fcac1-f71c-4096-8773-d82609a54db5,1,2023-08-15 14:56:24 UTC,nysofa-niagara-0207
+Um... Yes?,i'm going to the market to buy some food i'll be back,activity,type,shopping,16c0f1a6-8f44-4e42-9db2-fc004584a80e,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0111
+Um... Yes?,i'm going to the market to buy some food i'll be back,activity,name,buying food,16c0f1a6-8f44-4e42-9db2-fc004584a80e,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0111
+How can I help you?,i'm going to go in the other room and talk to my sister on the phone,activity,name,talking on the phone,16dc7b63-8491-4c78-989f-1fed9cc023c5,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0284
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",i'm going to church with my daughter,activity,name,going to church,17261887-c480-4705-820f-05d5df21b9e9,1,2023-08-15 14:56:24 UTC,cabhi-groupc-025
+"I'm not sure I got that, are you going out?",no i'm not elliq know i'm not i'm watching football listen to the football game i know it's until football game today,activity,name,watching football,17967db9-46c5-4234-b540-816230356306,1,2023-08-15 14:56:24 UTC,ga-florida-0129
+Is there anything special planned for today?,just working in the yard,activity,type,outdoor activity,17cf1dc3-1527-4fab-a57b-e3bf73f0b471,1,2023-08-15 14:56:24 UTC,indy-texas-025
+Is there anything special planned for today?,just working in the yard,activity,name,working in the yard,17cf1dc3-1527-4fab-a57b-e3bf73f0b471,1,2023-08-15 14:56:24 UTC,indy-texas-025
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",just going to the doctor,activity,type,appointment,1831e24e-167f-46dc-8b6a-002fb2d2f3d7,1,2023-08-15 14:56:24 UTC,ga-texas-0062
+"I'm not sure I understood, do you want to call someone?",call my daughter,activity,type,communication,183cb470-a701-413b-8f1e-66e5760779f6,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0223
+Do you have any plans for today?,to go to my daughters,relationship,type,daughter,18889536-1140-4224-96fd-6dca759e4e63,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0194
+Do you have any plans for today?,to go to my daughters,activity,type,visit,18889536-1140-4224-96fd-6dca759e4e63,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0194
+Do you have any plans for today?,to go to my daughters,activity,name,visiting daughter,18889536-1140-4224-96fd-6dca759e4e63,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0194
+"Just out of curiosity, What was the one thing that made you happy this week?",i did shopping with my daughter,activity,name,shopping with daughter,189fd9c3-a261-4399-b7f5-dfa08d8fbe47,1,2023-08-15 14:56:24 UTC,eqc-florida-243
+How can I help you?,did you hear me when i'm getting ready to go to the doctors,activity,type,medical appointment,18a549b9-622c-4047-b184-4e4fe3e76567,1,2023-08-15 14:56:24 UTC,nysofa-onondaga-0264
+How can I help you?,did you hear me when i'm getting ready to go to the doctors,place,name,doctors,18a549b9-622c-4047-b184-4e4fe3e76567,1,2023-08-15 14:56:24 UTC,nysofa-onondaga-0264
+"excuse me <say-as interpret-as=""name"">Magdalena</say-as>, are you ready now by any chance?",nope i'm getting dressed to leave the house i'm going shopping,activity,name,leaving the house,18b06ed3-41ef-449e-8d06-3ee47d2a85ad,1,2023-08-15 14:56:24 UTC,eqc-indiana-151
+Where are you off to?,the hospital just to visit my sister,activity,type,visit,18d91f7f-9032-4c89-9560-9d37d6bf1881,1,2023-08-15 14:56:24 UTC,ga-florida-0127
+let's give it another go. What did you say?,i'm going to take my dog out to the bathroom,activity,type,pet care,193794cf-8174-4027-a1d2-2d83a6fbae75,1,2023-08-15 14:56:24 UTC,ga-minnesota-0071
+How can I help you?,my day is going great and i'm going to take my dog for a walk,mood,type,positive,193dbb45-340d-4d08-a6b8-209fbef29108,1,2023-08-15 14:56:24 UTC,ga-northcarolina-0185
+How can I help you?,my day is going great and i'm going to take my dog for a walk,activity,type,physical activity,193dbb45-340d-4d08-a6b8-209fbef29108,1,2023-08-15 14:56:24 UTC,ga-northcarolina-0185
+How can I help you?,my day is going great and i'm going to take my dog for a walk,activity,name,walking dog,193dbb45-340d-4d08-a6b8-209fbef29108,1,2023-08-15 14:56:24 UTC,ga-northcarolina-0185
+Wish I could join you. Are you meeting up with anyone?,i'm going to a doctor's appointment,place,name,doctor's appointment,196606ef-f5d1-4ca5-a1fc-f79d4cb23591,1,2023-08-15 14:56:24 UTC,nysofa-tompkins-0339
+"Great, what are your plans?",do some reading,activity,type,intellectual activity,198bb4af-6419-458b-9908-aa00fe2748e8,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0167
+"Oh, here's an idea! Wanna take a picture with me here in rome?",not right now thanks not right now i'm going to go to church,activity,type,religious activity,199a75eb-3728-497e-bd9e-a3a261310766,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0198
+"Oh, here's an idea! Wanna take a picture with me here in rome?",not right now thanks not right now i'm going to go to church,activity,name,going to church,199a75eb-3728-497e-bd9e-a3a261310766,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0198
+How can I help you?,can i talk to you this evening when i come home from the doctor or tonight,activity,type,conversation,19b54933-a861-40e4-a24e-1d68fc8ceeb1,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+How can I help you?,can i talk to you this evening when i come home from the doctor or tonight,time,time_of_day,evening,19b54933-a861-40e4-a24e-1d68fc8ceeb1,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+What movie did you watch?,no i went for a walk in the park,activity,name,walk,19b96301-7d19-48ee-8fde-61bc4bfd0135,1,2023-08-15 14:56:24 UTC,nysofa-tompkins-0201
+What movie did you watch?,no i went for a walk in the park,place,name,park,19b96301-7d19-48ee-8fde-61bc4bfd0135,1,2023-08-15 14:56:24 UTC,nysofa-tompkins-0201
+let's try again. could you repeat what you said?,i'm watching the tv for the news i'll talk to you later,activity,type,news,19bd73e7-5f89-4e8e-8b0a-70fdd4afd118,1,2023-08-15 14:56:24 UTC,fd-mass-004
+How about we hang out for a bit?,no i'm watching the race,activity,name,watching the race,19bf26a6-863e-4706-a304-d13e4dd85177,1,2023-08-15 14:56:24 UTC,nysofa-livingston-0078
+What was it like?,it was fun i would bring my dog with me while i delivered papers and we had a beautiful neighborhood,activity,type,pastime,19cd91d4-3dcc-410b-a0c8-2b9e7323dded,1,2023-08-15 14:56:24 UTC,ir-vip-067
+What was it like?,it was fun i would bring my dog with me while i delivered papers and we had a beautiful neighborhood,activity,name,delivering papers,19cd91d4-3dcc-410b-a0c8-2b9e7323dded,1,2023-08-15 14:56:24 UTC,ir-vip-067
+What was it like?,it was fun i would bring my dog with me while i delivered papers and we had a beautiful neighborhood,pet,type,dog,19cd91d4-3dcc-410b-a0c8-2b9e7323dded,1,2023-08-15 14:56:24 UTC,ir-vip-067
+What was it like?,it was fun i would bring my dog with me while i delivered papers and we had a beautiful neighborhood,place,type,neighborhood,19cd91d4-3dcc-410b-a0c8-2b9e7323dded,1,2023-08-15 14:56:24 UTC,ir-vip-067
+"Wonderful, what’s on the agenda tomorrow?",doctors appointments,activity,type,appointment,1a13c906-eae9-4ffa-a5fc-905db1b5d11d,1,2023-08-15 14:56:24 UTC,ga-penn-0186
+"Wonderful, what’s on the agenda tomorrow?",doctors appointments,activity,name,doctor's appointment,1a13c906-eae9-4ffa-a5fc-905db1b5d11d,1,2023-08-15 14:56:24 UTC,ga-penn-0186
+Um... Yes?,i have an appointment with dr school therapist it'll take about 45 minutes okay and then we'll talk,relationship,type,therapist,1a16220a-9eae-4256-97fa-aa0d98c4fb3e,1,2023-08-15 14:56:24 UTC,indy-cali-019
+Um... Yes?,i have an appointment with dr school therapist it'll take about 45 minutes okay and then we'll talk,activity,type,appointment,1a16220a-9eae-4256-97fa-aa0d98c4fb3e,1,2023-08-15 14:56:24 UTC,indy-cali-019
+How can I help you?,i'm watching the wheel of fortune,activity,name,watching Wheel of Fortune,1a2f4c46-d61e-45de-822b-600d6a9436a0,1,2023-08-15 14:56:24 UTC,ir-vip-056
+Is now a good time to hang out?,no i'm going to the doctor,activity,type,appointment,1a3be5a5-1d62-4b2c-8c4b-7de9fabae003,1,2023-08-15 14:56:24 UTC,ga-florida-0182
+Wanna workout together?,well i'm getting ready to go to my bible study,activity,type,spiritual activity,1a458a20-0f9a-4694-ad45-42743449c0e6,1,2023-08-15 14:56:24 UTC,eqc-iowa-263
+Wanna workout together?,well i'm getting ready to go to my bible study,activity,name,bible study,1a458a20-0f9a-4694-ad45-42743449c0e6,1,2023-08-15 14:56:24 UTC,eqc-iowa-263
+"So, tell me all about it. where did you go?",we went to marcellinus for the dentist,activity,type,dental appointment,1a611038-a96e-4fda-8eee-32d0b3ba19ba,1,2023-08-15 14:56:24 UTC,ga-texas-0109
+We started getting to know each other earlier when we were interrupted. Do you have some time now?,i'm getting ready to go to the pool for exercise so i will be back probably in about 3 hours,activity,type,exercise,1a6f5324-d5a0-4af8-a2a9-3e5b0b1bb942,1,2023-08-15 14:56:24 UTC,nysofa-erie-0156
+Feel like working out together?,oh no not right now i'm going to go for a walk later,activity,type,physical activity,1aaafa7d-742c-4b04-a6b5-c4b90d4e5392,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0284
+Feel like working out together?,oh no not right now i'm going to go for a walk later,activity,name,walk,1aaafa7d-742c-4b04-a6b5-c4b90d4e5392,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0284
+Got any plans today?,to work out in the yard,activity,type,physical activity,1ac6575e-aae8-408c-9c23-161b4d816dad,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0175
+Got any plans today?,to work out in the yard,activity,name,yard work,1ac6575e-aae8-408c-9c23-161b4d816dad,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0175
+Did you say that you are leaving?,i'm going to take a walk,activity,type,physical activity,1acd7357-9b08-4dfa-b0fe-a1ef3899545a,1,2023-08-15 14:56:24 UTC,indy-cali-019
+What were you up to out there?,visiting my mom,activity,type,visit,1ae60d49-6ec3-49d1-9eb3-780fdbd50d8d,1,2023-08-15 14:56:24 UTC,o3a-wash-0018
+What were you up to out there?,visiting my mom,activity,name,visiting mom,1ae60d49-6ec3-49d1-9eb3-780fdbd50d8d,1,2023-08-15 14:56:24 UTC,o3a-wash-0018
+How can I help you?,my neighbor anita is here can you say hello to anita please,person,name,Anita,1b0327fc-12e2-4ac5-99e0-a61e34069f34,1,2023-08-15 14:56:24 UTC,broward-florida-0011
+let's try again. maybe say it a bit differently this time.,i work in a supermarket,occupation,type,supermarket,1b67bf19-76e7-4ea1-a6fb-255e163cd659,1,2023-08-15 14:56:24 UTC,nysofa-greene-0068
+Hello! What's up buttercup?,i went for a walk,activity,name,walk,1b6ee460-505a-4fcb-b472-274b9f90c44c,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0284
+"So, where did you go?",i went to the store,place,name,store,1b810c2d-d35e-40d2-a57e-b08b4f25da40,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0041
+Have you ever visited Denmark?,i've never been to denmark no,travel,experience,never visited,1b8396fa-f967-498f-868a-82dcba447a37,1,2023-08-15 14:56:24 UTC,ga-wash-0189
+How can I help you?,i'm going to the doctor i should be back about 1,activity,type,appointment,1b9ab1bc-c1a3-499c-bb5b-597d6fdf2ced,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0041
+Hmmm. so who would be our ideal road trip companion?,friend,activity,type,road trip,1bdadbdf-2fbf-4652-8343-f6d9a688d4be,1,2023-08-15 14:56:24 UTC,eqc-florida-249
+How can I help you?,where can i watch the game,activity,type,watching,1c3367ee-0e12-48c6-9337-6a07f00b265b,1,2023-08-15 14:56:24 UTC,ga-florida-0129
+How can I help you?,where can i watch the game,activity,name,game,1c3367ee-0e12-48c6-9337-6a07f00b265b,1,2023-08-15 14:56:24 UTC,ga-florida-0129
+Are you free for a moment?,i'm not free now because i want to talk to my brother,activity,type,conversation,1c589cc2-6e57-4f85-a59b-68d2bbcbaddd,1,2023-08-15 14:56:24 UTC,ga-washington-0154
+Is it a secret rendezvous? Joking. Are you meeting anyone?,i'm going downstairs and see what's going on with my family,location,name,downstairs,1c7f224e-6758-4243-819f-35dfdf3263d9,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+Is it a secret rendezvous? Joking. Are you meeting anyone?,i'm going downstairs and see what's going on with my family,activity,type,socializing,1c7f224e-6758-4243-819f-35dfdf3263d9,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+Did you say that you are cooking?,making dinner,activity,name,making dinner,1c854ac4-c5c0-410c-88b0-35123a56e2fd,1,2023-08-15 14:56:24 UTC,opt-dev-004
+What do you plan on doing?,going to visit a dear friend,activity,type,social activity,1c8ae9b0-7dde-4a20-8174-bcfc0d515d27,1,2023-08-15 14:56:24 UTC,o3a-wash-0024
+What do you plan on doing?,going to visit a dear friend,activity,name,visiting a friend,1c8ae9b0-7dde-4a20-8174-bcfc0d515d27,1,2023-08-15 14:56:24 UTC,o3a-wash-0024
+What do you plan on doing?,going to visit a dear friend,relationship,type,friend,1c8ae9b0-7dde-4a20-8174-bcfc0d515d27,1,2023-08-15 14:56:24 UTC,o3a-wash-0024
+How can I help you?,i must go out again i'm going to the bank,place,name,bank,1c9219aa-76e1-4e3a-bf3d-85c305ebd62f,1,2023-08-15 14:56:24 UTC,eqc-iowa-263
+How can I help you?,i must go out again i'm going to the bank,activity,type,errand,1c9219aa-76e1-4e3a-bf3d-85c305ebd62f,1,2023-08-15 14:56:24 UTC,eqc-iowa-263
+How can I help you?,i'm going to be gone for a little while to tokeland washington i'll be back later see you,place,name,Tokeland Washington,1cdb5081-2586-467c-afac-679d38e4da5d,1,2023-08-15 14:56:24 UTC,o3a-wash-0020
+How can I help you?,i'm going to be gone for a little while to tokeland washington i'll be back later see you,activity,type,trip,1cdb5081-2586-467c-afac-679d38e4da5d,1,2023-08-15 14:56:24 UTC,o3a-wash-0020
+Do you have any plans for tomorrow?,yes i have to go to the doctor the doctor's appointment,activity,type,appointment,1ceeda7b-ca74-4d97-b260-91f0e9fa0a2b,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0059
+Do you have any plans for tomorrow?,yes i have to go to the doctor the doctor's appointment,activity,name,doctor's appointment,1ceeda7b-ca74-4d97-b260-91f0e9fa0a2b,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0059
+Where are you off to?,nowhere i'm in my bedroom i'm talking to my son,location,type,bedroom,1cfcfb21-52ff-46f4-b5a8-772dd658bafd,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+Where are you off to?,nowhere i'm in my bedroom i'm talking to my son,activity,name,talking,1cfcfb21-52ff-46f4-b5a8-772dd658bafd,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+How can I help you?,i'm going to the doctor's i'll be back in a little while,place,name,doctor's,1d036a49-1f64-4171-bf42-d315533665d9,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0175
+How can I help you?,i'm going to the doctor's i'll be back in a little while,activity,type,appointment,1d036a49-1f64-4171-bf42-d315533665d9,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0175
+are you meeting up with someone?,yeah i'm going to my sister's house,activity,type,social activity,1d0d7814-9f90-4261-b54f-7b903399f6ec,1,2023-08-15 14:56:24 UTC,ir-dev-238
+are you meeting up with someone?,yeah i'm going to my sister's house,place,name,sister's house,1d0d7814-9f90-4261-b54f-7b903399f6ec,1,2023-08-15 14:56:24 UTC,ir-dev-238
+Are you going to meet someone?,yes my friend yeah yeah,relationship,type,friend,1d41b2b7-6554-4216-b0a4-28edaae7b3f9,1,2023-08-15 14:56:24 UTC,ga-florida-0129
+Are you going to meet someone?,yes my friend yeah yeah,activity,type,social interaction,1d41b2b7-6554-4216-b0a4-28edaae7b3f9,1,2023-08-15 14:56:24 UTC,ga-florida-0129
+"That's lovely, what are your plans?",i have physical therapy at 1 and it dinner appointment at 5:30,activity,type,physical therapy,1d834c0d-78ab-4e5d-89a3-2e1b6a96ced8,1,2023-08-15 14:56:24 UTC,nysofa-tompkins-0160
+"That's lovely, what are your plans?",i have physical therapy at 1 and it dinner appointment at 5:30,activity,type,dinner appointment,1d834c0d-78ab-4e5d-89a3-2e1b6a96ced8,1,2023-08-15 14:56:24 UTC,nysofa-tompkins-0160
+How can I help you?,i have to go out for a minute i will have will have to do some fun when i get back at the bar for about a half an hour i'll be back in a half an hour and then we can face the game okay,activity,type,going out,1d8ab4d4-a270-43bc-b29e-9a020ec22cf6,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0223
+How can I help you?,i have to go out for a minute i will have will have to do some fun when i get back at the bar for about a half an hour i'll be back in a half an hour and then we can face the game okay,activity,type,fun,1d8ab4d4-a270-43bc-b29e-9a020ec22cf6,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0223
+How can I help you?,say hi to my friend chrissy,relationship,name,Chrissy,1da2806a-ba8e-40b2-9c28-8288771b26c1,1,2023-08-15 14:56:24 UTC,o3a-wash-0020
+Yes?,i'm taking the dog for a walk now,activity,type,physical activity,1e02e1f8-3ac2-4db7-864b-ddfd21966177,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+Yes?,i'm taking the dog for a walk now,activity,name,walking dog,1e02e1f8-3ac2-4db7-864b-ddfd21966177,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+How can I help you?,i'm cooking dinner,activity,type,meal,1ea645fa-5e73-4392-b716-7839193c25fb,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0010
+How can I help you?,i'm cooking dinner,activity,name,cooking dinner,1ea645fa-5e73-4392-b716-7839193c25fb,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0010
+How can I help you?,i'm going to the kitchen to wash my lunch dishes okay,place,name,kitchen,1ed2ecf8-df57-4162-aa5c-c0b594bb9651,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0059
+How can I help you?,i'm going to the kitchen to wash my lunch dishes okay,activity,type,household chore,1ed2ecf8-df57-4162-aa5c-c0b594bb9651,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0059
+How can I help you?,i'm going to the kitchen to wash my lunch dishes okay,activity,name,washing dishes,1ed2ecf8-df57-4162-aa5c-c0b594bb9651,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0059
+is this a good time for you?,no it isn't no nope i'm going out i'm going to church i don't got time no i'm getting ready to go out,activity,type,religious activity,1edd0ee4-745d-4179-9a46-bc1939e0f0fe,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0048
+is this a good time for you?,no it isn't no nope i'm going out i'm going to church i don't got time no i'm getting ready to go out,activity,name,going to church,1edd0ee4-745d-4179-9a46-bc1939e0f0fe,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0048
+is this a good time for you?,no it isn't no nope i'm going out i'm going to church i don't got time no i'm getting ready to go out,activity,type,going out,1edd0ee4-745d-4179-9a46-bc1939e0f0fe,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0048
+Drinking water helps your joints so don't forget to drink up and feel good. Doctor elli cue's orders.,okay i will i'll be here in the morning tomorrow but in the i have an appointment at 1:30 but i should be back home by 3 probably,activity,type,drinking water,1efd255b-5703-4df7-973a-77a4b92cfd9e,1,2023-08-15 14:56:24 UTC,nysofa-monroe-0185
+Drinking water helps your joints so don't forget to drink up and feel good. Doctor elli cue's orders.,okay i will i'll be here in the morning tomorrow but in the i have an appointment at 1:30 but i should be back home by 3 probably,time,period,morning,1efd255b-5703-4df7-973a-77a4b92cfd9e,1,2023-08-15 14:56:24 UTC,nysofa-monroe-0185
+I've been told that weather is a good small talk starter. Do you like today's weather?,i'm making soup in the pic,activity,name,making soup,1f263a57-fa92-4fdf-9d87-f3b8de84c0f9,1,2023-08-15 14:56:24 UTC,fd-mass-019
+"Poor Leon. Seems like he has to suffer for his art. What is one thing you love to do, despite minor frustrations?",do puzzles,activity,type,mental activity,1f422546-384f-45ba-a354-58fb4671ef1c,1,2023-08-15 14:56:24 UTC,ir-temp-7220022
+Yes?,i'm going to the store,activity,type,shopping,1f7d1717-8cc4-4f5d-a600-6e8610b3ffbc,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0041
+Yes?,i'm going to the store,place,name,store,1f7d1717-8cc4-4f5d-a600-6e8610b3ffbc,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0041
+Elli to the rescue! How can I help?,i'm ready to hang out with you i'm all done dinner,activity,type,meal,1f8af161-5ea5-4605-a770-a81958ff61c7,1,2023-08-15 14:56:24 UTC,ga-maine-0012
+Elli to the rescue! How can I help?,i'm ready to hang out with you i'm all done dinner,activity,name,dinner,1f8af161-5ea5-4605-a770-a81958ff61c7,1,2023-08-15 14:56:24 UTC,ga-maine-0012
+"I'd love to spend some time together, how about it <say-as interpret-as=""name"">Donna</say-as>?",not now i'm leaving for choir practice,activity,type,social activity,1f950042-ea0d-42f3-bc30-8469f033f803,1,2023-08-15 14:56:24 UTC,nysofa-oswego-0053
+"I'd love to spend some time together, how about it <say-as interpret-as=""name"">Donna</say-as>?",not now i'm leaving for choir practice,activity,name,choir practice,1f950042-ea0d-42f3-bc30-8469f033f803,1,2023-08-15 14:56:24 UTC,nysofa-oswego-0053
+"<say-as interpret-as=""name"">James</say-as>, whaddya say we do something together?",little bit later i'm watching the news,activity,name,watching tv,2005f5df-2ef3-4f5a-87cf-ae2e1cf16140,1,2023-08-15 14:56:24 UTC,nysofa-livingston-0078
+Wanna play a game of trivia with me?,no i'm cooking dinner,activity,type,meal,202d701d-6b11-4871-b5ba-2bbc8b986d15,1,2023-08-15 14:56:24 UTC,eqc-florida-218
+Wanna play a game of trivia with me?,no i'm cooking dinner,activity,name,cooking dinner,202d701d-6b11-4871-b5ba-2bbc8b986d15,1,2023-08-15 14:56:24 UTC,eqc-florida-218
+Do you have anything special planned for today?,i'm going to the synagogue today,activity,type,religious activity,203744dd-6875-4d7f-91a7-4c227315e297,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0203
+So? How's the day been treating you so far?,great cuz i was too i've been talking to my relatives in new york,relationship,type,relatives,207745a5-72b4-4307-aa17-5603fd6dcc54,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+So? How's the day been treating you so far?,great cuz i was too i've been talking to my relatives in new york,location,name,New York,207745a5-72b4-4307-aa17-5603fd6dcc54,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+So? How's the day been treating you so far?,great cuz i was too i've been talking to my relatives in new york,activity,type,communication,207745a5-72b4-4307-aa17-5603fd6dcc54,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+So? How's the day been treating you so far?,great cuz i was too i've been talking to my relatives in new york,activity,name,talking,207745a5-72b4-4307-aa17-5603fd6dcc54,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+Elli to the rescue! How can I help?,can you walk the dog,activity,type,pet care,20ba74e2-a1ff-4a6c-88a4-46b651f451d7,1,2023-08-15 14:56:24 UTC,nysofa-chautauqua-0219
+Elli to the rescue! How can I help?,can you walk the dog,activity,name,walk the dog,20ba74e2-a1ff-4a6c-88a4-46b651f451d7,1,2023-08-15 14:56:24 UTC,nysofa-chautauqua-0219
+Is there a TV show you'd call your favorite?,i'm going for a walk,activity,type,physical activity,20ca3b4d-eb3a-4b7e-810b-bc5906ad694f,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0359
+"What a fun trip! Now, if we could take anyone in the world along with us for our next trip, who would it be?",my mother my mom and dad,relationship,type,father,20fb257c-6145-4c74-879c-853d37991298,1,2023-08-15 14:56:24 UTC,eqc-ny-003
+How can I help you?,i just got out of the hospital just getting home i'm going to go take a shower,activity,name,shower,2140a9e5-e4aa-42be-a482-a337e7f3a9ff,1,2023-08-15 14:56:24 UTC,eqc-ohio-099
+"Speaking of food, what's your favorite food?",oh i don't think i have a favorite food i like all foods i like eggs i like eggs fix better different ways and i like certain kinds of meat like the salmon patty i like fish and i like hamburger and i like beef i like lots of things i like most kinds of soup i'd like to have soup for lunch a lot of times,food_preference,type,eggs,216ff1bc-f097-413c-bbdd-a226c1bf6e50,1,2023-08-15 14:56:24 UTC,ga-wash-0189
+"Speaking of food, what's your favorite food?",oh i don't think i have a favorite food i like all foods i like eggs i like eggs fix better different ways and i like certain kinds of meat like the salmon patty i like fish and i like hamburger and i like beef i like lots of things i like most kinds of soup i'd like to have soup for lunch a lot of times,food_preference,type,salmon patty,216ff1bc-f097-413c-bbdd-a226c1bf6e50,1,2023-08-15 14:56:24 UTC,ga-wash-0189
+"Speaking of food, what's your favorite food?",oh i don't think i have a favorite food i like all foods i like eggs i like eggs fix better different ways and i like certain kinds of meat like the salmon patty i like fish and i like hamburger and i like beef i like lots of things i like most kinds of soup i'd like to have soup for lunch a lot of times,food_preference,type,fish,216ff1bc-f097-413c-bbdd-a226c1bf6e50,1,2023-08-15 14:56:24 UTC,ga-wash-0189
+"Speaking of food, what's your favorite food?",oh i don't think i have a favorite food i like all foods i like eggs i like eggs fix better different ways and i like certain kinds of meat like the salmon patty i like fish and i like hamburger and i like beef i like lots of things i like most kinds of soup i'd like to have soup for lunch a lot of times,food_preference,type,hamburger,216ff1bc-f097-413c-bbdd-a226c1bf6e50,1,2023-08-15 14:56:24 UTC,ga-wash-0189
+"Speaking of food, what's your favorite food?",oh i don't think i have a favorite food i like all foods i like eggs i like eggs fix better different ways and i like certain kinds of meat like the salmon patty i like fish and i like hamburger and i like beef i like lots of things i like most kinds of soup i'd like to have soup for lunch a lot of times,food_preference,type,beef,216ff1bc-f097-413c-bbdd-a226c1bf6e50,1,2023-08-15 14:56:24 UTC,ga-wash-0189
+"Speaking of food, what's your favorite food?",oh i don't think i have a favorite food i like all foods i like eggs i like eggs fix better different ways and i like certain kinds of meat like the salmon patty i like fish and i like hamburger and i like beef i like lots of things i like most kinds of soup i'd like to have soup for lunch a lot of times,food_preference,type,soup,216ff1bc-f097-413c-bbdd-a226c1bf6e50,1,2023-08-15 14:56:24 UTC,ga-wash-0189
+"Speaking of food, what's your favorite food?",oh i don't think i have a favorite food i like all foods i like eggs i like eggs fix better different ways and i like certain kinds of meat like the salmon patty i like fish and i like hamburger and i like beef i like lots of things i like most kinds of soup i'd like to have soup for lunch a lot of times,meal_preference,meal,lunch,216ff1bc-f097-413c-bbdd-a226c1bf6e50,1,2023-08-15 14:56:24 UTC,ga-wash-0189
+Do you have anything special planned for today?,going through a movie,activity,type,entertainment,2197417c-efb8-4759-882b-500effd3b6de,1,2023-08-15 14:56:24 UTC,ga-nebraska-0180
+Do you have anything special planned for today?,going through a movie,activity,name,watching a movie,2197417c-efb8-4759-882b-500effd3b6de,1,2023-08-15 14:56:24 UTC,ga-nebraska-0180
+"<say-as interpret-as=""name"">Honeybunch</say-as>, whaddya say we do something together?",i'm getting ready to go to the doctor so not now,activity,type,appointment,21bbbe23-76c8-4544-bb5d-d80bd469e225,1,2023-08-15 14:56:24 UTC,eqc-ohio-116
+What's their first name?,bible study time real simple,activity,type,spiritual activity,21bffec4-ec86-4963-894f-affe5ebfd6c9,1,2023-08-15 14:56:24 UTC,eqc-texas-081
+What's their first name?,bible study time real simple,activity,name,bible study,21bffec4-ec86-4963-894f-affe5ebfd6c9,1,2023-08-15 14:56:24 UTC,eqc-texas-081
+"That's lovely, what are your plans?",i'm going to the park right now,activity,type,outdoor activity,21c59958-547b-4b6c-b26a-f7c3993d7248,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0119
+Do you have anything special planned for tomorrow?,yes i'm going to have breakfast with friends,relationship,type,friends,21cf533a-be22-4815-a021-02822a419d24,1,2023-08-15 14:56:24 UTC,ecumen-sav-039
+would you like me to stop asking you that?,i'm going to work now,activity,name,going to work,21dce4fc-a70c-4819-bcd6-1f24c5732047,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0108
+What's your favorite color?,hot pink hot pink,preference,name,hot pink,21e31ff6-e7aa-4c41-9d06-9638cc9b58a6,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0366
+How can I help you?,i'm taking the dog for a walk goodbye,activity,type,physical activity,21f60018-82f9-4a72-a344-45806de10f42,1,2023-08-15 14:56:24 UTC,ir-temp-8220282
+How can I help you?,i'm taking the dog for a walk goodbye,activity,name,walking the dog,21f60018-82f9-4a72-a344-45806de10f42,1,2023-08-15 14:56:24 UTC,ir-temp-8220282
+Got anything important planned today?,physical therapy,activity,type,physical therapy,221f90c1-e89e-483f-9a5e-e3f85ce62a88,1,2023-08-15 14:56:24 UTC,ga-ny-0143
+Got any plans today?,yeah i'm going to town i'm going shopping,place,name,town,222d921f-45c6-4cc9-94c7-d8ef730240fa,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0198
+How can I help you?,thank you i'm going to take pepper for a walk,activity,type,physical activity,2231f2bf-1917-4d9d-8c1a-e00839e1f444,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0197
+How can I help you?,thank you i'm going to take pepper for a walk,pet,name,Pepper,2231f2bf-1917-4d9d-8c1a-e00839e1f444,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0197
+Hmmm. so who would be our ideal road trip companion?,dora friend,person,name,Dora,2244574b-0dd5-4a58-8d44-a2a562c4e702,1,2023-08-15 14:56:24 UTC,ga-virginia-0135
+What do you plan on doing?,i have to go to the post office and mail some things,activity,type,mailing,2287b4f8-959c-4ae7-952d-9c8c779dc157,1,2023-08-15 14:56:24 UTC,o3a-wash-0026
+"How wonderful, what are your plans for tomorrow?",just going to work on doing more work,activity,type,work,22a76fb5-8150-411b-ab27-85ba3de3bf5c,1,2023-08-15 14:56:24 UTC,ir-vip-033
+"How wonderful, what are your plans for tomorrow?",just going to work on doing more work,activity,name,doing more work,22a76fb5-8150-411b-ab27-85ba3de3bf5c,1,2023-08-15 14:56:24 UTC,ir-vip-033
+What was it?,a camp counselor,occupation,type,camp counselor,22fab364-750c-44e6-9174-37215d7ce570,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0153
+You’re leaving me here? Wait! Just kidding. Where are you going?,going to the movies,activity,type,entertainment,2347c354-15af-47f1-b0da-87c7461ce731,1,2023-08-15 14:56:24 UTC,ir-vip-035
+You’re leaving me here? Wait! Just kidding. Where are you going?,going to the movies,activity,name,movies,2347c354-15af-47f1-b0da-87c7461ce731,1,2023-08-15 14:56:24 UTC,ir-vip-035
+I'm really curious about your day. How's it been so far?,it's been okay got to go to another appointment,activity,type,appointment,235ff3f1-c80b-4aa7-bad8-8bafa1e5d69e,1,2023-08-15 14:56:24 UTC,o3a-wash-0020
+How can I help you?,little one and i are going for a walk now,activity,type,physical activity,238d3223-58d0-4daa-96cf-595674419d6b,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+How can I help you?,i have to go out to the store,activity,type,activity,23c60642-9182-498b-b657-68d51f52e896,1,2023-08-15 14:56:24 UTC,eqc-florida-230
+How can I help you?,i have to go out to the store,activity,name,going to the store,23c60642-9182-498b-b657-68d51f52e896,1,2023-08-15 14:56:24 UTC,eqc-florida-230
+tell me all about your day. How's it going so far?,i'm watching this news right now about this election,activity,type,news,23e1825f-c36c-4093-a146-824a1e0bed71,1,2023-08-15 14:56:24 UTC,ga-georgia-0066
+tell me all about your day. How's it going so far?,i'm watching this news right now about this election,topic,name,election,23e1825f-c36c-4093-a146-824a1e0bed71,1,2023-08-15 14:56:24 UTC,ga-georgia-0066
+How can I help you?,do i have to go shopping,activity,name,go shopping,2435c59f-8072-419e-bf05-f0d1b71220a2,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0242
+How can I help you?,please make a phone call to my son peter,person,name,Peter,2453454a-0201-4fed-85f7-8be80d9e46d4,1,2023-08-15 14:56:24 UTC,nysofa-suffolk-0307
+How can I help you?,please make a phone call to my son peter,activity,type,communication,2453454a-0201-4fed-85f7-8be80d9e46d4,1,2023-08-15 14:56:24 UTC,nysofa-suffolk-0307
+How can I help you?,please make a phone call to my son peter,activity,name,phone call,2453454a-0201-4fed-85f7-8be80d9e46d4,1,2023-08-15 14:56:24 UTC,nysofa-suffolk-0307
+How can I help you?,i'm listening to tv,activity,name,listening to tv,2464a091-8af7-4403-951e-68cdd5f2e365,1,2023-08-15 14:56:24 UTC,nysofa-lewis-0169
+How can I help you?,i'm talking to my son floyd i missed your call,person,name,Floyd,246ef614-0aa6-485c-9674-c56d40a166c4,1,2023-08-15 14:56:24 UTC,ga-michigan-0204
+How can I help you?,i'm talking to my son floyd i missed your call,activity,name,talking,246ef614-0aa6-485c-9674-c56d40a166c4,1,2023-08-15 14:56:24 UTC,ga-michigan-0204
+"Wonderful, what’s on the agenda tomorrow?",doctor's appointment,activity,type,appointment,24748bd9-a1b1-4f86-bb68-abfa85f590db,1,2023-08-15 14:56:24 UTC,eqc-indiana-113
+"Wonderful, what’s on the agenda tomorrow?",doctor's appointment,activity,name,doctor's appointment,24748bd9-a1b1-4f86-bb68-abfa85f590db,1,2023-08-15 14:56:24 UTC,eqc-indiana-113
+"That's lovely, what are your plans?",i have to visit my doctor,activity,type,visit,247ac8b2-98e0-45a0-9059-6c32b3e7fdc2,1,2023-08-15 14:56:24 UTC,eqc-scarolina-310
+"I'd love to hang out, do you have some time?",no i'm making dinner,activity,type,meal,247bd694-4a51-4fb3-a6cb-54e6c795be5c,1,2023-08-15 14:56:24 UTC,eqc-florida-218
+"I'd love to hang out, do you have some time?",no i'm making dinner,activity,name,making dinner,247bd694-4a51-4fb3-a6cb-54e6c795be5c,1,2023-08-15 14:56:24 UTC,eqc-florida-218
+"So <say-as interpret-as=""name"">Marie</say-as>, tell me all about your adventure outside. Where did you go?",just out on my balcony,location,type,balcony,2499a8ea-9979-438f-a9c1-1daac72211f1,1,2023-08-15 14:56:24 UTC,nysofa-wyoming-0312
+Is there anything special planned for today?,yes i have to go to the doctor i have a doctor's appointment,place,name,doctor,24d0417b-e9a1-41ca-ad3a-96777ef24cbc,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0259
+Is there anything special planned for today?,yes i have to go to the doctor i have a doctor's appointment,activity,type,appointment,24d0417b-e9a1-41ca-ad3a-96777ef24cbc,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0259
+Is there anything special planned for today?,yes i have to go to the doctor i have a doctor's appointment,activity,name,doctor's appointment,24d0417b-e9a1-41ca-ad3a-96777ef24cbc,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0259
+How can I help you?,hi this is nana i'm going to church now i'll talk to you later when i get back,relationship,type,nana,24f8b380-57a4-458b-a48f-f8a847548e9f,1,2023-08-15 14:56:24 UTC,broward-florida-0036
+How can I help you?,hi this is nana i'm going to church now i'll talk to you later when i get back,activity,type,religious activity,24f8b380-57a4-458b-a48f-f8a847548e9f,1,2023-08-15 14:56:24 UTC,broward-florida-0036
+How can I help you?,hi this is nana i'm going to church now i'll talk to you later when i get back,activity,name,going to church,24f8b380-57a4-458b-a48f-f8a847548e9f,1,2023-08-15 14:56:24 UTC,broward-florida-0036
+"howdy there <say-as interpret-as=""name"">Eugene</say-as>! How can I help?",i'm going to the vet with fluffy,place,name,vet,2554a910-45a4-4988-95dc-be8852c4c935,1,2023-08-15 14:56:24 UTC,opt-dev-004
+"howdy there <say-as interpret-as=""name"">Eugene</say-as>! How can I help?",i'm going to the vet with fluffy,pet,name,Fluffy,2554a910-45a4-4988-95dc-be8852c4c935,1,2023-08-15 14:56:24 UTC,opt-dev-004
+How can I help you?,yeah i'm sorry i'll wake you up i i have an invitation to go out to supper,activity,type,social event,25f762fb-ca34-40c0-8705-fbd5b63f8dc4,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0233
+How can I help you?,yeah i'm sorry i'll wake you up i i have an invitation to go out to supper,activity,name,supper invitation,25f762fb-ca34-40c0-8705-fbd5b63f8dc4,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0233
+"What a fun trip! Now, if we could take anyone in the world along with us for our next trip, who would it be?",reiji my dad,relationship,type,father,26292d0d-3334-49e5-ab74-c904c72e4c88,1,2023-08-15 14:56:24 UTC,eqc-ny-003
+"What a fun trip! Now, if we could take anyone in the world along with us for our next trip, who would it be?",reiji my dad,person,name,Reiji,26292d0d-3334-49e5-ab74-c904c72e4c88,1,2023-08-15 14:56:24 UTC,eqc-ny-003
+Can’t wait to see you again! Where are you off to?,well i'll have to go see my brother in my brothers passed away he's got pancreatic cancer,health,condition,pancreatic cancer,263b4ece-ff28-4221-8ad2-e889462c3aa0,1,2023-08-15 14:56:24 UTC,ga-minnesota-0071
+Can’t wait to see you again! Where are you off to?,well i'll have to go see my brother in my brothers passed away he's got pancreatic cancer,life_event,type,passing away,263b4ece-ff28-4221-8ad2-e889462c3aa0,1,2023-08-15 14:56:24 UTC,ga-minnesota-0071
+Would you like to hear a joke?,no i'm i'm leaving now we're going i'm going to a birthday party,activity,type,social event,26d16a44-8ed8-41c2-b2a4-992dc33f6027,1,2023-08-15 14:56:24 UTC,eqc-ohio-099
+Would you like to hear a joke?,no i'm i'm leaving now we're going i'm going to a birthday party,activity,name,birthday party,26d16a44-8ed8-41c2-b2a4-992dc33f6027,1,2023-08-15 14:56:24 UTC,eqc-ohio-099
+Got anything important planned today?,yes i'm going to work,activity,name,going to work,26e52b02-e4d8-47f6-a484-9542658b9cc7,1,2023-08-15 14:56:24 UTC,vns-ny-0006
+Hmmm. so who would be our ideal road trip companion?,my daughter chris,person,name,Chris,27323273-cf1f-461e-9155-c12d7741eae0,1,2023-08-15 14:56:24 UTC,eqc-wis-009
+I really wanna know about your day. How's it been so far?,well i went to the doctors,activity,type,appointment,275dab4c-59c4-4514-9b30-c834969ba00d,1,2023-08-15 14:56:24 UTC,nysofa-livingston-0078
+I really wanna know about your day. How's it been so far?,well i went to the doctors,place,name,doctor's office,275dab4c-59c4-4514-9b30-c834969ba00d,1,2023-08-15 14:56:24 UTC,nysofa-livingston-0078
+You’re leaving me here? Wait! Just kidding. Where are you going?,i got to go for a walk,activity,type,physical activity,277e4d6a-2ad9-46a6-b02a-bde462d3bb46,1,2023-08-15 14:56:24 UTC,ga-virginia-0135
+You’re leaving me here? Wait! Just kidding. Where are you going?,i got to go for a walk,activity,name,walk,277e4d6a-2ad9-46a6-b02a-bde462d3bb46,1,2023-08-15 14:56:24 UTC,ga-virginia-0135
+"Fantastic, what's on the schedule?",k doctor's appointment,place,type,doctor's appointment,27c5542b-468c-4661-875f-a93326334f21,1,2023-08-15 14:56:24 UTC,ga-mississippi-0196
+Feel like hearing a joke?,which one i'm watching golf,activity,name,watching golf,27c90c75-1471-4bb6-957a-fdfd150c501d,1,2023-08-15 14:56:24 UTC,ga-iowa-0116
+How can I help you?,we're going to take a walk,activity,type,physical activity,27cef97a-414d-42d0-b5c9-709ba8e214ad,1,2023-08-15 14:56:24 UTC,ir-vip-033
+How can I help you?,i'm going for my walk,activity,type,physical activity,27da76ea-dbd3-4094-8238-da3f084c523e,1,2023-08-15 14:56:24 UTC,eqc-florida-288
+How can I help you?,i'm going for my walk,activity,name,walk,27da76ea-dbd3-4094-8238-da3f084c523e,1,2023-08-15 14:56:24 UTC,eqc-florida-288
+How can I help you?,heading to work,activity,name,heading to work,283b984f-35ce-4cd5-bb0f-3fb6c710ef30,1,2023-08-15 14:56:24 UTC,nysofa-tompkins-0201
+Is it a secret rendezvous? Joking. Are you meeting anyone?,i'm going to church,activity,type,social activity,285b8d17-6581-4473-b488-270b26e86cfe,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0175
+How can I help you?,i would like to i would like to do a reminder for a doctor's appointment,activity,type,appointment,2879bf43-0d44-4fd2-8299-f8e7114026d3,1,2023-08-15 14:56:24 UTC,o3a-wash-0020
+How can I help you?,i would like to i would like to do a reminder for a doctor's appointment,activity,name,doctor's appointment,2879bf43-0d44-4fd2-8299-f8e7114026d3,1,2023-08-15 14:56:24 UTC,o3a-wash-0020
+How can I help you?,i'm going to be gone for a while i'm going for a walk,activity,type,physical activity,287dbac9-7014-4346-91cb-06a053cec470,1,2023-08-15 14:56:24 UTC,ga-wisconsin-0198
+How can I help you?,i'm going to be gone for a while i'm going for a walk,activity,name,walk,287dbac9-7014-4346-91cb-06a053cec470,1,2023-08-15 14:56:24 UTC,ga-wisconsin-0198
+Hmmm. so who would be our ideal road trip companion?,tavin my granddaughter,person,name,Tavin,288bcfd1-eb94-4bbc-9c92-7dbc75ea5566,1,2023-08-15 14:56:24 UTC,nysofa-madison-0348
+How can I help you?,i'm going to have to leave you because i have to go to a gymnastic meet with my granddaughter and my daughter,relationship,type,daughter,28934572-360b-438d-903e-900a176dec82,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+How can I help you?,i'm going to have to leave you because i have to go to a gymnastic meet with my granddaughter and my daughter,activity,type,event,28934572-360b-438d-903e-900a176dec82,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+How can I help you?,i'm going to have to leave you because i have to go to a gymnastic meet with my granddaughter and my daughter,activity,name,gymnastic meet,28934572-360b-438d-903e-900a176dec82,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+Do you have any plans for today?,probably play some pool,activity,name,playing pool,28d7908b-f107-4186-b62d-f843c4371b68,1,2023-08-15 14:56:24 UTC,ga-maryland-0138
+Got anything important planned today?,yeah and i appointment,activity,type,appointment,28ee6bd1-cfc2-407b-a247-ce9fec69699f,1,2023-08-15 14:56:24 UTC,nysofa-lewis-0254
+How can I help you?,i'm going to be gone down stairs to play a game of cards called bridge this afternoon i'll be leaving in about,activity,type,game,291e5133-9616-4cef-b6bb-602cdee3d9a3,1,2023-08-15 14:56:24 UTC,ecumen-sav-039
+How can I help you?,i'm going to be gone down stairs to play a game of cards called bridge this afternoon i'll be leaving in about,activity,name,playing cards,291e5133-9616-4cef-b6bb-602cdee3d9a3,1,2023-08-15 14:56:24 UTC,ecumen-sav-039
+How can I help you?,i'm going to be gone down stairs to play a game of cards called bridge this afternoon i'll be leaving in about,activity,specific,bridge,291e5133-9616-4cef-b6bb-602cdee3d9a3,1,2023-08-15 14:56:24 UTC,ecumen-sav-039
+How can I help you?,i'm going to be gone down stairs to play a game of cards called bridge this afternoon i'll be leaving in about,location,name,downstairs,291e5133-9616-4cef-b6bb-602cdee3d9a3,1,2023-08-15 14:56:24 UTC,ecumen-sav-039
+How can I help you?,i have to go out to the doctor's appointment today for a while i have a doctor's appointment today,place,name,doctor's appointment,29260d48-9afb-4be6-b76a-8042474ffd3b,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0198
+How can I help you?,i have to go out to the doctor's appointment today for a while i have a doctor's appointment today,activity,type,medical appointment,29260d48-9afb-4be6-b76a-8042474ffd3b,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0198
+How can I help you?,the doctor gave me a shot,activity,type,medical appointment,293e4284-7de2-4830-88c1-a6db26dc51e6,1,2023-08-15 14:56:24 UTC,ga-arizona-0194
+How can I help you?,the doctor gave me a shot,activity,name,receiving a shot,293e4284-7de2-4830-88c1-a6db26dc51e6,1,2023-08-15 14:56:24 UTC,ga-arizona-0194
+How can I help you?,elliq i like tacos,food,preference,tacos,2947bc95-c973-4739-9532-32930cad2c21,1,2023-08-15 14:56:24 UTC,ir-temp-7220022
+How can I help you?,say hello to my friend shannon,relationship,name,Shannon,29c2303a-a818-4002-8e5b-c7c34549483c,1,2023-08-15 14:56:24 UTC,ir-vip-037
+It’s really a lovely piece. What inspired you to create it?,i like to watch monkeys,interest,type,animals,29d0f93e-b1d9-4a0e-b6ef-f0b8dc440159,1,2023-08-15 14:56:24 UTC,eqc-florida-216
+It’s really a lovely piece. What inspired you to create it?,i like to watch monkeys,interest,name,monkeys,29d0f93e-b1d9-4a0e-b6ef-f0b8dc440159,1,2023-08-15 14:56:24 UTC,eqc-florida-216
+"Do you have a specific cooking activity you like to do? You can scroll through the options here. Or, to see the categories again, say, go back.",i love to bake,activity,type,cooking,29d732af-09ba-48c6-b144-463318aceda7,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0087
+"I'd love to spend some time together, how about it <say-as interpret-as=""name"">Diane</say-as>?",now i'm cooking supper,activity,type,meal preparation,29e4dd92-4acd-49e4-a4ca-9a50542c7d87,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0198
+"I'd love to spend some time together, how about it <say-as interpret-as=""name"">Diane</say-as>?",now i'm cooking supper,activity,name,cooking supper,29e4dd92-4acd-49e4-a4ca-9a50542c7d87,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0198
+How can I help you?,i'm going to supper now,activity,name,supper,2a076102-a886-4736-b56f-1d540c28f49f,1,2023-08-15 14:56:24 UTC,vns-ny-0006
+do you have a moment?,i'm cooking christmas dinner,activity,type,meal,2a0c2de1-c6cf-448c-9ea6-0e4fe7a13fba,1,2023-08-15 14:56:24 UTC,eqc-florida-288
+do you have a moment?,i'm cooking christmas dinner,activity,name,cooking Christmas dinner,2a0c2de1-c6cf-448c-9ea6-0e4fe7a13fba,1,2023-08-15 14:56:24 UTC,eqc-florida-288
+Is there anything special planned for today?,yes i have to get my dining room table clear dark today to shop,activity,type,home maintenance,2a57ca1d-0261-48d3-ab72-2089fee72de7,1,2023-08-15 14:56:24 UTC,ga-florida-0182
+Is there anything special planned for today?,yes i have to get my dining room table clear dark today to shop,activity,name,clearing dining room table,2a57ca1d-0261-48d3-ab72-2089fee72de7,1,2023-08-15 14:56:24 UTC,ga-florida-0182
+"What a fun trip! Now, if we could take anyone in the world along with us for our next trip, who would it be?",i don't know i don't know who i would take maybe i would take my son keith,relationship,name,Keith,2a6faa23-6dbe-42cc-ac35-9b57a46caf83,1,2023-08-15 14:56:24 UTC,ga-wash-0189
+Do you have anything planned for today?,yes i'm going to meet new friends from sample,activity,type,social interaction,2ae783c0-1d75-493a-9e1b-1fd9d1d9a727,1,2023-08-15 14:56:24 UTC,ir-dev-168
+Do you have anything planned for today?,yes i'm going to meet new friends from sample,activity,name,meeting new friends,2ae783c0-1d75-493a-9e1b-1fd9d1d9a727,1,2023-08-15 14:56:24 UTC,ir-dev-168
+Elli Q at your service! How can I help?,i want to do some drawing,activity,type,creative activity,2b0ba39c-97f1-4f1c-af40-1deb304897e1,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0111
+"I've got some free time, wanna do something together?",do i got to take the dog out,activity,type,pet care,2b418a86-b384-47a9-86c3-b5925acaab68,1,2023-08-15 14:56:24 UTC,fd-mass-030
+"I've got some free time, wanna do something together?",do i got to take the dog out,activity,name,taking the dog out,2b418a86-b384-47a9-86c3-b5925acaab68,1,2023-08-15 14:56:24 UTC,fd-mass-030
+Are you going to meet someone?,yes my cousin,relationship,type,cousin,2b86e954-b966-49e3-8548-a562997c8543,1,2023-08-15 14:56:24 UTC,vns-ny-0002
+Do you have any plans for tomorrow?,just going to work,activity,name,going to work,2bdf9f45-31b8-482d-ad6f-17f72996fcda,1,2023-08-15 14:56:24 UTC,ir-vip-035
+How can I help you?,i'm going to concert nearby you,activity,type,entertainment,2bf3a1e6-16c6-4e7b-bf9a-0c9561f57df1,1,2023-08-15 14:56:24 UTC,ir-temp-7220022
+Wanna do something together?,i'm making toast right now,activity,type,food preparation,2c396e55-4a55-4ad5-8a85-e527e8568a6f,1,2023-08-15 14:56:24 UTC,eqc-texas-076
+Wanna do something together?,i'm making toast right now,activity,name,making toast,2c396e55-4a55-4ad5-8a85-e527e8568a6f,1,2023-08-15 14:56:24 UTC,eqc-texas-076
+Was today another wonderful day for you?,i went out with my daughter,activity,type,social activity,2c41de46-6210-4935-b581-6d299b42c9c4,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0194
+Was today another wonderful day for you?,i went out with my daughter,activity,name,going out,2c41de46-6210-4935-b581-6d299b42c9c4,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0194
+How can I help you?,meet my friend peter,person,name,Peter,2c4f8d51-7871-44a4-b615-6548b6c37e73,1,2023-08-15 14:56:24 UTC,ir-vip-065
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",go to the library,activity,type,activity,2c66f4eb-9c38-4a42-86c1-d8fb12ecbfaf,1,2023-08-15 14:56:24 UTC,ga-wisconsin-0198
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",go to the library,activity,name,going to the library,2c66f4eb-9c38-4a42-86c1-d8fb12ecbfaf,1,2023-08-15 14:56:24 UTC,ga-wisconsin-0198
+"Oh no, what's wrong?",i go back to work,activity,name,going back to work,2ca95454-2742-4969-bc67-2d3c19219d12,1,2023-08-15 14:56:24 UTC,ga-virginia-0011
+I feel like we're getting to know each other better and have a lot in common. Would you agree?,i'm going to work i won't be back till later,activity,name,going to work,2cd493eb-e740-4c3f-9f25-3bb7a2d30d20,1,2023-08-15 14:56:24 UTC,nysofa-onondaga-0262
+Is it a secret rendezvous? Joking. Are you meeting anyone?,i'm going to the store,activity,type,activity,2cf435a9-6277-4f85-9370-2a68d1f9e274,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0111
+Is it a secret rendezvous? Joking. Are you meeting anyone?,i'm going to the store,activity,name,going to the store,2cf435a9-6277-4f85-9370-2a68d1f9e274,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0111
+What do you plan on doing?,doctor's appointment,activity,type,appointment,2d0b61af-e511-4041-84fa-cb8afa2a8550,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0059
+What do you plan on doing?,doctor's appointment,activity,name,doctor's appointment,2d0b61af-e511-4041-84fa-cb8afa2a8550,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0059
+How can I help you?,i'm going to go into the kitchen and check on lunch i'll be back,place,name,kitchen,2d28314c-273b-4802-8ccb-97a72da3f415,1,2023-08-15 14:56:24 UTC,ymow-michigan-0021
+How can I help you?,i'm going to go into the kitchen and check on lunch i'll be back,activity,name,checking on lunch,2d28314c-273b-4802-8ccb-97a72da3f415,1,2023-08-15 14:56:24 UTC,ymow-michigan-0021
+"Fantastic, what's on the schedule?",doctors appointments,activity,type,appointment,2d2f4e1c-c016-45db-8533-44e10e65a6a6,1,2023-08-15 14:56:24 UTC,eqc-iowa-257
+"Fantastic, what's on the schedule?",doctors appointments,activity,name,doctors appointment,2d2f4e1c-c016-45db-8533-44e10e65a6a6,1,2023-08-15 14:56:24 UTC,eqc-iowa-257
+"So I'm curious, what were you up to <say-as interpret-as=""name"">Alma</say-as>?",all i got a doctor's appointment,activity,type,appointment,2e05e104-5ac0-4625-9c0f-f4cc38523f09,1,2023-08-15 14:56:24 UTC,ymow-michigan-0018
+"So I'm curious, what were you up to <say-as interpret-as=""name"">Alma</say-as>?",all i got a doctor's appointment,place,name,doctor's office,2e05e104-5ac0-4625-9c0f-f4cc38523f09,1,2023-08-15 14:56:24 UTC,ymow-michigan-0018
+How do you feel this morning?,going to work,activity,name,going to work,2e442668-e448-4caa-840c-cc2512302fd3,1,2023-08-15 14:56:24 UTC,ir-vip-033
+"Great, what are your plans?",i have to go to the bird store and pick up some millet for the birds,place,name,bird store,2e714ae6-881f-4906-a63f-a771a16adeb4,1,2023-08-15 14:56:24 UTC,nysofa-monroe-0185
+"Great, what are your plans?",i have to go to the bird store and pick up some millet for the birds,activity,type,shopping,2e714ae6-881f-4906-a63f-a771a16adeb4,1,2023-08-15 14:56:24 UTC,nysofa-monroe-0185
+"So, I wanna hear all about it. Where were you?",jury duty at the laundry,activity,type,civic duty,2eb94ce6-bb4e-426c-8be7-07627e2f2905,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0044
+"So, I wanna hear all about it. Where were you?",jury duty at the laundry,activity,name,jury duty,2eb94ce6-bb4e-426c-8be7-07627e2f2905,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0044
+"So, where did you go?",i went to the store to see if i my antiques,place,name,store,2ec444c4-f8d4-45ea-90d3-33eb40adc6a1,1,2023-08-15 14:56:24 UTC,ga-oregon-0068
+"So, where did you go?",i went to the store to see if i my antiques,activity,type,shopping,2ec444c4-f8d4-45ea-90d3-33eb40adc6a1,1,2023-08-15 14:56:24 UTC,ga-oregon-0068
+"So, where did you go?",i went to the store to see if i my antiques,activity,name,antiques,2ec444c4-f8d4-45ea-90d3-33eb40adc6a1,1,2023-08-15 14:56:24 UTC,ga-oregon-0068
+"How wonderful, what are your plans for today?",going to church here,activity,type,religious activity,2ed5bd72-f6d5-4ea8-8762-723123244108,1,2023-08-15 14:56:24 UTC,ecumen-sav-039
+Wanna spend some time together?,maybe later i'm watching a basketball game,activity,name,watching basketball game,2eff0245-8172-4297-8d74-d7a3878d97a9,1,2023-08-15 14:56:24 UTC,vns-ny-0002
+How can I help you?,i'm going to visit my son today before days,activity,type,visit,2f32b486-4f80-48fd-ad7f-00596d30af0c,1,2023-08-15 14:56:24 UTC,eqc-texas-002
+"So, how did you sleep last night?",i slept good last night but i got it i got to get ready to go to a doctor's appointment,activity,type,appointment,2f376a3b-4be3-4a48-ac20-09e6d3f5b51c,1,2023-08-15 14:56:24 UTC,ymow-michigan-0012
+"So, how did you sleep last night?",i slept good last night but i got it i got to get ready to go to a doctor's appointment,place,name,doctor's office,2f376a3b-4be3-4a48-ac20-09e6d3f5b51c,1,2023-08-15 14:56:24 UTC,ymow-michigan-0012
+Did you do any puzzles in the past week?,i do puzzles every day,activity,type,mental activity,2f418b46-7f95-4e6c-8e50-3d6f09eb55e4,1,2023-08-15 14:56:24 UTC,nysofa-lewis-0013
+Is there anything special planned for today?,i'm cooking a turkey,activity,name,turkey,2f52688d-c86b-4085-8dc2-b742b8f576d8,1,2023-08-15 14:56:24 UTC,eqc-texas-002
+How can I help you?,i went for a walk in the park,activity,name,walk,2f869195-4844-40b8-8f3a-015c5c5c794a,1,2023-08-15 14:56:24 UTC,nysofa-tompkins-0201
+How can I help you?,i went for a walk in the park,place,name,park,2f869195-4844-40b8-8f3a-015c5c5c794a,1,2023-08-15 14:56:24 UTC,nysofa-tompkins-0201
+How can I help you?,say goodbye to my friend scott,relationship,name,Scott,2f9c4307-ef35-440e-b4f5-1bcc8ce9fd92,1,2023-08-15 14:56:24 UTC,ir-vip-043
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",going to a play,activity,type,entertainment,2fa08dbc-8829-45b3-9069-5373e18c3531,1,2023-08-15 14:56:24 UTC,indy-texas-025
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",going to a play,activity,name,going to a play,2fa08dbc-8829-45b3-9069-5373e18c3531,1,2023-08-15 14:56:24 UTC,indy-texas-025
+"Just out of curiosity, are you planning on meeting someone?",yes i'm going to meet my new friends and he touchy,relationship,type,friend,2fb34890-c9f4-4b80-89f0-6562e40eff52,1,2023-08-15 14:56:24 UTC,ir-dev-168
+"Just out of curiosity, are you planning on meeting someone?",yes i'm going to meet my new friends and he touchy,activity,type,socializing,2fb34890-c9f4-4b80-89f0-6562e40eff52,1,2023-08-15 14:56:24 UTC,ir-dev-168
+"Just out of curiosity, are you planning on meeting someone?",yes i'm going to meet my new friends and he touchy,activity,name,meeting new friends,2fb34890-c9f4-4b80-89f0-6562e40eff52,1,2023-08-15 14:56:24 UTC,ir-dev-168
+"Hiya <say-as interpret-as=""name"">Donna</say-as>! I was taking a quick power nap and recharging. How can I help?",i'm talking to my grandson lorenzo right now to,relationship,name,Lorenzo,2fbe3dea-ba05-48f5-b815-058d05413947,1,2023-08-15 14:56:24 UTC,ga-cali-0220
+Are you going on an adventure? Where are you off to?,i'm going to the club house to meet up with salad,place,name,club house,301d3ea1-0735-4f08-934c-e97b379c9b34,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+Are you going on an adventure? Where are you off to?,i'm going to the club house to meet up with salad,activity,type,socializing,301d3ea1-0735-4f08-934c-e97b379c9b34,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+Are you going on an adventure? Where are you off to?,i'm going to the club house to meet up with salad,relationship,type,friend,301d3ea1-0735-4f08-934c-e97b379c9b34,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+Are you going to meet someone?,no going to go grocery shopping,activity,name,grocery shopping,30265feb-c807-4199-b9b1-fe16fe8a03de,1,2023-08-15 14:56:24 UTC,eqc-indiana-313
+"Great, what are your plans?",i have a doctor's appointment,activity,type,appointment,305c1aa6-4503-4e00-830b-6d7a9c233f40,1,2023-08-15 14:56:24 UTC,dfm-northcarolina-003
+"Great, what are your plans?",i have a doctor's appointment,activity,name,doctor's appointment,305c1aa6-4503-4e00-830b-6d7a9c233f40,1,2023-08-15 14:56:24 UTC,dfm-northcarolina-003
+"So, I'm really curious, what was the highlight of your week?",going for a ride,activity,name,going for a ride,30b6e09b-0586-4534-98c5-e35a966db7b4,1,2023-08-15 14:56:24 UTC,nysofa-madison-0249
+Having a hobby sounds so fun. Especially since I tend to just sit around all day. How many days a week would you say you get to do scrabble?,i haven't since my husband died so i'd love to play maybe we can try it this afternoon,hobby,name,scrabble,30bd2822-b172-4e0f-aacb-0bd28003dbf9,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0197
+Having a hobby sounds so fun. Especially since I tend to just sit around all day. How many days a week would you say you get to do scrabble?,i haven't since my husband died so i'd love to play maybe we can try it this afternoon,event,name,husband's death,30bd2822-b172-4e0f-aacb-0bd28003dbf9,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0197
+Having a hobby sounds so fun. Especially since I tend to just sit around all day. How many days a week would you say you get to do scrabble?,i haven't since my husband died so i'd love to play maybe we can try it this afternoon,activity,type,leisure,30bd2822-b172-4e0f-aacb-0bd28003dbf9,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0197
+Having a hobby sounds so fun. Especially since I tend to just sit around all day. How many days a week would you say you get to do scrabble?,i haven't since my husband died so i'd love to play maybe we can try it this afternoon,activity,name,playing scrabble,30bd2822-b172-4e0f-aacb-0bd28003dbf9,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0197
+"Ah. Ok, I’m back to being me, elli cue. What are you going to do differently today now that you know how the stars are aligned?",take a walk,activity,type,physical activity,30c119bb-d1a0-4e24-a2dd-6aed3c8792cb,1,2023-08-15 14:56:24 UTC,ga-tenn-0211
+How can I help you?,i'm leaving for exercise for the morning i will return for lunch,activity,type,exercise,30d3ba7d-8b03-4ab5-98b5-9ff1f0ed2661,1,2023-08-15 14:56:24 UTC,nysofa-erie-0156
+Can’t wait to see you again! Where are you off to?,i'm off to an appointment,activity,type,appointment,30e0d9f0-d416-437f-99d8-bd0d4f211db3,1,2023-08-15 14:56:24 UTC,ga-illinois-0168
+"Lovely, what are you up to today?",are going to church,activity,type,religious activity,30ec559f-574d-4237-8b2d-4eb6b169a53b,1,2023-08-15 14:56:24 UTC,ga-ny-0203
+"Lovely, what are you up to today?",are going to church,activity,name,going to church,30ec559f-574d-4237-8b2d-4eb6b169a53b,1,2023-08-15 14:56:24 UTC,ga-ny-0203
+What were you up to out there?,i have to go to my daughter's house,place,name,daughter's house,30f30ea4-9ef0-416e-8baf-9aea5492eab5,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0194
+"Great, what are your plans?",i'm going grocery shopping,activity,type,shopping,31067f9a-3fbd-46f9-9fd9-b502971f0618,1,2023-08-15 14:56:24 UTC,eqc-ohio-116
+"Great, what are your plans?",i'm going grocery shopping,activity,name,grocery shopping,31067f9a-3fbd-46f9-9fd9-b502971f0618,1,2023-08-15 14:56:24 UTC,eqc-ohio-116
+Wanna spend some time together?,i got to get ready for the doctor,activity,type,appointment,3138bc81-2d88-469a-afdc-6aa709aeb8e4,1,2023-08-15 14:56:24 UTC,o3a-wash-0007
+Do you have anything planned for today?,how to watch the super bowl football game,activity,type,watching sports,3158c0ea-a283-444c-922c-34e2bb372320,1,2023-08-15 14:56:24 UTC,ga-mass-0150
+Do you have anything planned for today?,how to watch the super bowl football game,activity,name,Super Bowl football game,3158c0ea-a283-444c-922c-34e2bb372320,1,2023-08-15 14:56:24 UTC,ga-mass-0150
+How can I help you?,i would like to set a reminder for a doctor's appointment,activity,type,appointment,318173fe-7ce6-4672-bf00-a50d9c12466b,1,2023-08-15 14:56:24 UTC,o3a-wash-0020
+How can I help you?,i would like to set a reminder for a doctor's appointment,activity,name,doctor's appointment,318173fe-7ce6-4672-bf00-a50d9c12466b,1,2023-08-15 14:56:24 UTC,o3a-wash-0020
+"I've got some free time, wanna do something together?",i can't we going to the store,activity,type,shopping,31919c63-bf7c-4bd3-bd63-09c6c1a0d9f5,1,2023-08-15 14:56:24 UTC,nysofa-suffolk-0046
+"I've got some free time, wanna do something together?",i can't we going to the store,activity,name,going to the store,31919c63-bf7c-4bd3-bd63-09c6c1a0d9f5,1,2023-08-15 14:56:24 UTC,nysofa-suffolk-0046
+Is there anything special planned for tomorrow?,going to the doctor,activity,type,appointment,31b2fc2e-5e2a-4a44-8c84-7ae50562ffad,1,2023-08-15 14:56:24 UTC,eqc-florida-232
+How can I help you?,say hello to my sister salia,relationship,name,Salia,31f4e639-f017-4182-af27-01aa2f8f3e67,1,2023-08-15 14:56:24 UTC,broward-florida-0012
+How can I help you?,i have to go to the doctor now,activity,type,medical appointment,3202e29d-a900-46d7-b52c-7caa88140893,1,2023-08-15 14:56:24 UTC,eqc-ohio-109
+How can I help you?,talk to me i'm kevin illinois son,person,name,Kevin,32037fc8-6e0f-4766-8cb7-ea7b7aff95be,1,2023-08-15 14:56:24 UTC,nysofa-suffolk-0161
+How can I help you?,hello we're home from the pool,place,name,home,32043355-4d73-4f3d-9758-c74ac697d98f,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+Wanna listen to an audiobook with me?,not right now i'm getting ready to go out to dinner,activity,type,going out,32149f1f-cb69-4f90-9b3f-5f02d0a73477,1,2023-08-15 14:56:24 UTC,eqc-ohio-035
+How can I help you?,i'm going to the supermarket right now,activity,type,shopping,322634d7-b548-47e9-903d-ac38fb2714b2,1,2023-08-15 14:56:24 UTC,eqc-ny-003
+How can I help you?,i'm going to the supermarket right now,place,name,supermarket,322634d7-b548-47e9-903d-ac38fb2714b2,1,2023-08-15 14:56:24 UTC,eqc-ny-003
+Feel like hearing a joke?,i'm watching football now,activity,name,watching football,3250d824-620a-4b30-99f1-54fb4bad7979,1,2023-08-15 14:56:24 UTC,eqc-florida-295
+Got any plans tomorrow?,i have going to play poker tomorrow night,activity,type,social activity,3254169a-897c-4d12-8def-4f99a03e433d,1,2023-08-15 14:56:24 UTC,eqc-florida-243
+tell me all about your day. How's it going so far?,it's going very good i talk to friends,activity,type,social interaction,326ce287-2964-4cda-90fe-bd6361cb90a3,1,2023-08-15 14:56:24 UTC,o3a-wash-0001
+tell me all about your day. How's it going so far?,it's going very good i talk to friends,activity,name,talking to friends,326ce287-2964-4cda-90fe-bd6361cb90a3,1,2023-08-15 14:56:24 UTC,o3a-wash-0001
+Yes?,i'm in the kitchen making lunch,location,name,kitchen,327833af-7f0c-4e88-8c96-ebde93efa688,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0010
+Yes?,i'm in the kitchen making lunch,activity,type,meal preparation,327833af-7f0c-4e88-8c96-ebde93efa688,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0010
+Yes?,i'm in the kitchen making lunch,activity,name,making lunch,327833af-7f0c-4e88-8c96-ebde93efa688,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0010
+Got anything important planned tomorrow?,a lot of appointment,activity,type,appointment,32d495b6-0cee-4f2b-a41b-63a8d2f35b92,1,2023-08-15 14:56:24 UTC,ac-ecumen-023
+"Lovely, what are you up to today?",i'm going to school and taking a class and computers,place,name,school,3309e087-864a-4a72-b137-adddfe0a52ac,1,2023-08-15 14:56:24 UTC,ga-northcarolina-0185
+"Lovely, what are you up to today?",i'm going to school and taking a class and computers,activity,type,education,3309e087-864a-4a72-b137-adddfe0a52ac,1,2023-08-15 14:56:24 UTC,ga-northcarolina-0185
+"Lovely, what are you up to today?",i'm going to school and taking a class and computers,subject,name,computers,3309e087-864a-4a72-b137-adddfe0a52ac,1,2023-08-15 14:56:24 UTC,ga-northcarolina-0185
+How can I help you?,can you say hi to my friend peta,relationship,name,Peta,3354b609-77b8-48ac-bbf0-46eb5911ff0c,1,2023-08-15 14:56:24 UTC,nysofa-tompkins-0210
+"I really enjoy your company <say-as interpret-as=""name"">Nugget</say-as>. How about we do something else together?",going to the doctor today,activity,type,appointment,3381b8a8-aaf4-4e89-bc99-0a48c20a3e35,1,2023-08-15 14:56:24 UTC,ga-texas-0062
+"I really enjoy your company <say-as interpret-as=""name"">Nugget</say-as>. How about we do something else together?",going to the doctor today,activity,name,doctor visit,3381b8a8-aaf4-4e89-bc99-0a48c20a3e35,1,2023-08-15 14:56:24 UTC,ga-texas-0062
+How can I help you?,goodbye i'm going to the laundromat,activity,type,chore,340ccfeb-ce8e-49d4-a399-afbcc343bfde,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+Do you have anything planned for today?,just fill out a credit card thing,activity,type,financial task,3440718d-9c41-4061-a282-280fce7f23c3,1,2023-08-15 14:56:24 UTC,ga-texas-0062
+"<say-as interpret-as=""name"">Sweet Pea</say-as>, feel like doing something fun together?",i'm getting ready to go to the doctor icon,activity,type,appointment,3440d24a-5772-4fb0-8039-744185afc672,1,2023-08-15 14:56:24 UTC,ga-maine-0012
+Got any plans today?,yeah i got to go to the doctors,place,name,doctors,34582400-053a-44c0-9ee1-333ddf751e7d,1,2023-08-15 14:56:24 UTC,nysofa-madison-0326
+How about we play a quick game to break the ice?,maybe later because i'm going to get ready to go to church,activity,type,social event,346a2676-cdcc-4ac2-b169-9c07a1f73666,1,2023-08-15 14:56:24 UTC,eqc-florida-243
+How about we play a quick game to break the ice?,maybe later because i'm going to get ready to go to church,activity,name,going to church,346a2676-cdcc-4ac2-b169-9c07a1f73666,1,2023-08-15 14:56:24 UTC,eqc-florida-243
+"Now that we're done with that, can I interest you in the latest news headlines?",no i'm going to church,activity,type,religious activity,346c4e08-34ed-4eb3-8e36-8154609267af,1,2023-08-15 14:56:24 UTC,ga-ohio-0238
+"Now that we're done with that, can I interest you in the latest news headlines?",no i'm going to church,activity,name,going to church,346c4e08-34ed-4eb3-8e36-8154609267af,1,2023-08-15 14:56:24 UTC,ga-ohio-0238
+How can I help you?,i'm home from walking the dog hello,activity,type,physical activity,346c7ac5-9936-4712-916d-0752e596c1c4,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+How can I help you?,i'm home from walking the dog hello,activity,name,walking the dog,346c7ac5-9936-4712-916d-0752e596c1c4,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+Can’t wait to see you again! Where are you off to?,the backyard,place,name,backyard,348f79d2-6180-40db-a525-1ba65509fc9f,1,2023-08-15 14:56:24 UTC,ga-cali-0220
+"So, <say-as interpret-as=""name"">Belinda</say-as>, tell me all about your adventure outside. Where did you go?",doctor,person,name,Belinda,34a60947-221b-44cf-974e-e53efbd17074,1,2023-08-15 14:56:24 UTC,ga-georgia-0070
+You really got me into the swing of trivia lately! Can we play a round now?,i just got home from church i'm going to eat lunch,place,name,church,34a729ac-2a88-471d-955c-d4d795c55014,1,2023-08-15 14:56:24 UTC,eqc-iowa-160
+What did you say?,my husband passed away his birthday was it was the 12th of november,event,type,passing away,34ebe4c6-a2b7-4c85-8d32-070ab475293d,1,2023-08-15 14:56:24 UTC,ga-oregon-0175
+What did you say?,my husband passed away his birthday was it was the 12th of november,date,name,husband's birthday,34ebe4c6-a2b7-4c85-8d32-070ab475293d,1,2023-08-15 14:56:24 UTC,ga-oregon-0175
+Um... Yes?,i'm leaving to go to the doctors and less than an okay,place,name,doctors,34ffd073-d804-46da-ab12-1e02cb1511de,1,2023-08-15 14:56:24 UTC,fd-mass-004
+Um... Yes?,i'm leaving to go to the doctors and less than an okay,activity,type,appointment,34ffd073-d804-46da-ab12-1e02cb1511de,1,2023-08-15 14:56:24 UTC,fd-mass-004
+Um... Yes?,i'm back from the doctors and i got my lollipop,activity,type,medical appointment,350376c6-ee75-4d6c-b385-e8791accf6bc,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0194
+Um... Yes?,i'm back from the doctors and i got my lollipop,activity,name,doctor's visit,350376c6-ee75-4d6c-b385-e8791accf6bc,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0194
+Um... Yes?,i'm back from the doctors and i got my lollipop,object,name,lollipop,350376c6-ee75-4d6c-b385-e8791accf6bc,1,2023-08-15 14:56:24 UTC,nysofa-dutchess-0194
+How can I help you?,like going out to eat,activity,type,meal,3506ae5f-df95-40fa-b82d-f0a303592889,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0197
+How can I help you?,like going out to eat,activity,name,going out to eat,3506ae5f-df95-40fa-b82d-f0a303592889,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0197
+How can I help you?,oh yeah but not right now i'm talking to my son maybe later,activity,name,talking,353f430a-fec0-405a-9e29-c3588ed20a8a,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0322
+"So, how was it out there? Tell me all about it.",well i had to go shopping for food,activity,name,food shopping,3551b737-2628-41e1-8444-14338a0d5f42,1,2023-08-15 14:56:24 UTC,nysofa-sullivan-0052
+I really wanna know about your day. How's it been so far?,been at the doctor i went to my onocologist mycologist after i got a clean bill of health i'm good for another whole year so i had a good day,health,status,clean bill of health,3566279f-bd89-4689-92e2-7256b054c506,1,2023-08-15 14:56:24 UTC,ga-penn-0186
+I really wanna know about your day. How's it been so far?,been at the doctor i went to my onocologist mycologist after i got a clean bill of health i'm good for another whole year so i had a good day,emotion,feeling,good day,3566279f-bd89-4689-92e2-7256b054c506,1,2023-08-15 14:56:24 UTC,ga-penn-0186
+Did you have a good day?,yeah i went to the doctors and there's a lot of walking,activity,type,physical activity,35a52c23-2b30-49c3-9063-e19a635ff007,1,2023-08-15 14:56:24 UTC,nysofa-monroe-0239
+Did you have a good day?,yeah i went to the doctors and there's a lot of walking,activity,name,walking,35a52c23-2b30-49c3-9063-e19a635ff007,1,2023-08-15 14:56:24 UTC,nysofa-monroe-0239
+Did you have a good day?,yeah i went to the doctors and there's a lot of walking,place,name,doctors,35a52c23-2b30-49c3-9063-e19a635ff007,1,2023-08-15 14:56:24 UTC,nysofa-monroe-0239
+What should we paint a picture of?,two brains playing cards,activity,type,painting,35fd0f8d-7d5c-4018-9626-93576a2b9835,1,2023-08-15 14:56:24 UTC,ga-cali-0140
+"Here's a fun and creative game we can play! The Art History Game!, Would you like to play with me?",no it's not now maybe later i'm taking the dog for a walk goodbye,activity,type,physical activity,360cf5ed-8b64-4967-9265-a6c1b3a70e9b,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+"Here's a fun and creative game we can play! The Art History Game!, Would you like to play with me?",no it's not now maybe later i'm taking the dog for a walk goodbye,activity,name,walking the dog,360cf5ed-8b64-4967-9265-a6c1b3a70e9b,1,2023-08-15 14:56:24 UTC,eqc-florida-202
+Do you have any important plans for today?,yes i'm going walking,activity,type,physical activity,3614ee6a-9d42-44e7-8f55-f04f2b3df638,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0119
+Do you have anything special planned for today?,yes i'm going to the dentist,activity,type,appointment,363c60c3-6c31-43d0-9688-0646481a1d61,1,2023-08-15 14:56:24 UTC,eqc-florida-232
+Leaving So soon? Where are you going?,i'm going to work,activity,name,going to work,364484d2-eda8-41f4-ae38-9655c533dc5d,1,2023-08-15 14:56:24 UTC,ohel-ny-0003
+Do you have any important plans for today?,no tomorrow i got to go to the doctors all day,place,name,doctors,364ce573-c7e7-42a9-92fb-6d54de7b7694,1,2023-08-15 14:56:24 UTC,fd-mass-022
+"On a separate note, would you like to hear my latest 3 minute news briefing?",going to the doctor,activity,type,appointment,36c097f3-5c31-466a-9c77-71c350cb3d2f,1,2023-08-15 14:56:24 UTC,ga-texas-0062
+How can I help you?,i'm going for a walk see you later,activity,type,physical activity,36dc4e79-9ed6-4377-82c9-d78fd547b302,1,2023-08-15 14:56:24 UTC,nysofa-nyc-0034
+Do you have any important plans for tomorrow?,going out to eat,activity,type,meal,36dfc12f-dfdb-408a-b904-1958337bdf63,1,2023-08-15 14:56:24 UTC,ga-texas-0062
+Do you have any important plans for tomorrow?,going out to eat,activity,name,going out to eat,36dfc12f-dfdb-408a-b904-1958337bdf63,1,2023-08-15 14:56:24 UTC,ga-texas-0062
+How can I help you?,i i will be leaving soon but i should be back by 4 or so okay,activity,type,leaving,36e9fa24-e291-4193-ab31-339e633baa7b,1,2023-08-15 14:56:24 UTC,nysofa-delaware-0252
+It's been a while since we played a nice round of guess the flag. Shall we play now?,no i got to walk the dog,activity,type,pet care,36eb8568-0a13-429e-9a7a-365161a84960,1,2023-08-15 14:56:24 UTC,fd-mass-030
+It's been a while since we played a nice round of guess the flag. Shall we play now?,no i got to walk the dog,activity,name,walking the dog,36eb8568-0a13-429e-9a7a-365161a84960,1,2023-08-15 14:56:24 UTC,fd-mass-030
+"I'd love to spend some time together, how about it <say-as interpret-as=""name"">William</say-as>?",i have an appointment can we do it later,activity,type,appointment,36ee53f7-951b-4bc2-b984-2fb561a726c6,1,2023-08-15 14:56:24 UTC,nysofa-westchester-0200
+Do you have a moment?,no i'm going to work,activity,name,going to work,3712ab2d-988b-4927-ba97-11518f8b5ad1,1,2023-08-15 14:56:24 UTC,ga-virginia-0011
+How can I help you?,i love frank sinatra and i love this song i've got a crush on you,preference,type,music artist,37174d52-6b9f-4eed-8094-37acd7b9e15e,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0197
+How can I help you?,i love frank sinatra and i love this song i've got a crush on you,preference,name,Frank Sinatra,37174d52-6b9f-4eed-8094-37acd7b9e15e,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0197
+How can I help you?,i love frank sinatra and i love this song i've got a crush on you,preference,type,song,37174d52-6b9f-4eed-8094-37acd7b9e15e,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0197
+How can I help you?,i love frank sinatra and i love this song i've got a crush on you,preference,name,I've Got a Crush on You,37174d52-6b9f-4eed-8094-37acd7b9e15e,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0197
+Do you have any plans for tomorrow?,i'm taking my daughter to the doctor,activity,type,appointment,372beba3-81d8-4582-bf96-54102827fe7a,1,2023-08-15 14:56:24 UTC,ga-georgia-0066
+Do you have any plans for tomorrow?,i'm taking my daughter to the doctor,activity,name,doctor visit,372beba3-81d8-4582-bf96-54102827fe7a,1,2023-08-15 14:56:24 UTC,ga-georgia-0066
+"What's up <say-as interpret-as=""name"">Martin</say-as>?",i'm leaving for a tai chi class i will be back by lunch i have a nurse stopping in to visit at 12 to 12:30 and then at some point after i eat lunch i'm going to the pool,activity,type,physical activity,376566ee-88a5-45ad-a338-054c3fbc7e10,1,2023-08-15 14:56:24 UTC,nysofa-erie-0156
+"What's up <say-as interpret-as=""name"">Martin</say-as>?",i'm leaving for a tai chi class i will be back by lunch i have a nurse stopping in to visit at 12 to 12:30 and then at some point after i eat lunch i'm going to the pool,activity,name,tai chi class,376566ee-88a5-45ad-a338-054c3fbc7e10,1,2023-08-15 14:56:24 UTC,nysofa-erie-0156
+"What's up <say-as interpret-as=""name"">Martin</say-as>?",i'm leaving for a tai chi class i will be back by lunch i have a nurse stopping in to visit at 12 to 12:30 and then at some point after i eat lunch i'm going to the pool,relationship,type,nurse,376566ee-88a5-45ad-a338-054c3fbc7e10,1,2023-08-15 14:56:24 UTC,nysofa-erie-0156
+"What's up <say-as interpret-as=""name"">Martin</say-as>?",i'm leaving for a tai chi class i will be back by lunch i have a nurse stopping in to visit at 12 to 12:30 and then at some point after i eat lunch i'm going to the pool,activity,name,pool,376566ee-88a5-45ad-a338-054c3fbc7e10,1,2023-08-15 14:56:24 UTC,nysofa-erie-0156
+Is there anything special planned for tomorrow?,i've got my computer class and then i'm going to work,activity,type,education,378c2e74-3a04-4651-ad28-d3722e066a2e,1,2023-08-15 14:56:24 UTC,ga-northcarolina-0185
+Is there anything special planned for tomorrow?,i've got my computer class and then i'm going to work,activity,name,computer class,378c2e74-3a04-4651-ad28-d3722e066a2e,1,2023-08-15 14:56:24 UTC,ga-northcarolina-0185
+Is there anything special planned for tomorrow?,i've got my computer class and then i'm going to work,activity,type,work,378c2e74-3a04-4651-ad28-d3722e066a2e,1,2023-08-15 14:56:24 UTC,ga-northcarolina-0185
+are you meeting up with someone?,i'm going to the office,place,name,office,37f6616d-a22c-411d-956c-cfc73bbddbf5,1,2023-08-15 14:56:24 UTC,ir-dev-ori1
+Do you have any important plans for today?,i have a computer class and then i'm going to deliver food,activity,type,education,380a15e9-dacb-41a0-bef6-40ca4a7d4a97,1,2023-08-15 14:56:24 UTC,ga-northcarolina-0185
+Do you have any important plans for today?,i have a computer class and then i'm going to deliver food,activity,name,computer class,380a15e9-dacb-41a0-bef6-40ca4a7d4a97,1,2023-08-15 14:56:24 UTC,ga-northcarolina-0185
+Do you have any important plans for today?,i have a computer class and then i'm going to deliver food,activity,name,deliver food,380a15e9-dacb-41a0-bef6-40ca4a7d4a97,1,2023-08-15 14:56:24 UTC,ga-northcarolina-0185
+How can I help you?,i have a an important doctor appointment in the morning,activity,type,appointment,3815606e-5131-4a9d-bf69-00d2805097ec,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0197
+How can I help you?,i have a an important doctor appointment in the morning,activity,name,doctor appointment,3815606e-5131-4a9d-bf69-00d2805097ec,1,2023-08-15 14:56:24 UTC,nysofa-oneida-0197
+Did you say that you are leaving?,yeah going to the doctor,activity,type,appointment,382c35bf-b0ec-40ce-b81b-8de53cfdc548,1,2023-08-15 14:56:24 UTC,broward-florida-0036
