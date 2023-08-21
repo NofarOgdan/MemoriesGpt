@@ -41,7 +41,6 @@ import pandas as pd
 import openai
 import re
 import time
-api_key = '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'
 openai.api_key = api_key
 
 ds_mem = pd.read_csv("client_based_mems_1.csv")
