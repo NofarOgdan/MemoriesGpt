@@ -1,7 +1,7 @@
 import csv
 
-csv_file_path = 'GPT_only_correct_memory_components_fixed_agent_id_new_group_ids.csv'  # Replace with the path to your CSV file
-output_file_path = 'GPT_only_correct_memory_components_fixed_agent_id_new_group_ids_formatted.txt'  # Replace with the desired output file path
+csv_file_path = 'whole_new_validated_ds_new_group_ids.csv'  # Replace with the path to your CSV file
+output_file_path = 'whole_new_validated_ds_new_group_ids.txt'  # Replace with the desired output file path
 
 with open(csv_file_path, 'r') as csv_file:
     csv_reader = csv.reader(csv_file)

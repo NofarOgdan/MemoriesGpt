@@ -180,7 +180,21 @@ complete_memory_gpt_only_correct_df['user_text'] = correct_gpt_only_items['user_
 complete_memory_gpt_only_correct_df['elliq_text'] = correct_gpt_only_items['elliq_text']
 complete_memory_gpt_only_correct_df['group_id'] = correct_gpt_only_items['group_id']
 full_correct_gpt_only = find_matching_records_in_full_memNet_gpt(complete_memory_gpt_only_correct_df)
-# complete_memory_df.to_csv(index=False, path_or_buf="correct_gpt_memory_components.csv")
+
+# Fill in the missing values of GPT table
+keys = (full_correct_gpt_only['memory_name'].unique()).tolist()
+values = [7776000000, 10368000000, 0, 10368000000, 0, 0, 0, 0, 10368000000, 0, 0, 0, 0, 10368000000, 7776000000, 0, 0, 0, 7776000000, 0, 10368000000, 0, 10368000000, 0, 10368000000, 7776000000, 10368000000]
+gpt_decay_mapping = {k: v for k, v in zip(keys, values)}
+for i in range(len(full_correct_gpt_only)):
+    full_correct_gpt_only.loc[i, 'decay'] = gpt_decay_mapping[full_correct_gpt_only.loc[i]['memory_name']]
+    full_correct_gpt_only.loc[i, 'id'] = i
+print("heh")
+full_correct_gpt_only.loc[(full_correct_gpt_only['memory_name'] == 'event') & (full_correct_gpt_only['intent']=='iamleaving')]['decay'] = 10368000000
+
+# Unit the full GPT and MemNet dataFrame into the complete flawless outstanding whole_new_validated_ds
+whole_new_validated_ds = pd.concat([full_correct_gpt_only, full_correct_memNet], ignore_index=True).drop_duplicates()
+whole_new_validated_ds = whole_new_validated_ds.sort_values(by=['group_id','id'])
+whole_new_validated_ds.to_csv(index=False, path_or_buf="whole_new_validated_ds.csv")
 
 # Visualization (histograms) of memory_name and entity
 
@@ -204,7 +218,7 @@ plt.show()
 print("HE")
 
 # Group the data by the two non-numeric parameters and count their frequencies
-grouped_correct_gpt = complete_memory_gpt_correct_df.groupby(['memory_name', 'entity']).size().reset_index(name='frequency')
+grouped_correct_gpt = full_correct_gpt_only.groupby(['memory_name', 'entity']).size().reset_index(name='frequency')
 grouped_gpt = complete_memory_gpt_df.groupby(['memory_name', 'entity']).size().reset_index(name='frequency')
 # Pivot the data to create a pivot table for plotting
 pivot_table_correct_gpt = grouped_correct_gpt.pivot(index='memory_name', columns='entity', values='frequency')

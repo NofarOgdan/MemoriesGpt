@@ -8,11 +8,6 @@ import time
 import re
 
 # Using completion of GPT4
-openai.api_type = "azure"
-openai.api_version = "2023-03-15-preview"
-openai.api_base = os.getenv("OPENAI_API_BASE", "https://ir-openai.openai.azure.com/")
-openai.api_key = os.getenv("AZURE_OPENAI_API_KEY", "a56aad9e956e4197815b0bc5cf3942c4")
-model = os.getenv("AZURE_OPENAI_MODEL", "ir-gpt-4")  # other options are ir-gpt-35 or ir-gpt-4-32k
 
 
 def collect_valid(df, items):
